@@ -1,0 +1,1837 @@
+Computation with omega =  0
+Error init = 0.5, Eq: N=n0 Dom: 1 Bounday: 2
+DOF / rank = 1144 x 1144 / 72 = 18176.9
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 1.65673 / 1.64126 / 1.66402 seconds (avg/min/max)
+Inverting the matrix: 4.59891 seconds
+Distributing solution: 0.036524 seconds
+Newton iteration 1 0.5
+Error init = 0.0722918, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+DOF / rank = 1144 x 1144 / 72 = 18176.9
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 2.0599 / 2.03962 / 2.09028 seconds (avg/min/max)
+Inverting the matrix: 2.61096 seconds
+Distributing solution: 0.0018825 seconds
+Newton iteration 2 0.0722918
+Error init = 0.081074, Eq: D_j A^ij + 6 * A^ij * D_j P / P =0 Dom: 1 Bounday: -1
+DOF / rank = 1144 x 1144 / 72 = 18176.9
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 2.1589 / 2.14219 / 2.1674 seconds (avg/min/max)
+Inverting the matrix: 1.43432 seconds
+Distributing solution: 0.0015536 seconds
+Newton iteration 3 0.081074
+Error init = 0.00173179, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+DOF / rank = 1144 x 1144 / 72 = 18176.9
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 1.10787 / 1.09012 / 1.11548 seconds (avg/min/max)
+Inverting the matrix: 1.03958 seconds
+Distributing solution: 0.00162382 seconds
+Newton iteration 4 0.00173179
+Error init = 2.80658e-06, Eq: D_j A^ij + 6 * A^ij * D_j P / P =0 Dom: 1 Bounday: -1
+DOF / rank = 1144 x 1144 / 72 = 18176.9
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 1.06811 / 1.05028 / 1.07545 seconds (avg/min/max)
+Inverting the matrix: 0.819956 seconds
+Distributing solution: 0.00157632 seconds
+Newton iteration 5 2.80658e-06
+Error init = 4.78838e-12, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+Newton iteration 6 4.78838e-12
+Computation with omega = 0.005
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.8421 / 22.8235 / 22.8486 seconds (avg/min/max)
+Inverting the matrix: 14.4532 seconds
+Distributing solution: 0.00729525 seconds
+Newton iteration 1 0.005
+Error init = 0.000137418, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9376 / 21.9192 / 21.9803 seconds (avg/min/max)
+Inverting the matrix: 12.798 seconds
+Distributing solution: 0.00703844 seconds
+Newton iteration 2 0.000137418
+Error init = 1.90948e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.949 / 21.9316 / 21.9552 seconds (avg/min/max)
+Inverting the matrix: 19.3204 seconds
+Distributing solution: 0.00649085 seconds
+Newton iteration 3 1.90948e-06
+Error init = 1.4837e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.4837e-11
+Computation with omega = 0.01
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0248 / 22.0082 / 22.0683 seconds (avg/min/max)
+Inverting the matrix: 12.9601 seconds
+Distributing solution: 1.14937 seconds
+Newton iteration 1 0.005
+Error init = 0.000138815, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0382 / 22.0198 / 22.0671 seconds (avg/min/max)
+Inverting the matrix: 13.0063 seconds
+Distributing solution: 0.00702277 seconds
+Newton iteration 2 0.000138815
+Error init = 1.39741e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0262 / 22.008 / 22.0527 seconds (avg/min/max)
+Inverting the matrix: 11.178 seconds
+Distributing solution: 1.77913 seconds
+Newton iteration 3 1.39741e-06
+Error init = 2.68104e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.68104e-12
+Computation with omega = 0.015
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0234 / 22.0047 / 22.0651 seconds (avg/min/max)
+Inverting the matrix: 11.7915 seconds
+Distributing solution: 0.00677819 seconds
+Newton iteration 1 0.005
+Error init = 0.000142587, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0865 / 22.068 / 22.0928 seconds (avg/min/max)
+Inverting the matrix: 12.9661 seconds
+Distributing solution: 0.00662364 seconds
+Newton iteration 2 0.000142587
+Error init = 1.41698e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9924 / 21.9741 / 22.037 seconds (avg/min/max)
+Inverting the matrix: 12.0169 seconds
+Distributing solution: 0.00656543 seconds
+Newton iteration 3 1.41698e-06
+Error init = 5.45843e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 5.45843e-12
+Computation with omega = 0.02
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0529 / 22.0365 / 22.0585 seconds (avg/min/max)
+Inverting the matrix: 12.158 seconds
+Distributing solution: 0.00738852 seconds
+Newton iteration 1 0.005
+Error init = 0.000148872, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.1117 / 22.095 / 22.1175 seconds (avg/min/max)
+Inverting the matrix: 12.9351 seconds
+Distributing solution: 0.00659339 seconds
+Newton iteration 2 0.000148872
+Error init = 1.44774e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0328 / 22.0131 / 22.074 seconds (avg/min/max)
+Inverting the matrix: 14.9811 seconds
+Distributing solution: 0.00663683 seconds
+Newton iteration 3 1.44774e-06
+Error init = 7.41064e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 7.41064e-12
+Computation with omega = 0.025
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0689 / 22.0497 / 22.0968 seconds (avg/min/max)
+Inverting the matrix: 12.7232 seconds
+Distributing solution: 0.00756424 seconds
+Newton iteration 1 0.005
+Error init = 0.000157731, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9783 / 21.9614 / 21.9844 seconds (avg/min/max)
+Inverting the matrix: 15.6024 seconds
+Distributing solution: 0.00667861 seconds
+Newton iteration 2 0.000157731
+Error init = 1.49e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.989 / 21.9718 / 21.9952 seconds (avg/min/max)
+Inverting the matrix: 12.0701 seconds
+Distributing solution: 0.00681032 seconds
+Newton iteration 3 1.49e-06
+Error init = 2.82413e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 4 2.82413e-12
+Computation with omega = 0.03
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0099 / 21.9935 / 22.0158 seconds (avg/min/max)
+Inverting the matrix: 13.6736 seconds
+Distributing solution: 0.00643964 seconds
+Newton iteration 1 0.005
+Error init = 0.000169259, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0178 / 22.0001 / 22.0237 seconds (avg/min/max)
+Inverting the matrix: 12.8676 seconds
+Distributing solution: 0.00728628 seconds
+Newton iteration 2 0.000169259
+Error init = 1.54429e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.3296 / 22.3121 / 22.3609 seconds (avg/min/max)
+Inverting the matrix: 15.1687 seconds
+Distributing solution: 0.00682574 seconds
+Newton iteration 3 1.54429e-06
+Error init = 6.40698e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 6.40698e-12
+Computation with omega = 0.035
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 24.2559 / 24.2362 / 24.3004 seconds (avg/min/max)
+Inverting the matrix: 13.041 seconds
+Distributing solution: 0.00656345 seconds
+Newton iteration 1 0.005
+Error init = 0.000183576, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0743 / 22.0578 / 22.0802 seconds (avg/min/max)
+Inverting the matrix: 13.4314 seconds
+Distributing solution: 0.430676 seconds
+Newton iteration 2 0.000183576
+Error init = 1.61166e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9962 / 21.9759 / 22.0374 seconds (avg/min/max)
+Inverting the matrix: 12.0177 seconds
+Distributing solution: 0.00981218 seconds
+Newton iteration 3 1.61166e-06
+Error init = 3.37664e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.37664e-12
+Computation with omega = 0.04
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9564 / 21.938 / 21.9828 seconds (avg/min/max)
+Inverting the matrix: 13.4711 seconds
+Distributing solution: 0.00674541 seconds
+Newton iteration 1 0.005
+Error init = 0.000200836, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0475 / 22.0266 / 22.0923 seconds (avg/min/max)
+Inverting the matrix: 13.0891 seconds
+Distributing solution: 0.00735416 seconds
+Newton iteration 2 0.000200836
+Error init = 1.6938e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9604 / 21.9417 / 22.0043 seconds (avg/min/max)
+Inverting the matrix: 22.855 seconds
+Distributing solution: 0.00676234 seconds
+Newton iteration 3 1.6938e-06
+Error init = 5.96848e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 5.96848e-12
+Computation with omega = 0.045
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9919 / 21.9727 / 22.0149 seconds (avg/min/max)
+Inverting the matrix: 14.179 seconds
+Distributing solution: 0.0068498 seconds
+Newton iteration 1 0.005
+Error init = 0.000275714, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0188 / 22.0008 / 22.0633 seconds (avg/min/max)
+Inverting the matrix: 14.6087 seconds
+Distributing solution: 0.0063646 seconds
+Newton iteration 2 0.000275714
+Error init = 1.79344e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9678 / 21.9501 / 21.9739 seconds (avg/min/max)
+Inverting the matrix: 14.0219 seconds
+Distributing solution: 0.00680285 seconds
+Newton iteration 3 1.79344e-06
+Error init = 2.20969e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.20969e-12
+Computation with omega = 0.05
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9652 / 21.9468 / 21.9941 seconds (avg/min/max)
+Inverting the matrix: 13.2737 seconds
+Distributing solution: 0.00891108 seconds
+Newton iteration 1 0.005
+Error init = 0.000384669, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0322 / 22.0146 / 22.0384 seconds (avg/min/max)
+Inverting the matrix: 11.0583 seconds
+Distributing solution: 0.00677093 seconds
+Newton iteration 2 0.000384669
+Error init = 1.91452e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9966 / 21.9795 / 22.0029 seconds (avg/min/max)
+Inverting the matrix: 11.8614 seconds
+Distributing solution: 0.00759746 seconds
+Newton iteration 3 1.91452e-06
+Error init = 2.32372e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 4 2.32372e-12
+Computation with omega = 0.055
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9961 / 21.9789 / 22.0019 seconds (avg/min/max)
+Inverting the matrix: 13.2399 seconds
+Distributing solution: 0.00669174 seconds
+Newton iteration 1 0.005
+Error init = 0.000511042, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0418 / 22.0219 / 22.0832 seconds (avg/min/max)
+Inverting the matrix: 12.5116 seconds
+Distributing solution: 0.00688678 seconds
+Newton iteration 2 0.000511042
+Error init = 2.06228e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.978 / 21.9604 / 22.0222 seconds (avg/min/max)
+Inverting the matrix: 13.2539 seconds
+Distributing solution: 0.00742623 seconds
+Newton iteration 3 2.06228e-06
+Error init = 6.21037e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 4 6.21037e-12
+Computation with omega = 0.06
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0065 / 21.9894 / 22.0123 seconds (avg/min/max)
+Inverting the matrix: 14.0336 seconds
+Distributing solution: 0.00645529 seconds
+Newton iteration 1 0.005
+Error init = 0.000656744, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9792 / 21.9609 / 21.9855 seconds (avg/min/max)
+Inverting the matrix: 11.4409 seconds
+Distributing solution: 0.00780267 seconds
+Newton iteration 2 0.000656744
+Error init = 2.2429e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0491 / 22.0315 / 22.055 seconds (avg/min/max)
+Inverting the matrix: 12.9153 seconds
+Distributing solution: 0.00684773 seconds
+Newton iteration 3 2.2429e-06
+Error init = 5.30023e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 4 5.30023e-12
+Computation with omega = 0.065
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9535 / 21.9344 / 21.9806 seconds (avg/min/max)
+Inverting the matrix: 12.1586 seconds
+Distributing solution: 0.00676961 seconds
+Newton iteration 1 0.005
+Error init = 0.000824106, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0184 / 21.9988 / 22.0464 seconds (avg/min/max)
+Inverting the matrix: 10.7963 seconds
+Distributing solution: 0.00778084 seconds
+Newton iteration 2 0.000824106
+Error init = 2.46258e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0004 / 21.9836 / 22.0062 seconds (avg/min/max)
+Inverting the matrix: 14.5012 seconds
+Distributing solution: 0.00636536 seconds
+Newton iteration 3 2.46258e-06
+Error init = 1.80227e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.80227e-12
+Computation with omega = 0.07
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.1238 / 22.1072 / 22.1293 seconds (avg/min/max)
+Inverting the matrix: 14.4471 seconds
+Distributing solution: 0.00648609 seconds
+Newton iteration 1 0.005
+Error init = 0.00101594, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0285 / 22.0117 / 22.0345 seconds (avg/min/max)
+Inverting the matrix: 13.3009 seconds
+Distributing solution: 0.00637467 seconds
+Newton iteration 2 0.00101594
+Error init = 2.72671e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9958 / 21.9761 / 22.0023 seconds (avg/min/max)
+Inverting the matrix: 12.279 seconds
+Distributing solution: 0.00674283 seconds
+Newton iteration 3 2.72671e-06
+Error init = 8.34976e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 8.34976e-12
+Computation with omega = 0.075
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7176 / 21.7005 / 21.7235 seconds (avg/min/max)
+Inverting the matrix: 14.723 seconds
+Distributing solution: 0.00852325 seconds
+Newton iteration 1 0.005
+Error init = 0.00123557, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7383 / 21.7212 / 21.7442 seconds (avg/min/max)
+Inverting the matrix: 10.8626 seconds
+Distributing solution: 0.00646866 seconds
+Newton iteration 2 0.00123557
+Error init = 3.0394e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7594 / 21.7415 / 21.7656 seconds (avg/min/max)
+Inverting the matrix: 12.2143 seconds
+Distributing solution: 0.00650214 seconds
+Newton iteration 3 3.0394e-06
+Error init = 5.2093e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 5.2093e-12
+Computation with omega = 0.08
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0482 / 22.0305 / 22.0923 seconds (avg/min/max)
+Inverting the matrix: 11.9536 seconds
+Distributing solution: 0.106763 seconds
+Newton iteration 1 0.005
+Error init = 0.00148692, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8382 / 21.8198 / 21.8443 seconds (avg/min/max)
+Inverting the matrix: 16.9145 seconds
+Distributing solution: 0.00650841 seconds
+Newton iteration 2 0.00148692
+Error init = 3.40453e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8857 / 21.8666 / 21.9135 seconds (avg/min/max)
+Inverting the matrix: 19.4496 seconds
+Distributing solution: 0.00639915 seconds
+Newton iteration 3 3.40453e-06
+Error init = 1.67408e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.67408e-11
+Computation with omega = 0.085
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7674 / 21.7489 / 21.7956 seconds (avg/min/max)
+Inverting the matrix: 11.9378 seconds
+Distributing solution: 0.00637397 seconds
+Newton iteration 1 0.005
+Error init = 0.00177458, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8382 / 21.8219 / 21.8435 seconds (avg/min/max)
+Inverting the matrix: 13.6792 seconds
+Distributing solution: 0.00646325 seconds
+Newton iteration 2 0.00177458
+Error init = 3.82778e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8753 / 21.8581 / 21.8815 seconds (avg/min/max)
+Inverting the matrix: 12.9126 seconds
+Distributing solution: 0.00639701 seconds
+Newton iteration 3 3.82778e-06
+Error init = 3.77654e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.77654e-11
+Computation with omega = 0.09
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8936 / 21.876 / 21.8999 seconds (avg/min/max)
+Inverting the matrix: 13.356 seconds
+Distributing solution: 0.0064671 seconds
+Newton iteration 1 0.005
+Error init = 0.00210391, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8158 / 21.7794 / 21.9944 seconds (avg/min/max)
+Inverting the matrix: 12.2799 seconds
+Distributing solution: 0.00641128 seconds
+Newton iteration 2 0.00210391
+Error init = 4.31942e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7654 / 21.7478 / 21.7712 seconds (avg/min/max)
+Inverting the matrix: 12.2531 seconds
+Distributing solution: 0.00680019 seconds
+Newton iteration 3 4.31942e-06
+Error init = 8.83722e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 8.83722e-11
+Computation with omega = 0.095
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8723 / 21.8526 / 21.9162 seconds (avg/min/max)
+Inverting the matrix: 17.5807 seconds
+Distributing solution: 0.00660831 seconds
+Newton iteration 1 0.005
+Error init = 0.00248129, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8278 / 21.8058 / 21.8703 seconds (avg/min/max)
+Inverting the matrix: 12.2185 seconds
+Distributing solution: 0.00650702 seconds
+Newton iteration 2 0.00248129
+Error init = 4.89701e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8293 / 21.8125 / 21.8351 seconds (avg/min/max)
+Inverting the matrix: 9.39065 seconds
+Distributing solution: 0.00646194 seconds
+Newton iteration 3 4.89701e-06
+Error init = 1.83062e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.83062e-10
+Computation with omega = 0.1
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8663 / 21.8465 / 21.8949 seconds (avg/min/max)
+Inverting the matrix: 14.5134 seconds
+Distributing solution: 0.00641713 seconds
+Newton iteration 1 0.005
+Error init = 0.00291454, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8089 / 21.7898 / 21.8383 seconds (avg/min/max)
+Inverting the matrix: 13.0181 seconds
+Distributing solution: 0.00643452 seconds
+Newton iteration 2 0.00291454
+Error init = 5.58749e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8426 / 21.8239 / 21.8873 seconds (avg/min/max)
+Inverting the matrix: 17.3975 seconds
+Distributing solution: 0.00650631 seconds
+Newton iteration 3 5.58749e-06
+Error init = 3.75192e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.75192e-10
+Computation with omega = 0.105
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.3272 / 22.3088 / 22.3713 seconds (avg/min/max)
+Inverting the matrix: 13.3946 seconds
+Distributing solution: 0.0065232 seconds
+Newton iteration 1 0.005
+Error init = 0.00341338, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8686 / 21.8511 / 21.8748 seconds (avg/min/max)
+Inverting the matrix: 13.6179 seconds
+Distributing solution: 0.00651766 seconds
+Newton iteration 2 0.00341338
+Error init = 6.42948e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8182 / 21.7978 / 21.825 seconds (avg/min/max)
+Inverting the matrix: 15.4339 seconds
+Distributing solution: 0.00641295 seconds
+Newton iteration 3 6.42948e-06
+Error init = 7.02629e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 7.02629e-10
+Computation with omega = 0.11
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7899 / 21.7717 / 21.818 seconds (avg/min/max)
+Inverting the matrix: 12.2967 seconds
+Distributing solution: 0.00669002 seconds
+Newton iteration 1 0.005
+Error init = 0.00399023, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8085 / 21.5913 / 21.8552 seconds (avg/min/max)
+Inverting the matrix: 14.7951 seconds
+Distributing solution: 0.00694004 seconds
+Newton iteration 2 0.00399023
+Error init = 7.4765e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8548 / 21.8366 / 21.8608 seconds (avg/min/max)
+Inverting the matrix: 15.6723 seconds
+Distributing solution: 0.00636168 seconds
+Newton iteration 3 7.4765e-06
+Error init = 1.25801e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.25801e-09
+Computation with omega = 0.115
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8832 / 21.8648 / 21.9112 seconds (avg/min/max)
+Inverting the matrix: 16.2571 seconds
+Distributing solution: 0.00670389 seconds
+Newton iteration 1 0.005
+Error init = 0.00466122, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8005 / 21.7833 / 21.8061 seconds (avg/min/max)
+Inverting the matrix: 13.362 seconds
+Distributing solution: 0.00641064 seconds
+Newton iteration 2 0.00466122
+Error init = 8.80259e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8615 / 21.8446 / 21.8675 seconds (avg/min/max)
+Inverting the matrix: 16.3849 seconds
+Distributing solution: 0.00703695 seconds
+Newton iteration 3 8.80259e-06
+Error init = 2.19186e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.19186e-09
+Computation with omega = 0.12
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8293 / 21.7799 / 21.8361 seconds (avg/min/max)
+Inverting the matrix: 13.1292 seconds
+Distributing solution: 0.00642785 seconds
+Newton iteration 1 0.005
+Error init = 0.00544759, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 23.0888 / 23.071 / 23.1332 seconds (avg/min/max)
+Inverting the matrix: 12.0797 seconds
+Distributing solution: 0.00639625 seconds
+Newton iteration 2 0.00544759
+Error init = 1.05122e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9186 / 21.8996 / 21.9252 seconds (avg/min/max)
+Inverting the matrix: 12.4795 seconds
+Distributing solution: 0.518312 seconds
+Newton iteration 3 1.05122e-05
+Error init = 3.69198e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.69198e-09
+Computation with omega = 0.125
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.852 / 21.8331 / 21.8778 seconds (avg/min/max)
+Inverting the matrix: 16.2961 seconds
+Distributing solution: 0.00664119 seconds
+Newton iteration 1 0.005
+Error init = 0.00637778, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8582 / 21.8411 / 21.8639 seconds (avg/min/max)
+Inverting the matrix: 15.1762 seconds
+Distributing solution: 0.00617152 seconds
+Newton iteration 2 0.00637778
+Error init = 1.27569e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8763 / 21.8596 / 21.8823 seconds (avg/min/max)
+Inverting the matrix: 14.9287 seconds
+Distributing solution: 0.00670378 seconds
+Newton iteration 3 1.27569e-05
+Error init = 6.18843e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 6.18843e-09
+Computation with omega = 0.13
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.2855 / 22.2675 / 22.2916 seconds (avg/min/max)
+Inverting the matrix: 16.0879 seconds
+Distributing solution: 0.00768397 seconds
+Newton iteration 1 0.005
+Error init = 0.00749043, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9929 / 21.7719 / 22.0254 seconds (avg/min/max)
+Inverting the matrix: 14.3983 seconds
+Distributing solution: 0.00646372 seconds
+Newton iteration 2 0.00749043
+Error init = 1.57648e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7918 / 21.7742 / 21.7976 seconds (avg/min/max)
+Inverting the matrix: 13.9811 seconds
+Distributing solution: 0.00676113 seconds
+Newton iteration 3 1.57648e-05
+Error init = 1.03259e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9055 / 21.8873 / 21.9118 seconds (avg/min/max)
+Inverting the matrix: 12.0644 seconds
+Distributing solution: 0.0064132 seconds
+Newton iteration 4 1.03259e-08
+Error init = 5.80635e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 5.80635e-12
+Computation with omega = 0.135
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8114 / 21.792 / 21.8532 seconds (avg/min/max)
+Inverting the matrix: 12.113 seconds
+Distributing solution: 0.00665908 seconds
+Newton iteration 1 0.005
+Error init = 0.00883915, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9158 / 21.8969 / 21.9572 seconds (avg/min/max)
+Inverting the matrix: 14.1559 seconds
+Distributing solution: 0.00633402 seconds
+Newton iteration 2 0.00883915
+Error init = 1.98933e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8408 / 21.8217 / 21.8471 seconds (avg/min/max)
+Inverting the matrix: 17.4395 seconds
+Distributing solution: 0.00616054 seconds
+Newton iteration 3 1.98933e-05
+Error init = 1.73854e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7843 / 21.7647 / 21.8134 seconds (avg/min/max)
+Inverting the matrix: 12.8689 seconds
+Distributing solution: 0.0066444 seconds
+Newton iteration 4 1.73854e-08
+Error init = 6.20677e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 6.20677e-12
+Computation with omega = 0.14
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.863 / 21.8416 / 21.9082 seconds (avg/min/max)
+Inverting the matrix: 12.0171 seconds
+Distributing solution: 0.00640266 seconds
+Newton iteration 1 0.005
+Error init = 0.0105002, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8695 / 21.8514 / 21.8994 seconds (avg/min/max)
+Inverting the matrix: 17.703 seconds
+Distributing solution: 0.00639613 seconds
+Newton iteration 2 0.0105002
+Error init = 2.57297e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.781 / 21.762 / 21.8089 seconds (avg/min/max)
+Inverting the matrix: 17.0745 seconds
+Distributing solution: 0.00654337 seconds
+Newton iteration 3 2.57297e-05
+Error init = 2.98406e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.2028 / 22.1707 / 22.2099 seconds (avg/min/max)
+Inverting the matrix: 13.13 seconds
+Distributing solution: 0.00652263 seconds
+Newton iteration 4 2.98406e-08
+Error init = 2.2824e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 2.2824e-12
+Computation with omega = 0.145
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 25.903 / 25.8848 / 25.9092 seconds (avg/min/max)
+Inverting the matrix: 16.1898 seconds
+Distributing solution: 0.0433401 seconds
+Newton iteration 1 0.005
+Error init = 0.0125857, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.1491 / 22.1308 / 22.1562 seconds (avg/min/max)
+Inverting the matrix: 19.7177 seconds
+Distributing solution: 0.00625721 seconds
+Newton iteration 2 0.0125857
+Error init = 3.43009e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8678 / 21.8498 / 21.8745 seconds (avg/min/max)
+Inverting the matrix: 14.0935 seconds
+Distributing solution: 0.00646926 seconds
+Newton iteration 3 3.43009e-05
+Error init = 5.28555e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8466 / 21.8273 / 21.8531 seconds (avg/min/max)
+Inverting the matrix: 15.1584 seconds
+Distributing solution: 0.00651078 seconds
+Newton iteration 4 5.28555e-08
+Error init = 3.1873e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 3.1873e-12
+Computation with omega = 0.15
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8737 / 21.8563 / 21.8799 seconds (avg/min/max)
+Inverting the matrix: 12.439 seconds
+Distributing solution: 0.00667207 seconds
+Newton iteration 1 0.005
+Error init = 0.0152674, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8469 / 21.5579 / 21.9813 seconds (avg/min/max)
+Inverting the matrix: 11.0653 seconds
+Distributing solution: 0.00653458 seconds
+Newton iteration 2 0.0152674
+Error init = 4.75743e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.189 / 22.1696 / 22.1984 seconds (avg/min/max)
+Inverting the matrix: 19.4002 seconds
+Distributing solution: 0.00685918 seconds
+Newton iteration 3 4.75743e-05
+Error init = 9.77783e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7918 / 21.7742 / 21.7979 seconds (avg/min/max)
+Inverting the matrix: 14.4841 seconds
+Distributing solution: 0.00681425 seconds
+Newton iteration 4 9.77783e-08
+Error init = 2.4362e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 2.4362e-12
+Computation with omega = 0.155
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9494 / 21.9312 / 21.9556 seconds (avg/min/max)
+Inverting the matrix: 16.3204 seconds
+Distributing solution: 0.00679385 seconds
+Newton iteration 1 0.005
+Error init = 0.0188267, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8596 / 21.841 / 21.9043 seconds (avg/min/max)
+Inverting the matrix: 14.782 seconds
+Distributing solution: 0.00658525 seconds
+Newton iteration 2 0.0188267
+Error init = 6.63025e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.1294 / 22.112 / 22.1356 seconds (avg/min/max)
+Inverting the matrix: 17.5773 seconds
+Distributing solution: 0.00652441 seconds
+Newton iteration 3 6.63025e-05
+Error init = 2.66757e-07, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.0221 / 22.0021 / 22.029 seconds (avg/min/max)
+Inverting the matrix: 14.9719 seconds
+Distributing solution: 0.00656572 seconds
+Newton iteration 4 2.66757e-07
+Error init = 4.78964e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 4.78964e-10
+Computation with omega = 0.16
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9174 / 21.8984 / 21.9623 seconds (avg/min/max)
+Inverting the matrix: 11.7331 seconds
+Distributing solution: 0.00644485 seconds
+Newton iteration 1 0.005
+Error init = 0.0249192, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8501 / 21.832 / 21.8953 seconds (avg/min/max)
+Inverting the matrix: 13.4541 seconds
+Distributing solution: 0.00672517 seconds
+Newton iteration 2 0.0249192
+Error init = 0.000216635, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9033 / 21.884 / 21.9335 seconds (avg/min/max)
+Inverting the matrix: 15.382 seconds
+Distributing solution: 0.00667579 seconds
+Newton iteration 3 0.000216635
+Error init = 3.46259e-07, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9234 / 21.9037 / 21.9298 seconds (avg/min/max)
+Inverting the matrix: 14.5611 seconds
+Distributing solution: 0.00647794 seconds
+Newton iteration 4 3.46259e-07
+Error init = 4.15615e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 4.15615e-12
+Computation with omega = 0.165
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9588 / 21.9399 / 21.986 seconds (avg/min/max)
+Inverting the matrix: 14.8464 seconds
+Distributing solution: 0.00668636 seconds
+Newton iteration 1 0.005
+Error init = 0.0309353, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9006 / 21.8806 / 21.9423 seconds (avg/min/max)
+Inverting the matrix: 13.5376 seconds
+Distributing solution: 0.00654548 seconds
+Newton iteration 2 0.0309353
+Error init = 0.000197021, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.955 / 21.7347 / 22.0013 seconds (avg/min/max)
+Inverting the matrix: 17.8877 seconds
+Distributing solution: 0.00647858 seconds
+Newton iteration 3 0.000197021
+Error init = 1.05995e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8907 / 21.8746 / 21.8962 seconds (avg/min/max)
+Inverting the matrix: 16.072 seconds
+Distributing solution: 0.00672655 seconds
+Newton iteration 4 1.05995e-06
+Error init = 3.40664e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 3.40664e-12
+Computation with omega = 0.17
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8501 / 21.8325 / 21.878 seconds (avg/min/max)
+Inverting the matrix: 14.0458 seconds
+Distributing solution: 0.00679459 seconds
+Newton iteration 1 0.005
+Error init = 0.0425111, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9031 / 21.8835 / 21.9452 seconds (avg/min/max)
+Inverting the matrix: 12.9731 seconds
+Distributing solution: 0.00641944 seconds
+Newton iteration 2 0.0425111
+Error init = 0.000438814, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8718 / 21.8527 / 21.8783 seconds (avg/min/max)
+Inverting the matrix: 13.5643 seconds
+Distributing solution: 0.00626396 seconds
+Newton iteration 3 0.000438814
+Error init = 3.61013e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8406 / 21.822 / 21.8852 seconds (avg/min/max)
+Inverting the matrix: 11.9176 seconds
+Distributing solution: 0.00732365 seconds
+Newton iteration 4 3.61013e-06
+Error init = 2.80186e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 2.80186e-12
+Computation with omega = 0.175
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9205 / 21.8999 / 21.9469 seconds (avg/min/max)
+Inverting the matrix: 14.612 seconds
+Distributing solution: 0.00642512 seconds
+Newton iteration 1 0.005
+Error init = 0.0643628, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9856 / 21.966 / 21.9919 seconds (avg/min/max)
+Inverting the matrix: 15.6479 seconds
+Distributing solution: 0.00664878 seconds
+Newton iteration 2 0.0643628
+Error init = 0.0015708, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8173 / 21.7983 / 21.8449 seconds (avg/min/max)
+Inverting the matrix: 13.6441 seconds
+Distributing solution: 0.0062077 seconds
+Newton iteration 3 0.0015708
+Error init = 3.18283e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8235 / 21.8039 / 21.8672 seconds (avg/min/max)
+Inverting the matrix: 11.854 seconds
+Distributing solution: 0.00654856 seconds
+Newton iteration 4 3.18283e-05
+Error init = 6.51449e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 6.51449e-10
+Computation with omega = 0.18
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8175 / 21.8016 / 21.8235 seconds (avg/min/max)
+Inverting the matrix: 21.1098 seconds
+Distributing solution: 0.00631086 seconds
+Newton iteration 1 0.005
+Error init = 0.126601, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9431 / 21.9236 / 21.9744 seconds (avg/min/max)
+Inverting the matrix: 15.2464 seconds
+Distributing solution: 0.0436151 seconds
+Newton iteration 2 0.126601
+Error init = 0.0397935, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8528 / 21.8356 / 21.8963 seconds (avg/min/max)
+Inverting the matrix: 14.8568 seconds
+Distributing solution: 0.00661779 seconds
+Newton iteration 3 0.0397935
+Error init = 0.35336, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8631 / 21.8432 / 21.8964 seconds (avg/min/max)
+Inverting the matrix: 12.6329 seconds
+Distributing solution: 0.00648619 seconds
+Newton iteration 4 0.35336
+Error init = 0.212027, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9511 / 21.9338 / 21.9571 seconds (avg/min/max)
+Inverting the matrix: 12.4014 seconds
+Distributing solution: 0.00654659 seconds
+Newton iteration 5 0.212027
+Error init = 0.00733629, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.989 / 21.9686 / 22.0117 seconds (avg/min/max)
+Inverting the matrix: 12.3261 seconds
+Distributing solution: 0.00653367 seconds
+Newton iteration 6 0.00733629
+Error init = 0.0476673, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8146 / 21.7967 / 21.8204 seconds (avg/min/max)
+Inverting the matrix: 15.4454 seconds
+Distributing solution: 0.00658154 seconds
+Newton iteration 7 0.0476673
+Error init = 0.104519, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 22.1966 / 21.9818 / 22.3598 seconds (avg/min/max)
+Inverting the matrix: 14.3466 seconds
+Distributing solution: 0.0286762 seconds
+Newton iteration 8 0.104519
+Error init = 0.0824375, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 28.156 / 28.1354 / 28.1863 seconds (avg/min/max)
+Inverting the matrix: 12.3605 seconds
+Distributing solution: 0.00662959 seconds
+Newton iteration 9 0.0824375
+Error init = 0.130845, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.7874 / 21.7703 / 21.7929 seconds (avg/min/max)
+Inverting the matrix: 14.2468 seconds
+Distributing solution: 0.00660752 seconds
+Newton iteration 10 0.130845
+Error init = 0.0803207, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.8713 / 21.8524 / 21.9143 seconds (avg/min/max)
+Inverting the matrix: 12.766 seconds
+Distributing solution: 0.00654077 seconds
+Newton iteration 11 0.0803207
+Error init = 67.6552, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9039 / 21.8544 / 22.0741 seconds (avg/min/max)
+Inverting the matrix: 11.6385 seconds
+Distributing solution: 0.00655655 seconds
+Newton iteration 12 67.6552
+Error init = 1.61269e+26, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 2508 x 2508 / 72 = 87362
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 21.9532 / 21.9357 / 21.9593 seconds (avg/min/max)
+Jacobian is singular! Stopping.
+[node163:117816] *** Process received signal ***
+[node163:117816] Signal: Aborted (6)
+[node163:117816] Signal code:  (-6)
+[node163:117780] *** Process received signal ***
+[node163:117780] Signal: Aborted (6)
+[node163:117780] Signal code:  (-6)
+[node163:117781] *** Process received signal ***
+[node163:117781] Signal: Aborted (6)
+[node163:117781] Signal code:  (-6)
+[node163:117782] *** Process received signal ***
+[node163:117782] Signal: Aborted (6)
+[node163:117782] Signal code:  (-6)
+[node163:117783] *** Process received signal ***
+[node163:117783] Signal: Aborted (6)
+[node163:117783] Signal code:  (-6)
+[node163:117784] *** Process received signal ***
+[node163:117784] Signal: Aborted (6)
+[node163:117784] Signal code:  (-6)
+[node163:117788] *** Process received signal ***
+[node163:117788] Signal: Aborted (6)
+[node163:117788] Signal code:  (-6)
+[node163:117792] *** Process received signal ***
+[node163:117792] Signal: Aborted (6)
+[node163:117792] Signal code:  (-6)
+[node163:117790] *** Process received signal ***
+[node163:117790] Signal: Aborted (6)
+[node163:117790] Signal code:  (-6)
+[node163:117785] *** Process received signal ***
+[node163:117785] Signal: Aborted (6)
+[node163:117785] Signal code:  (-6)
+[node163:117791] *** Process received signal ***
+[node163:117791] Signal: Aborted (6)
+[node163:117791] Signal code:  (-6)
+[node163:117795] *** Process received signal ***
+[node163:117795] Signal: Aborted (6)
+[node163:117795] Signal code:  (-6)
+[node163:117794] *** Process received signal ***
+[node163:117794] Signal: Aborted (6)
+[node163:117794] Signal code:  (-6)
+[node163:117786] *** Process received signal ***
+[node163:117786] Signal: Aborted (6)
+[node163:117786] Signal code:  (-6)
+[node163:117796] *** Process received signal ***
+[node163:117796] Signal: Aborted (6)
+[node163:117796] Signal code:  (-6)
+[node163:117799] *** Process received signal ***
+[node163:117799] Signal: Aborted (6)
+[node163:117799] Signal code:  (-6)
+[node163:117798] *** Process received signal ***
+[node163:117798] Signal: Aborted (6)
+[node163:117798] Signal code:  (-6)
+[node163:117787] *** Process received signal ***
+[node163:117787] Signal: Aborted (6)
+[node163:117787] Signal code:  (-6)
+[node163:117800] *** Process received signal ***
+[node163:117800] Signal: Aborted (6)
+[node163:117800] Signal code:  (-6)
+[node163:117804] *** Process received signal ***
+[node163:117804] Signal: Aborted (6)
+[node163:117804] Signal code:  (-6)
+[node163:117801] *** Process received signal ***
+[node163:117801] Signal: Aborted (6)
+[node163:117801] Signal code:  (-6)
+[node163:117789] *** Process received signal ***
+[node163:117789] Signal: Aborted (6)
+[node163:117789] Signal code:  (-6)
+[node163:117803] *** Process received signal ***
+[node163:117803] Signal: Aborted (6)
+[node163:117803] Signal code:  (-6)
+[node163:117809] *** Process received signal ***
+[node163:117809] Signal: Aborted (6)
+[node163:117809] Signal code:  (-6)
+[node163:117807] *** Process received signal ***
+[node163:117807] Signal: Aborted (6)
+[node163:117807] Signal code:  (-6)
+[node163:117793] *** Process received signal ***
+[node163:117793] Signal: Aborted (6)
+[node163:117793] Signal code:  (-6)
+[node163:117808] *** Process received signal ***
+[node163:117808] Signal: Aborted (6)
+[node163:117808] Signal code:  (-6)
+[node163:117813] *** Process received signal ***
+[node163:117813] Signal: Aborted (6)
+[node163:117813] Signal code:  (-6)
+[node163:117810] *** Process received signal ***
+[node163:117810] Signal: Aborted (6)
+[node163:117810] Signal code:  (-6)
+[node163:117797] *** Process received signal ***
+[node163:117797] Signal: Aborted (6)
+[node163:117797] Signal code:  (-6)
+[node163:117811] *** Process received signal ***
+[node163:117811] Signal: Aborted (6)
+[node163:117811] Signal code:  (-6)
+[node163:117817] *** Process received signal ***
+[node163:117817] Signal: Aborted (6)
+[node163:117817] Signal code:  (-6)
+[node163:117812] *** Process received signal ***
+[node163:117812] Signal: Aborted (6)
+[node163:117812] Signal code:  (-6)
+[node163:117802] *** Process received signal ***
+[node163:117802] Signal: Aborted (6)
+[node163:117802] Signal code:  (-6)
+[node163:117814] *** Process received signal ***
+[node163:117814] Signal: Aborted (6)
+[node163:117814] Signal code:  (-6)
+[node163:117818] *** Process received signal ***
+[node163:117818] Signal: Aborted (6)
+[node163:117818] Signal code:  (-6)
+[node164:98279] *** Process received signal ***
+[node164:98279] Signal: Aborted (6)
+[node164:98279] Signal code:  (-6)
+[node164:98293] *** Process received signal ***
+[node164:98259] *** Process received signal ***
+[node164:98259] Signal: Aborted (6)
+[node164:98259] Signal code:  (-6)
+[node164:98260] *** Process received signal ***
+[node164:98260] Signal: Aborted (6)
+[node164:98260] Signal code:  (-6)
+[node164:98264] *** Process received signal ***
+[node164:98264] Signal: Aborted (6)
+[node164:98264] Signal code:  (-6)
+[node164:98266] *** Process received signal ***
+[node164:98266] Signal: Aborted (6)
+[node164:98266] Signal code:  (-6)
+[node164:98263] *** Process received signal ***
+[node164:98263] Signal: Aborted (6)
+[node164:98263] Signal code:  (-6)
+[node164:98265] *** Process received signal ***
+[node164:98265] Signal: Aborted (6)
+[node164:98265] Signal code:  (-6)
+[node164:98268] *** Process received signal ***
+[node164:98268] Signal: Aborted (6)
+[node164:98268] Signal code:  (-6)
+[node164:98270] *** Process received signal ***
+[node164:98270] Signal: Aborted (6)
+[node164:98270] Signal code:  (-6)
+[node164:98267] *** Process received signal ***
+[node164:98267] Signal: Aborted (6)
+[node164:98267] Signal code:  (-6)
+[node164:98269] *** Process received signal ***
+[node164:98269] Signal: Aborted (6)
+[node164:98269] Signal code:  (-6)
+[node164:98272] *** Process received signal ***
+[node164:98272] Signal: Aborted (6)
+[node164:98272] Signal code:  (-6)
+[node164:98274] *** Process received signal ***
+[node164:98274] Signal: Aborted (6)
+[node164:98274] Signal code:  (-6)
+[node164:98271] *** Process received signal ***
+[node164:98271] Signal: Aborted (6)
+[node164:98271] Signal code:  (-6)
+[node164:98273] *** Process received signal ***
+[node164:98273] Signal: Aborted (6)
+[node164:98273] Signal code:  (-6)
+[node164:98275] *** Process received signal ***
+[node164:98275] Signal: Aborted (6)
+[node164:98275] Signal code:  (-6)
+[node164:98282] *** Process received signal ***
+[node164:98282] Signal: Aborted (6)
+[node164:98282] Signal code:  (-6)
+[node164:98276] *** Process received signal ***
+[node164:98276] Signal: Aborted (6)
+[node164:98276] Signal code:  (-6)
+[node164:98281] *** Process received signal ***
+[node164:98281] Signal: Aborted (6)
+[node164:98281] Signal code:  (-6)
+[node164:98280] *** Process received signal ***
+[node164:98280] Signal: Aborted (6)
+[node164:98280] Signal code:  (-6)
+[node164:98287] *** Process received signal ***
+[node164:98287] Signal: Aborted (6)
+[node164:98287] Signal code:  (-6)
+[node164:98299] *** Process received signal ***
+[node164:98299] Signal: Aborted (6)
+[node164:98299] Signal code:  (-6)
+[node164:98286] *** Process received signal ***
+[node164:98286] Signal: Aborted (6)
+[node164:98286] Signal code:  (-6)
+[node164:98284] *** Process received signal ***
+[node164:98284] Signal: Aborted (6)
+[node164:98284] Signal code:  (-6)
+[node164:98291] *** Process received signal ***
+[node164:98291] Signal: Aborted (6)
+[node164:98291] Signal code:  (-6)
+[node164:98283] *** Process received signal ***
+[node164:98283] Signal: Aborted (6)
+[node164:98283] Signal code:  (-6)
+[node164:98290] *** Process received signal ***
+[node164:98290] Signal: Aborted (6)
+[node164:98290] Signal code:  (-6)
+[node164:98288] *** Process received signal ***
+[node164:98288] Signal: Aborted (6)
+[node164:98288] Signal code:  (-6)
+[node164:98289] *** Process received signal ***
+[node164:98289] Signal: Aborted (6)
+[node164:98289] Signal code:  (-6)
+[node164:98294] *** Process received signal ***
+[node164:98294] Signal: Aborted (6)
+[node164:98294] Signal code:  (-6)
+[node164:98292] *** Process received signal ***
+[node164:98292] Signal: Aborted (6)
+[node164:98292] Signal code:  (-6)
+[node164:98297] *** Process received signal ***
+[node164:98297] Signal: Aborted (6)
+[node164:98297] Signal code:  (-6)
+[node164:98296] *** Process received signal ***
+[node164:98296] Signal: Aborted (6)
+[node164:98296] Signal code:  (-6)
+[node164:98298] *** Process received signal ***
+[node164:98298] Signal: Aborted (6)
+[node164:98298] Signal code:  (-6)
+[node164:98295] *** Process received signal ***
+[node164:98295] Signal: Aborted (6)
+[node164:98295] Signal code:  (-6)
+[node164:98293] Signal: Aborted (6)
+[node164:98293] Signal code:  (-6)
+[node164:98270] [node164:98271] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4e195c05d0]
+[node164:98271] [ 1] [node164:98276] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9c534865d0]
+[node164:98276] [ 1] [node164:98280] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2abccfa935d0]
+[node164:98280] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2abccfcd6207]
+[node164:98280] [ 2] [node164:98284] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b47734b95d0]
+[node164:98284] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b47736fc207]
+[node164:98284] [ 2] [node164:98283] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ae4810f85d0]
+[node164:98283] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ae48133b207]
+[node164:98283] [ 2] [node164:98296] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2acd689c15d0]
+[node164:98296] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2acd68c04207]
+[node164:98296] [ 2] [node164:98295] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2acc075c45d0]
+[node164:98295] [ 1] [node164:98259] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b70b70795d0]
+[node164:98259] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b70b72bc207]
+[node164:98259] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b70b72bd8f8]
+[node164:98259] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98259] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98259] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b70b72a83d5]
+[node164:98259] [ 6] ./kerr[0x4474e7]
+[node164:98259] *** End of error message ***
+[node164:98260] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b07a86315d0]
+[node164:98260] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b07a8874207]
+[node164:98260] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b07a88758f8]
+[node164:98260] [ 3] [node164:98264] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b101b2cc5d0]
+[node164:98264] [ 1] [node164:98266] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b3cd74335d0]
+[node164:98266] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b3cd7676207]
+[node164:98266] [ 2] [node164:98263] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ac99f6e75d0]
+[node164:98263] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ac99f92a207]
+[node164:98263] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ac99f92b8f8]
+[node164:98263] [ 3] [node164:98265] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b685b4585d0]
+[node164:98265] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b685b69b207]
+[node164:98265] [ 2] [node164:98268] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b18b3cb85d0]
+[node164:98268] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b18b3efb207]
+[node164:98268] [ 2] [node164:98293] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b6f786735d0]
+[node164:98293] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6f788b6207]
+[node164:98293] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b6f788b78f8]
+[node164:98293] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98293] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98293] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6f788a23d5]
+[node164:98293] [ 6] ./kerr[0x4474e7]
+[node164:98293] *** End of error message ***
+[node164:98269] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b88433bc5d0]
+[node164:98269] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b88435ff207]
+[node164:98269] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b88436008f8]
+[node164:98269] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98269] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98269] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b88435eb3d5]
+[node164:98269] [ 6] ./kerr[0x4474e7]
+[node164:98269] *** End of error message ***
+[node164:98274] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b13a77c55d0]
+[node164:98274] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b13a7a08207]
+[node164:98274] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b13a7a098f8]
+[node164:98274] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98274] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98274] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b13a79f43d5]
+[node164:98274] [ 6] ./kerr[0x4474e7]
+[node164:98274] *** End of error message ***
+[node164:98273] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2aad461c95d0]
+[node164:98273] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aad4640c207]
+[node164:98273] [ 2] /lib64/libc.so.6(abort+0x148)[0x2aad4640d8f8]
+[node164:98273] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98273] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98273] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aad463f83d5]
+[node164:98273] [ 6] ./kerr[0x4474e7]
+[node164:98273] *** End of error message ***
+[node164:98275] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2aef15e195d0]
+[node164:98275] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aef1605c207]
+[node164:98275] [ 2] /lib64/libc.so.6(abort+0x148)[0x2aef1605d8f8]
+[node164:98275] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98275] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98275] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aef160483d5]
+[node164:98275] [ 6] ./kerr[0x4474e7]
+[node164:98275] *** End of error message ***
+[node164:98282] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9a5718d5d0]
+[node164:98282] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9a573d0207]
+[node164:98282] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9a573d18f8]
+[node164:98282] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98282] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98282] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9a573bc3d5]
+[node164:98282] [ 6] ./kerr[0x4474e7]
+[node164:98282] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b4e19803207]
+[node164:98271] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b4e198048f8]
+[node164:98271] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98271] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98271] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4e197ef3d5]
+[node164:98271] [ 6] ./kerr[0x4474e7]
+[node164:98271] *** End of error message ***
+[node164:98281] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4440c5c5d0]
+[node164:98281] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b4440e9f207]
+[node164:98281] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b4440ea08f8]
+[node164:98281] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98281] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98281] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4440e8b3d5]
+[node164:98281] [ 6] ./kerr[0x4474e7]
+[node164:98281] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b9c536c9207]
+[node164:98276] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9c536ca8f8]
+[node164:98276] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98276] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98276] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9c536b53d5]
+[node164:98276] [ 6] ./kerr[0x4474e7]
+[node164:98276] *** End of error message ***
+[node164:98287] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2abdd6af15d0]
+[node164:98287] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2abdd6d34207]
+[node164:98287] [ 2] /lib64/libc.so.6(abort+0x148)[0x2abdd6d358f8]
+[node164:98287] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98287] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98287] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2abdd6d203d5]
+[node164:98287] [ 6] ./kerr[0x4474e7]
+[node164:98287] *** End of error message ***
+[node164:98299] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b0d9a9bf5d0]
+[node164:98299] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b0d9ac02207]
+[node164:98299] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b0d9ac038f8]
+[node164:98299] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98299] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98299] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b0d9abee3d5]
+[node164:98299] [ 6] ./kerr[0x4474e7]
+[node164:98299] *** End of error message ***
+[node164:98286] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2afe3c95d5d0]
+[node164:98286] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2afe3cba0207]
+[node164:98286] [ 2] /lib64/libc.so.6(abort+0x148)[0x2afe3cba18f8]
+[node164:98286] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98286] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98286] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2afe3cb8c3d5]
+[node164:98286] [ 6] ./kerr[0x4474e7]
+[node164:98286] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2abccfcd78f8]
+[node164:98280] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98280] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98280] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2abccfcc23d5]
+[node164:98280] [ 6] ./kerr[0x4474e7]
+[node164:98280] *** End of error message ***
+[node164:98291] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9fac9875d0]
+[node164:98291] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9facbca207]
+[node164:98291] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9facbcb8f8]
+[node164:98291] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98291] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98291] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9facbb63d5]
+[node164:98291] [ 6] ./kerr[0x4474e7]
+[node164:98291] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b47736fd8f8]
+[node164:98284] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98284] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98284] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b47736e83d5]
+[node164:98284] [ 6] ./kerr[0x4474e7]
+[node164:98284] *** End of error message ***
+[node164:98290] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ae97e77e5d0]
+[node164:98290] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ae97e9c1207]
+[node164:98290] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ae97e9c28f8]
+[node164:98290] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98290] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98290] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae97e9ad3d5]
+[node164:98290] [ 6] ./kerr[0x4474e7]
+[node164:98290] *** End of error message ***
+[node164:98279] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9875b4e5d0]
+[node164:98279] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9875d91207]
+[node164:98279] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9875d928f8]
+[node164:98279] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98279] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98279] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9875d7d3d5]
+[node164:98279] [ 6] ./kerr[0x4474e7]
+[node164:98279] *** End of error message ***
+[node164:98288] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b2f1dd9c5d0]
+[node164:98288] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b2f1dfdf207]
+[node164:98288] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b2f1dfe08f8]
+[node164:98288] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98288] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98288] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b2f1dfcb3d5]
+[node164:98288] [ 6] ./kerr[0x4474e7]
+[node164:98288] *** End of error message ***
+[node164:98289] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b291edc45d0]
+[node164:98289] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b291f007207]
+[node164:98289] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b291f0088f8]
+[node164:98289] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98289] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98289] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b291eff33d5]
+[node164:98289] [ 6] ./kerr[0x4474e7]
+[node164:98289] *** End of error message ***
+[node164:98294] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b7271cea5d0]
+[node164:98294] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b7271f2d207]
+[node164:98294] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b7271f2e8f8]
+[node164:98294] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98294] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98294] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7271f193d5]
+[node164:98294] [ 6] ./kerr[0x4474e7]
+[node164:98294] *** End of error message ***
+[node164:98292] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b3782b895d0]
+[node164:98292] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b3782dcc207]
+[node164:98292] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b3782dcd8f8]
+[node164:98292] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98292] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98292] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3782db83d5]
+[node164:98292] [ 6] ./kerr[0x4474e7]
+[node164:98292] *** End of error message ***
+[node164:98297] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2add6c3165d0]
+[node164:98297] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2add6c559207]
+[node164:98297] [ 2] /lib64/libc.so.6(abort+0x148)[0x2add6c55a8f8]
+[node164:98297] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98297] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98297] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2add6c5453d5]
+[node164:98297] [ 6] ./kerr[0x4474e7]
+[node164:98297] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2ae48133c8f8]
+[node164:98283] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98283] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98283] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae4813273d5]
+[node164:98283] [ 6] ./kerr[0x4474e7]
+[node164:98283] *** End of error message ***
+[node164:98298] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b55cf5f55d0]
+[node164:98298] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b55cf838207]
+[node164:98298] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b55cf8398f8]
+[node164:98298] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98298] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98298] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b55cf8243d5]
+[node164:98298] [ 6] ./kerr[0x4474e7]
+[node164:98298] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2acd68c058f8]
+[node164:98296] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98296] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98296] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2acd68bf03d5]
+[node164:98296] [ 6] ./kerr[0x4474e7]
+[node164:98296] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2acc07807207]
+[node164:98295] [ 2] /lib64/libc.so.6(abort+0x148)[0x2acc078088f8]
+[node164:98295] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98295] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98295] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2acc077f33d5]
+[node164:98295] [ 6] ./kerr[0x4474e7]
+[node164:98295] *** End of error message ***
+./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98260] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98260] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b07a88603d5]
+[node164:98260] [ 6] ./kerr[0x4474e7]
+[node164:98260] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b101b50f207]
+[node164:98264] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b101b5108f8]
+[node164:98264] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98264] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98264] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b101b4fb3d5]
+[node164:98264] [ 6] ./kerr[0x4474e7]
+[node164:98264] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b3cd76778f8]
+[node164:98266] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98266] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98266] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3cd76623d5]
+[node164:98266] [ 6] ./kerr[0x4474e7]
+[node164:98266] *** End of error message ***
+./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98263] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98263] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ac99f9163d5]
+[node164:98263] [ 6] ./kerr[0x4474e7]
+[node164:98263] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b685b69c8f8]
+[node164:98265] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98265] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98265] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b685b6873d5]
+[node164:98265] [ 6] ./kerr[0x4474e7]
+[node164:98265] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b18b3efc8f8]
+[node164:98268] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98268] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98268] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b18b3ee73d5]
+[node164:98268] [ 6] ./kerr[0x4474e7]
+[node164:98268] *** End of error message ***
+[node164:98267] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9a179a75d0]
+[node164:98267] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9a17bea207]
+[node164:98267] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9a17beb8f8]
+[node164:98267] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98267] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98267] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9a17bd63d5]
+[node164:98267] [ 6] ./kerr[0x4474e7]
+[node164:98267] *** End of error message ***
+[node164:98272] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ab324bf55d0]
+[node164:98272] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ab324e38207]
+[node164:98272] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ab324e398f8]
+[node164:98272] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98272] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98272] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab324e243d5]
+[node164:98272] [ 6] ./kerr[0x4474e7]
+[node164:98272] *** End of error message ***
+[ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2aabeeb125d0]
+[node164:98270] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aabeed55207]
+[node164:98270] [ 2] /lib64/libc.so.6(abort+0x148)[0x2aabeed568f8]
+[node164:98270] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node164:98270] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node164:98270] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aabeed413d5]
+[node164:98270] [ 6] ./kerr[0x4474e7]
+[node164:98270] *** End of error message ***
+[node163:117800] [ 0] [node163:117804] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b941dc2b5d0]
+[node163:117804] [ 1] [node163:117801] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ada203ca5d0]
+[node163:117801] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ada2060d207]
+[node163:117801] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ada2060e8f8]
+[node163:117801] [ 3] [node163:117803] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2affce5ef5d0]
+[node163:117803] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2affce832207]
+[node163:117808] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b81225615d0]
+[node163:117808] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b81227a4207]
+[node163:117808] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b81227a58f8]
+[node163:117810] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b5d926835d0]
+[node163:117810] [ 1] [node163:117817] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2afd9eaa35d0]
+[node163:117817] [ 1] [node163:117812] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b1e8ca525d0]
+[node163:117812] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b1e8cc95207]
+[node163:117812] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b1e8cc968f8]
+[node163:117812] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117812] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117812] [ 5] [node163:117814] [ 0] [node163:117816] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2af59fe4f5d0]
+[node163:117816] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2af5a0092207]
+[node163:117816] [ 2] [node163:117780] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2abbc97485d0]
+[node163:117781] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b56121ba5d0]
+[node163:117781] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b56123fd207]
+[node163:117781] [ 2] [node163:117782] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b974730e5d0]
+[node163:117782] [ 1] [node163:117783] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b9171c635d0]
+[node163:117783] [ 1] [node163:117784] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ba9070fa5d0]
+[node163:117784] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ba90733d207]
+[node163:117784] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ba90733e8f8]
+[node163:117784] [ 3] [node163:117788] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b3c912545d0]
+[node163:117788] [ 1] [node163:117792] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b00376735d0]
+[node163:117792] [ 1] [node163:117790] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b18cdae95d0]
+[node163:117790] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b18cdd2c207]
+[node163:117790] [ 2] [node163:117785] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b7d1eeeb5d0]
+[node163:117785] [ 1] [node163:117791] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b2c636b75d0]
+[node163:117791] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b2c638fa207]
+[node163:117791] [ 2] [node163:117795] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b8c508185d0]
+[node163:117795] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b8c50a5b207]
+[node163:117795] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b8c50a5c8f8]
+[node163:117795] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117795] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117795] [ 5] [node163:117794] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2aac7e2325d0]
+[node163:117794] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aac7e475207]
+[node163:117794] [ 2] /lib64/libc.so.6(abort+0x148)[0x2aac7e4768f8]
+[node163:117794] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117794] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117794] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aac7e4613d5]
+[node163:117794] [ 6] ./kerr[0x4474e7]
+[node163:117794] *** End of error message ***
+[node163:117786] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b127a6525d0]
+[node163:117786] [ 1] [node163:117796] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b05d3ec85d0]
+[node163:117796] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b05d410b207]
+[node163:117796] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b05d410c8f8]
+[node163:117796] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117796] [ 4] [node163:117799] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4748dce5d0]
+[node163:117799] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b4749011207]
+[node163:117798] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b6dc422c5d0]
+[node163:117798] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6dc446f207]
+[node163:117798] [ 2] [node163:117787] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b03083ef5d0]
+[node163:117787] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b0308632207]
+[node163:117787] [ 2] /lib64/libpthread.so.0(+0xf5d0)[0x2b6bfde0a5d0]
+[node163:117800] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6bfe04d207]
+[node163:117800] [ 2] /lib64/libc.so.6(gsignal+0x37)[0x2b941de6e207]
+[node163:117804] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b941de6f8f8]
+[node163:117804] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117804] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117804] [ 5] [node163:117789] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b51d80755d0]
+[node163:117789] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b51d82b8207]
+[node163:117789] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b51d82b98f8]
+[node163:117789] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117789] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117789] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117801] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117801] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ada205f93d5]
+[node163:117801] [ 6] ./kerr[0x4474e7]
+[node163:117801] *** End of error message ***
+[node163:117807] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ab1183585d0]
+[node163:117807] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ab11859b207]
+[node163:117807] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ab11859c8f8]
+[node163:117807] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117807] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117807] [ 5] [node163:117793] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b7ac5d7a5d0]
+[node163:117793] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b7ac5fbd207]
+[node163:117793] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b7ac5fbe8f8]
+[node163:117793] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117793] [ 4] [node163:117803] [ 2] /lib64/libc.so.6(abort+0x148)[0x2affce8338f8]
+[node163:117803] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117803] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117803] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2affce81e3d5]
+[node163:117803] [ 6] ./kerr[0x4474e7]
+[node163:117803] *** End of error message ***
+[node163:117813] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b74503d85d0]
+[node163:117813] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b745061b207]
+[node163:117813] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b745061c8f8]
+[node163:117813] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117813] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117813] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b74506073d5]
+[node163:117813] [ 6] ./kerr[0x4474e7]
+[node163:117813] *** End of error message ***
+[node163:117808] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117808] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117808] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b81227903d5]
+[node163:117808] [ 6] ./kerr[0x4474e7]
+[node163:117808] *** End of error message ***
+[node163:117797] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4915c445d0]
+[node163:117797] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b4915e87207]
+[node163:117797] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b4915e888f8]
+[node163:117797] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117797] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117797] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4915e733d5]
+[node163:117797] [ 6] ./kerr[0x4474e7]
+[node163:117797] *** End of error message ***
+[node163:117811] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b6c33de55d0]
+[node163:117811] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6c34028207]
+[node163:117811] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b6c340298f8]
+[node163:117811] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117811] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117811] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6c340143d5]
+[node163:117811] [ 6] ./kerr[0x4474e7]
+[node163:117811] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b1e8cc813d5]
+[node163:117812] [ 6] ./kerr[0x4474e7]
+[node163:117812] *** End of error message ***
+/lib64/libpthread.so.0(+0xf5d0)[0x2b4d09eab5d0]
+[node163:117814] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b4d0a0ee207]
+[node163:117814] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b4d0a0ef8f8]
+[node163:117814] [ 3] /lib64/libc.so.6(abort+0x148)[0x2af5a00938f8]
+[node163:117816] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117816] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117816] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2af5a007e3d5]
+[node163:117816] [ 6] ./kerr[0x4474e7]
+[node163:117816] *** End of error message ***
+[node163:117780] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2abbc998b207]
+[node163:117780] [ 2] /lib64/libc.so.6(abort+0x148)[0x2abbc998c8f8]
+[node163:117780] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117780] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117780] [ 5] /lib64/libc.so.6(abort+0x148)[0x2b56123fe8f8]
+[node163:117781] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117781] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117781] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b56123e93d5]
+[node163:117781] [ 6] ./kerr[0x4474e7]
+[node163:117781] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b9747551207]
+[node163:117782] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b97475528f8]
+[node163:117782] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117782] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117782] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b974753d3d5]
+[node163:117782] [ 6] ./kerr[0x4474e7]
+[node163:117782] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b9171ea6207]
+[node163:117783] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9171ea78f8]
+[node163:117783] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117783] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117783] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9171e923d5]
+[node163:117783] [ 6] ./kerr[0x4474e7]
+[node163:117783] *** End of error message ***
+./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117784] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117784] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ba9073293d5]
+[node163:117784] [ 6] ./kerr[0x4474e7]
+[node163:117784] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b3c91497207]
+[node163:117788] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b3c914988f8]
+[node163:117788] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117788] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117788] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3c914833d5]
+[node163:117788] [ 6] ./kerr[0x4474e7]
+[node163:117788] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b00378b6207]
+[node163:117792] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b00378b78f8]
+[node163:117792] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117792] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117792] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b00378a23d5]
+[node163:117792] [ 6] ./kerr[0x4474e7]
+[node163:117792] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b18cdd2d8f8]
+[node163:117790] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117790] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117790] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b18cdd183d5]
+[node163:117790] [ 6] ./kerr[0x4474e7]
+[node163:117790] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b7d1f12e207]
+[node163:117785] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b7d1f12f8f8]
+[node163:117785] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117785] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117785] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7d1f11a3d5]
+[node163:117785] [ 6] ./kerr[0x4474e7]
+[node163:117785] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b2c638fb8f8]
+[node163:117791] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117791] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117791] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b2c638e63d5]
+[node163:117791] [ 6] ./kerr[0x4474e7]
+[node163:117791] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b8c50a473d5]
+[node163:117795] [ 6] ./kerr[0x4474e7]
+[node163:117795] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b127a895207]
+[node163:117786] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b127a8968f8]
+[node163:117786] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117786] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117786] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b127a8813d5]
+[node163:117786] [ 6] ./kerr[0x4474e7]
+[node163:117786] *** End of error message ***
+./kerr(main+0x1749)[0x4440b9]
+[node163:117796] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b05d40f73d5]
+[node163:117796] [ 6] ./kerr[0x4474e7]
+[node163:117796] *** End of error message ***
+[node163:117799] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b47490128f8]
+[node163:117799] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117799] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117799] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4748ffd3d5]
+[node163:117799] [ 6] ./kerr[0x4474e7]
+[node163:117799] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b6dc44708f8]
+[node163:117798] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117798] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117798] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6dc445b3d5]
+[node163:117798] [ 6] ./kerr[0x4474e7]
+[node163:117798] *** End of error message ***
+[node163:117818] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b04eb72f5d0]
+[node163:117818] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b04eb972207]
+[node163:117818] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b04eb9738f8]
+[node163:117818] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117818] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117818] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b04eb95e3d5]
+[node163:117818] [ 6] /lib64/libc.so.6(abort+0x148)[0x2b03086338f8]
+[node163:117787] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117787] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117787] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b030861e3d5]
+[node163:117787] [ 6] ./kerr[0x4474e7]
+[node163:117787] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b941de5a3d5]
+[node163:117804] [ 6] ./kerr[0x4474e7]
+[node163:117804] *** End of error message ***
+[ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b51d82a43d5]
+[node163:117789] [ 6] ./kerr[0x4474e7]
+[node163:117789] *** End of error message ***
+[node163:117809] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ab6a7bde5d0]
+[node163:117809] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ab6a7e21207]
+[node163:117809] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ab6a7e228f8]
+[node163:117809] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117809] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117809] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab1185873d5]
+[node163:117807] [ 6] ./kerr[0x4474e7]
+[node163:117807] *** End of error message ***
+./kerr(main+0x1749)[0x4440b9]
+[node163:117793] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7ac5fa93d5]
+[node163:117793] [ 6] ./kerr[0x4474e7]
+[node163:117793] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b5d928c6207]
+[node163:117810] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5d928c78f8]
+[node163:117810] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117810] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117810] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5d928b23d5]
+[node163:117810] [ 6] ./kerr[0x4474e7]
+[node163:117810] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2afd9ece6207]
+[node163:117817] [ 2] /lib64/libc.so.6(abort+0x148)[0x2afd9ece78f8]
+[node163:117817] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117817] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117817] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2afd9ecd23d5]
+[node163:117817] [ 6] ./kerr[0x4474e7]
+[node163:117817] *** End of error message ***
+[node163:117802] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b79f93ec5d0]
+[node163:117802] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b79f962f207]
+[node163:117802] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b79f96308f8]
+[node163:117802] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117802] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117802] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b79f961b3d5]
+[node163:117802] [ 6] ./kerr[0x4474e7]
+[node163:117802] *** End of error message ***
+./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117814] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117814] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4d0a0da3d5]
+[node163:117814] [ 6] ./kerr[0x4474e7]
+[node163:117814] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2abbc99773d5]
+[node163:117780] [ 6] ./kerr[0x4474e7]
+[node163:117780] *** End of error message ***
+./kerr[0x4474e7]
+[node163:117818] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b6bfe04e8f8]
+[node163:117800] [ 3] ./kerr(_ZN6Kadath13System_of_eqs9do_newtonEdRdNS0_6SOLVERE+0x1aff)[0x47ad9f]
+[node163:117800] [ 4] ./kerr(main+0x1749)[0x4440b9]
+[node163:117800] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab6a7e0d3d5]
+[node163:117809] [ 6] ./kerr[0x4474e7]
+[node163:117809] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6bfe0393d5]
+[node163:117800] [ 6] ./kerr[0x4474e7]
+[node163:117800] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 39 with PID 98266 on node node164 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
