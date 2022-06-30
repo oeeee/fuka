@@ -1,0 +1,135 @@
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              node300
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   node300
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+Last Stage Enabled: total_bc
+=================================
+Single star solver 3D
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00938
+                madm: 1.4
+                  mb: 1.55
+      n_inner_shells: 0
+                  nc: 0.00137
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 9.10407
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+=================================
+############################
+TOV with a resolved surface
+############################
+Fixing Madm...
+[Rmin, Rmax] : [6.06938, 6.06938]
+Error init = 1.4, Eq: integ(intMadm) = Madm Dom: 3 Bounday: 1
+DOF / rank = 6598 x 6598 / 144 = 302317
+[node297:128340] 143 more processes have sent help message help-mpi-btl-openib.txt / ib port not selected
+[node297:128340] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[node297:128340] 143 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 14.5386 / 14.3018 / 15.3317 seconds (avg/min/max)
+Inverting the matrix: 57.8397 seconds
+Distributing solution: 0.0517845 seconds
+=======================================
+Iter:     +1
+Error:    +1.4
+Mb:       +1.61378
+Madm:     +0
+Madm_ql:  +0 [-nan]
+Mk:       +0 [-nan]
+R:        +6.3351 +6.3351
+
+Error init = 0.00153781, Eq: dn(N) Dom: 2 Bounday: 1
+DOF / rank = 6598 x 6598 / 144 = 302317
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 17.1067 / 16.747 / 17.2328 seconds (avg/min/max)
+Inverting the matrix: 67.2744 seconds
+Distributing solution: 0.0466555 seconds
+=======================================
+Iter:     +2
+Error:    +0.00153781
+Mb:       +1.6193
+Madm:     +1.4
+Madm_ql:  +1.4 [+4.18713e-13]
+Mk:       +1.2034 [+0.140429]
+R:        +6.33372 +6.33372
+
+Error init = 4.32611e-05, Eq: firstint Dom: 0 Bounday: -1
+DOF / rank = 6598 x 6598 / 144 = 302317
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 17.0147 / 16.7703 / 17.2846 seconds (avg/min/max)
+Inverting the matrix: 73.9811 seconds
+Distributing solution: 0.0507738 seconds
+=======================================
+Iter:     +3
+Error:    +4.32611e-05
+Mb:       +1.55055
+Madm:     +1.4
+Madm_ql:  +1.4 [+7.72398e-14]
+Mk:       +1.40055 [+0.000392968]
+R:        +6.33308 +6.33308
+
+Error init = 2.85568e-07, Eq: firstint Dom: 0 Bounday: -1
+DOF / rank = 6598 x 6598 / 144 = 302317
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 16.7349 / 16.5272 / 16.9778 seconds (avg/min/max)
+Inverting the matrix: 92.8639 seconds
+Distributing solution: 0.0410011 seconds
+=======================================
+Iter:     +4
+Error:    +2.85568e-07
+Mb:       +1.55256
+Madm:     +1.4
+Madm_ql:  +1.4 [+2.91671e-13]
+Mk:       +1.40096 [+0.000683766]
+R:        +6.33309 +6.33309
+
+Error init = 3.98743e-11, Eq: eqNP= 0 Dom: 0 Bounday: -1
+=======================================
+Iter:     +5
+Error:    +3.98743e-11
+Mb:       +1.55256
+Madm:     +1.4
+Madm_ql:  +1.4 [+5.90004e-14]
+Mk:       +1.40095 [+0.00068037]
+R:        +6.33309 +6.33309
+
+############################
+Rotating - with fixed MADM
+############################
+Error init = 3.98743e-11, Eq: eqNP= 0 Dom: 0 Bounday: -1
+=======================================
+Iter:     +1
+Error:    +3.98743e-11
+Mb:       +1.55256
+Madm:     +1.4
+Madm_ql:  +1.4 [+7.6764e-14]
+Mk:       +1.40095 [+0.00068037]
+R:        +6.33309 +6.33309
+Chi:      +0
+Omega:    +0
+=======================================
+

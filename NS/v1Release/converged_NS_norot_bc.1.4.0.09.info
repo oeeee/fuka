@@ -1,0 +1,60 @@
+ns
+{
+    chi 0
+    dim 3
+    hc 1.260776007310125
+    madm 1.4
+    mb 1.55255711925085
+    n_inner_shells 0
+    nc 0.001374050577984235
+    nshells 0
+    omega 0
+    ql_madm 1.399999999998078
+    qpig 12.56637061435917
+    res 9
+    rin 3.034689640173038
+    rmid 6.069379280346077
+    rout 9.104068920519115
+    eosfile togashi.lorene
+    eostype Cold_Table
+    h_cut 0
+    interpolation_pts 2000
+}
+fields
+{
+    conf on
+    lapse on
+    logh on
+    shift on
+}
+stages
+{
+    binary_boost off
+    norot_bc on
+    pre off
+    total_bc on
+}
+sequence_controls
+{
+    centralized_cos on
+    checkpoint off
+    co_use_shells off
+    corot_binary off
+    delete_shift off
+    fixed_bin_omega off
+    fixed_lapse off
+    fixed_mb off
+    initial_regrid off
+    resolve off
+    sequences off
+    update_initial off
+    use_boosted_co off
+    use_fixed_r off
+    use_pn off
+}
+sequence_settings
+{
+    initial_resolution 9
+    solver_max_iterations 15
+    solver_precision 1e-08
+}
