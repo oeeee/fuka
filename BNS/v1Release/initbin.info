@@ -1,0 +1,89 @@
+binary
+{
+    com 0
+    distance 31.14422299870126
+    ecc_omega 0.008626944937335276
+    global_omega 0.008626944937335276
+    outer_shells 0
+    q 1
+    qpig 12.56637061435917
+    res 9
+    rext 62.28844599740251
+    ns1
+    {
+        chi 0
+        dim 3
+        hc 1.260776007310125
+        madm 1.4
+        mb 1.55255711925085
+        n_inner_shells 0
+        nc 0.001374050577984235
+        nshells 0
+        omega 0
+        ql_madm 1.4
+        qpig 12.56637061435917
+        res 9
+        rin 3.166544400938362
+        rmid 6.333088801879432
+        rout 9.499633202819147
+        eosfile togashi.lorene
+        eostype Cold_Table
+        h_cut 0
+        interpolation_pts 2000
+    }
+    ns2
+    {
+        chi 0
+        dim 3
+        hc 1.260776007310125
+        madm 1.4
+        mb 1.55255711925085
+        n_inner_shells 0
+        nc 0.001374050577984235
+        nshells 0
+        omega 0
+        ql_madm 1.4
+        qpig 12.56637061435917
+        res 9
+        rin 3.166544400938362
+        rmid 6.333088801879432
+        rout 9.499633202819147
+    }
+}
+fields
+{
+    conf on
+    lapse on
+    logh on
+    phi on
+    shift on
+}
+stages
+{
+    ecc_red off
+    total on
+    total_bc off
+}
+sequence_controls
+{
+    centralized_cos off
+    checkpoint off
+    co_use_shells off
+    corot_binary off
+    delete_shift off
+    fixed_bin_omega off
+    fixed_lapse off
+    fixed_mb off
+    initial_regrid off
+    resolve off
+    sequences off
+    update_initial off
+    use_boosted_co off
+    use_fixed_r off
+    use_pn off
+}
+sequence_settings
+{
+    solver_max_iterations 15
+    solver_precision 1e-08
+}

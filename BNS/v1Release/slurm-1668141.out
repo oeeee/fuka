@@ -1,0 +1,270 @@
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              node298
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   node298
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+***************binary info***************
+                 com: 0
+            distance: 31.1442
+           ecc_omega: 0.00862694
+        global_omega: 0.00862694
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 9
+                rext: 62.2884
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26078
+                madm: 1.4
+                  mb: 1.55256
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.16654
+                rmid: 6.33309
+                rout: 9.49963
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26078
+                madm: 1.4
+                  mb: 1.55256
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.16654
+                rmid: 6.33309
+                rout: 9.49963
+Last Stage Enabled: total
+=================================
+BNS grav input
+Distance: 31.1442
+Omega guess: 0.00862694
+Units: 12.5664
+=================================
+############################
+Total with mass fixing, chi = 0,0 and q = 1
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00862694
+Axis:        +0
+P:           [+0, +0, +0]
+
+NS1-Mb:      +1.77286
+NS1-Madm_ql: +1.43147
+NS1-S:       +0
+NS1-Chi:     +0
+NS1-Chi_ql:  +0
+NS1-OmegaS:  +0
+NS-Rs:       +6.33309 +6.33309
+
+NS2-Mb:      +1.77286
+NS2-Madm_ql: +1.43147
+NS2-S:       +0
+NS2-Chi:     +0
+NS2-Chi_ql:  +0
+NS2-OmegaS:  +0
+NS-Rs:       +6.33309 +6.33309
+=======================================
+
+[node297:189756] 215 more processes have sent help message help-mpi-btl-openib.txt / ib port not selected
+[node297:189756] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[node297:189756] 215 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+Error init = 0.2203, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 216 = 1.08438e+07
+Load and redistrib Jacobian: 525.326 / 522.068 / 527.481 seconds (avg/min/max)
+Inverting the matrix: 302.696 seconds
+Distributing solution: 0.157578 seconds
+=======================================
+Iter:        +1
+Error:       +0.2203
+Omega:       +0.00659949
+Axis:        +2.89026e-11
+P:           [+6.49957e-13, -3.76773e-09, +0]
+
+NS1-Mb:      +1.57228
+NS1-Madm_ql: +1.37852
+NS1-S:       +0.0190607
+NS1-Chi:     +0.00972487
+NS1-Chi_ql:  +0.0100303
+NS1-OmegaS:  +0.000148922
+NS-Rs:       +5.88167 +6.18664
+
+NS2-Mb:      +1.57228
+NS2-Madm_ql: +1.37852
+NS2-S:       +0.0190607
+NS2-Chi:     +0.00972487
+NS2-Chi_ql:  +0.0100303
+NS2-OmegaS:  +0.000148922
+NS-Rs:       +5.88167 +6.18664
+=======================================
+
+Error init = 0.0546179, Eq: eqphi = 0 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 216 = 1.08438e+07
+Load and redistrib Jacobian: 538.488 / 535.226 / 540.579 seconds (avg/min/max)
+Inverting the matrix: 288.722 seconds
+Distributing solution: 0.116483 seconds
+=======================================
+Iter:        +2
+Error:       +0.0546179
+Omega:       +0.00872406
+Axis:        -5.44164e-11
+P:           [+6.56218e-12, +1.24454e-09, +0]
+
+NS1-Mb:      +1.55279
+NS1-Madm_ql: +1.37783
+NS1-S:       -0.0003958
+NS1-Chi:     -0.000201939
+NS1-Chi_ql:  -0.00020849
+NS1-OmegaS:  +2.97494e-05
+NS-Rs:       +5.98122 +6.14084
+
+NS2-Mb:      +1.55279
+NS2-Madm_ql: +1.37783
+NS2-S:       -0.0003958
+NS2-Chi:     -0.000201939
+NS2-Chi_ql:  -0.00020849
+NS2-OmegaS:  +2.97494e-05
+NS-Rs:       +5.98122 +6.14084
+=======================================
+
+Error init = 0.00642124, Eq: eqphi = 0 Dom: 3 Bounday: -1
+DOF / rank = 48397 x 48397 / 216 = 1.08438e+07
+Load and redistrib Jacobian: 531.375 / 528.088 / 533.35 seconds (avg/min/max)
+Inverting the matrix: 277.91 seconds
+Distributing solution: 0.116403 seconds
+=======================================
+Iter:        +3
+Error:       +0.00642124
+Omega:       +0.0085705
+Axis:        +1.8201e-11
+P:           [+1.83076e-11, -7.11181e-11, +0]
+
+NS1-Mb:      +1.55255
+NS1-Madm_ql: +1.37802
+NS1-S:       +2.0804e-06
+NS1-Chi:     +1.06143e-06
+NS1-Chi_ql:  +1.09555e-06
+NS1-OmegaS:  +3.52099e-05
+NS-Rs:       +5.97072 +6.12858
+
+NS2-Mb:      +1.55255
+NS2-Madm_ql: +1.37802
+NS2-S:       +2.0804e-06
+NS2-Chi:     +1.06143e-06
+NS2-Chi_ql:  +1.09555e-06
+NS2-OmegaS:  +3.52099e-05
+NS-Rs:       +5.97072 +6.12858
+=======================================
+
+Error init = 1.47303e-05, Eq: firstint Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 216 = 1.08438e+07
+Load and redistrib Jacobian: 524.47 / 521.166 / 526.538 seconds (avg/min/max)
+Inverting the matrix: 285.538 seconds
+Distributing solution: 0.112844 seconds
+=======================================
+Iter:        +4
+Error:       +1.47303e-05
+Omega:       +0.00856938
+Axis:        +1.07264e-11
+P:           [-1.35793e-12, +3.56297e-12, +0]
+
+NS1-Mb:      +1.55256
+NS1-Madm_ql: +1.37802
+NS1-S:       -5.07224e-10
+NS1-Chi:     -2.58788e-10
+NS1-Chi_ql:  -2.67109e-10
+NS1-OmegaS:  +3.49176e-05
+NS-Rs:       +5.97078 +6.12878
+
+NS2-Mb:      +1.55256
+NS2-Madm_ql: +1.37802
+NS2-S:       -5.07222e-10
+NS2-Chi:     -2.58787e-10
+NS2-Chi_ql:  -2.67108e-10
+NS2-OmegaS:  +3.49176e-05
+NS-Rs:       +5.97078 +6.12878
+=======================================
+
+Error init = 2.52006e-08, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 216 = 1.08438e+07
+Load and redistrib Jacobian: 523.065 / 520.265 / 525.11 seconds (avg/min/max)
+Inverting the matrix: 288.868 seconds
+Distributing solution: 0.241203 seconds
+=======================================
+Iter:        +5
+Error:       +2.52006e-08
+Omega:       +0.00856938
+Axis:        +4.17295e-12
+P:           [+4.4176e-11, +1.86558e-12, +0]
+
+NS1-Mb:      +1.55256
+NS1-Madm_ql: +1.37802
+NS1-S:       -2.16903e-15
+NS1-Chi:     -1.10665e-15
+NS1-Chi_ql:  -1.14223e-15
+NS1-OmegaS:  +3.49177e-05
+NS-Rs:       +5.97078 +6.12878
+
+NS2-Mb:      +1.55256
+NS2-Madm_ql: +1.37802
+NS2-S:       +1.72763e-15
+NS2-Chi:     +8.81446e-16
+NS2-Chi_ql:  +9.09788e-16
+NS2-OmegaS:  +3.49177e-05
+NS-Rs:       +5.97078 +6.12878
+=======================================
+
+Error init = 8.25739e-12, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +6
+Error:       +8.25739e-12
+Omega:       +0.00856938
+Axis:        +4.17295e-12
+P:           [+4.4176e-11, +1.86558e-12, +0]
+
+NS1-Mb:      +1.55256
+NS1-Madm_ql: +1.37802
+NS1-S:       -2.16903e-15
+NS1-Chi:     -1.10665e-15
+NS1-Chi_ql:  -1.14223e-15
+NS1-OmegaS:  +3.49177e-05
+NS-Rs:       +5.97078 +6.12878
+
+NS2-Mb:      +1.55256
+NS2-Madm_ql: +1.37802
+NS2-S:       +1.72763e-15
+NS2-Chi:     +8.81446e-16
+NS2-Chi_ql:  +9.09788e-16
+NS2-OmegaS:  +3.49177e-05
+NS-Rs:       +5.97078 +6.12878
+=======================================
+
