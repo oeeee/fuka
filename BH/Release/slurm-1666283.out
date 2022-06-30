@@ -1,0 +1,2551 @@
+[node152:457256] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457256] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457177] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457177] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457082] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457082] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456431] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456431] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456438] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456438] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456286] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456286] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457251] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457251] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456450] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456450] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456683] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456683] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457482] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457482] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456971] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456971] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457475] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457475] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457065] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457065] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457094] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457094] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457497] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457497] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456143] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456143] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457060] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457060] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456388] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456388] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456128] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456128] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457064] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457064] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456982] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456982] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456592] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456592] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456200] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456200] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456945] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456945] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456840] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456840] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457366] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457366] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457021] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457021] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457455] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457455] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457199] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457199] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456548] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456548] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457346] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457346] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456261] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456261] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456886] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456886] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457133] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457133] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456126] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456126] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456888] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456888] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456695] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456695] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456632] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456632] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456437] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456437] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457001] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457001] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456864] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456864] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456112] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456112] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457183] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457183] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457305] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457305] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456161] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456161] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456810] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456810] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456084] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456084] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456080] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456080] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456826] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456826] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456390] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456390] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456657] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456657] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456180] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456180] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457435] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457435] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457046] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457046] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456647] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456647] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456798] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456798] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456807] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456807] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456919] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456919] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456804] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456804] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456769] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456769] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456634] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456634] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457081] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457081] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457073] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457073] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456227] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456227] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456027] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456027] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457023] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457023] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456915] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456915] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456811] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456811] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457299] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457299] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457192] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456444] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456444] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456107] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457420] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457420] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457513] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457513] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456107] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457192] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456863] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456863] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456939] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456939] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457488] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457488] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456921] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456921] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456514] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456514] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457180] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457180] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456501] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456501] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456665] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456665] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456735] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456735] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457207] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457207] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457175] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457175] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:456710] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:456710] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+[node152:457454] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 260
+[node152:457454] PMIX ERROR: ERROR in file runtime/pmix_progress_threads.c at line 349
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457256] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457256] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456431] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456431] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457177] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457177] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456286] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456286] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456438] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456438] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457482] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457482] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457082] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457082] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456683] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456683] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457065] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457065] OPAL ERROR: Error in file pmix3x_client.c at line 112
+[node152:457251] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457251] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456971] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456971] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457094] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457094] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456450] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456450] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456143] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456143] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457475] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457475] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457497] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457497] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457060] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457060] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457064] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457064] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456982] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456982] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456592] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456592] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457021] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457021] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456388] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456388] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456128] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456128] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456200] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456200] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456945] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456945] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456840] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456840] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456548] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456548] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457366] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457366] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457346] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457346] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456437] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456437] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457455] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457455] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456261] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456261] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456112] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456112] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457183] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457183] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456126] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456126] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456161] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456161] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456886] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456886] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456864] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456864] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456695] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456695] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457199] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457199] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456632] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456632] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457305] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457305] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457133] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457133] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456888] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456888] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457435] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457435] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456390] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456390] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456810] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456810] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456180] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456180] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457001] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457001] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456080] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456080] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456084] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456084] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456826] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456826] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456657] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456657] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456804] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456804] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457046] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457046] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456769] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456769] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457023] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457023] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456919] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456919] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456915] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456915] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457081] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457081] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456807] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456807] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456811] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456811] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456798] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456798] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457420] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457420] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456647] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456647] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457073] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457073] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457299] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457299] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456027] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456027] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456634] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456634] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456444] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456444] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457192] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457192] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456501] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456501] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457207] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457207] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456514] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456514] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456107] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456107] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456227] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456227] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456863] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456863] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456735] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456735] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457180] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457180] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457488] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457488] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456921] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456921] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457513] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457513] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456939] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456939] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456665] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456665] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457175] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457175] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:457454] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:457454] OPAL ERROR: Error in file pmix3x_client.c at line 112
+--------------------------------------------------------------------------
+It looks like pmix_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during pmix_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+PMIX developer):
+
+  pmix_progress_thread_start failed
+  --> Returned value -1 instead of PMIX_SUCCESS
+--------------------------------------------------------------------------
+
+[node152:456710] PMIX ERROR: ERROR in file client/pmix_client.c at line 562
+[node152:456710] OPAL ERROR: Error in file pmix3x_client.c at line 112
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456390] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456919] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456798] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457435] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456945] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** on a NULL communicator
+*** An error occurred in MPI_Init
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+*** on a NULL communicator
+***    and potentially your MPI job)
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457073] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457305] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457081] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456804] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456634] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+[node152:457366] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456807] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457046] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456286] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457082] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456431] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456084] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457001] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456657] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457256] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456227] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456080] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456810] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54038,1],33]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54037,1],3]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54026,1],15]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54070,1],20]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54046,1],19]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54041,1],10]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54028,1],8]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54023,1],29]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54017,1],26]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456769] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54034,1],24]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456438] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456161] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456200] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456027] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[53993,1],22]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54027,1],20]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54071,1],10]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54040,1],3]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54021,1],22]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54042,1],7]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54022,1],20]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456450] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457482] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456180] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54044,1],6]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456840] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54031,1],18]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457455] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54018,1],14]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457177] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457065] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456548] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457180] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456863] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54033,1],16]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54030,1],30]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54024,1],16]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54032,1],20]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:457133] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456886] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456735] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54016,1],29]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54039,1],10]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54019,1],8]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54047,1],12]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54025,1],13]
+  Exit code:    1
+--------------------------------------------------------------------------
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456128] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456888] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[node152:456388] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54020,1],11]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54068,1],21]
+  Exit code:    1
+--------------------------------------------------------------------------
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+srun: error: node152: tasks 0-2,4-5,7-11,13,15-27,29-35: Exited with exit code 1
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+Config File: ./initbh.info
+Fields File: ./initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+bh not found 
+bh not found 
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+bh not found 
+No Node found. 
+bh not found 
+No Node found. 
+No Node found. 
+No Node found. 
+No Node found. 
+bh not found 
+terminate called after throwing an instance of 'std::bad_array_new_length'
+  what():  std::bad_array_new_length
+[node152:457348] *** Process received signal ***
+[node152:457348] Signal: Aborted (6)
+[node152:457348] Signal code:  (-6)
+[node152:457348] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b43ab5265d0]
+[node152:457348] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b43ab769207]
+[node152:457348] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b43ab76a8f8]
+[node152:457348] [ 3] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0x9974c)[0x2b43aacc874c]
+[node152:457348] [ 4] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4a06)[0x2b43aacd3a06]
+[node152:457348] [ 5] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4a71)[0x2b43aacd3a71]
+[node152:457348] [ 6] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4d05)[0x2b43aacd3d05]
+[node152:457348] [ 7] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0x99252)[0x2b43aacc8252]
+[node152:457348] [ 8] ./solve[0x446136]
+[node152:457348] [ 9] ./solve(main+0x7c5)[0x458b05]
+[node152:457348] [10] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b43ab7553d5]
+[node152:457348] [11] ./solve[0x45e4c7]
+[node152:457348] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 31 with PID 457348 on node node152 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+Config File: ./initbh.info
+Fields File: ./initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+############################
+Total system with von Neumann BC
+############################
+solve: /home/la34cit/fuka/include/implementation/dim_array.cpp:69: int Kadath::Dim_array::operator()(int) const: Assertion `i<ndim' failed.
+[node152:456470] *** Process received signal ***
+[node152:456470] Signal: Aborted (6)
+[node152:456470] Signal code:  (-6)
+[node152:456470] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ae7011845d0]
+[node152:456470] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ae7013c7207]
+[node152:456470] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ae7013c88f8]
+[node152:456470] [ 3] /lib64/libc.so.6(+0x2f026)[0x2ae7013c0026]
+[node152:456470] [ 4] /lib64/libc.so.6(+0x2f0d2)[0x2ae7013c00d2]
+[node152:456470] [ 5] ./solve(_ZN6Kadath6TensorC1ERKNS_5SpaceEP8_IO_FILE+0x45f)[0x4bb28f]
+[node152:456470] [ 6] ./solve(_ZN6Kadath6VectorC1ERKNS_5SpaceEP8_IO_FILE+0x9)[0x4c8719]
+[node152:456470] [ 7] ./solve(main+0x80a)[0x458b4a]
+[node152:456470] [ 8] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae7013b33d5]
+[node152:456470] [ 9] ./solve[0x45e4c7]
+[node152:456470] *** End of error message ***
+Config File: ./initbh.info
+Fields File: ./initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 32 with PID 456470 on node node152 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+Config File: ./initbh.info
+############################
+Fields File: ./initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+Total system with von Neumann BC
+############################
+Config File: ./initbh.info
+Fields File: ./initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+############################
+Total system with von Neumann BC
+############################
+############################
+Total system with von Neumann BC
+############################
+=======================================
+Iter:        +1
+Error:       +0
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.5
+R:           +0.416233
+Omega:       +0
+S:           +0
+Mch:         +0.5
+Chi:         +0
+=======================================
+
+=======================================
+Iter:        +1
+Error:       +0
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.5
+R:           +0.416233
+Omega:       +0
+srun: error: node152: task 12: Exited with exit code 134
+S:           +0
+Mch:         +0.5
+Chi:         +0
+=======================================
+
+=======================================
+Iter:        +1
+Error:       +0
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.5
+R:           +0.416233
+Omega:       +0
+S:           +0
+Mch:         +0.5
+Chi:         +0
+=======================================
+
+srun: error: node152: task 3: Exited with exit code 134
+Error init = 1.86194, Eq: sm^j * D_j P + P / 4 * D^j sm_j + A_ij * sm^i * sm^j / P^3 / 4 = 0 Dom: 2 Bounday: 2
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Error init = 1.86194, Eq: sm^j * D_j P + P / 4 * D^j sm_j + A_ij * sm^i * sm^j / P^3 / 4 = 0 Dom: 2 Bounday: 2
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Error init = 1.86194, Eq: sm^j * D_j P + P / 4 * D^j sm_j + A_ij * sm^i * sm^j / P^3 / 4 = 0 Dom: 2 Bounday: 2
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Load and redistrib Jacobian: 755.081 / 749.536 / 763.58 seconds (avg/min/max)
+Load and redistrib Jacobian: 754.986 / 751.929 / 763.489 seconds (avg/min/max)
+Load and redistrib Jacobian: 755.266 / 749.981 / 764.777 seconds (avg/min/max)
+Inverting the matrix: 539.172 seconds
+Distributing solution: 0.279094 seconds
+=======================================
+Iter:        +1
+Error:       +1.86194
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.411427
+R:           +0.342499
+Omega:       -1.99139e-17
+S:           +0
+Mch:         +0.411427
+Chi:         +0
+=======================================
+
+Error init = 5.02539, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 602.024 seconds
+Distributing solution: 0.243614 seconds
+=======================================
+Iter:        +1
+Error:       +1.86194
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.411427
+R:           +0.342499
+Omega:       -1.99139e-17
+S:           +0
+Mch:         +0.411427
+Chi:         +0
+=======================================
+
+Error init = 5.02539, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 645.913 seconds
+Distributing solution: 0.323922 seconds
+=======================================
+Iter:        +1
+Error:       +1.86194
+Madm:        +0
+Mk:          +0 [-nan]
+Mirr:        +0.411427
+R:           +0.342499
+Omega:       -1.99139e-17
+S:           +0
+Mch:         +0.411427
+Chi:         +0
+=======================================
+
+Error init = 5.02539, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Load and redistrib Jacobian: 754.763 / 751.115 / 759.491 seconds (avg/min/max)
+Load and redistrib Jacobian: 756.819 / 753.635 / 761.716 seconds (avg/min/max)
+Load and redistrib Jacobian: 756.89 / 751.659 / 773.301 seconds (avg/min/max)
+Inverting the matrix: 511.702 seconds
+Distributing solution: 0.290127 seconds
+=======================================
+Iter:        +2
+Error:       +5.02539
+Madm:        +0.573998
+Mk:          +0.185161 [+0.677419]
+Mirr:        +0.586793
+R:           +0.412226
+Omega:       -1.47778e-16
+S:           -4.17084e-17
+Mch:         +0.586793
+Chi:         -1.21131e-16
+=======================================
+
+Error init = 1.09072, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 513.875 seconds
+Distributing solution: 0.315407 seconds
+=======================================
+Iter:        +2
+Error:       +5.02539
+Madm:        +0.573998
+Mk:          +0.185161 [+0.677419]
+Mirr:        +0.586793
+R:           +0.412226
+Omega:       -1.47778e-16
+S:           -4.17084e-17
+Mch:         +0.586793
+Chi:         -1.21131e-16
+=======================================
+
+Error init = 1.09072, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 640.085 seconds
+Distributing solution: 0.280775 seconds
+=======================================
+Iter:        +2
+Error:       +5.02539
+Madm:        +0.573998
+Mk:          +0.185161 [+0.677419]
+Mirr:        +0.586793
+R:           +0.412226
+Omega:       -1.47778e-16
+S:           -4.17084e-17
+Mch:         +0.586793
+Chi:         -1.21131e-16
+=======================================
+
+Error init = 1.09072, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Load and redistrib Jacobian: 755.903 / 751.824 / 763.815 seconds (avg/min/max)
+Load and redistrib Jacobian: 752.015 / 748.337 / 759.039 seconds (avg/min/max)
+Load and redistrib Jacobian: 742.122 / 735.729 / 751.337 seconds (avg/min/max)
+Inverting the matrix: 616.788 seconds
+Distributing solution: 0.278368 seconds
+=======================================
+Iter:        +3
+Error:       +1.09072
+Madm:        +0.496918
+Mk:          +0.461165 [+0.0719503]
+Mirr:        +0.508162
+R:           +0.430003
+Omega:       -2.9024e-17
+S:           +3.82256e-17
+Mch:         +0.508162
+Chi:         +1.4803e-16
+=======================================
+
+Error init = 0.0323715, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 573.999 seconds
+Distributing solution: 0.186367 seconds
+=======================================
+Iter:        +3
+Error:       +1.09072
+Madm:        +0.496918
+Mk:          +0.461165 [+0.0719503]
+Mirr:        +0.508162
+R:           +0.430003
+Omega:       -2.9024e-17
+S:           +3.82256e-17
+Mch:         +0.508162
+Chi:         +1.4803e-16
+=======================================
+
+Error init = 0.0323715, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 714.147 seconds
+Distributing solution: 0.324095 seconds
+=======================================
+Iter:        +3
+Error:       +1.09072
+Madm:        +0.496918
+Mk:          +0.461165 [+0.0719503]
+Mirr:        +0.508162
+R:           +0.430003
+Omega:       -2.9024e-17
+S:           +3.82256e-17
+Mch:         +0.508162
+Chi:         +1.4803e-16
+=======================================
+
+Error init = 0.0323715, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Load and redistrib Jacobian: 752.42 / 746.521 / 758.526 seconds (avg/min/max)
+Load and redistrib Jacobian: 754.516 / 747.903 / 761.761 seconds (avg/min/max)
+Load and redistrib Jacobian: 736.388 / 730.106 / 744.793 seconds (avg/min/max)
+Inverting the matrix: 602.013 seconds
+Distributing solution: 0.267542 seconds
+=======================================
+Iter:        +4
+Error:       +0.0323715
+Madm:        +0.500388
+Mk:          +0.495843 [+0.00908174]
+Mirr:        +0.499587
+R:           +0.429769
+Omega:       -4.37986e-17
+S:           +1.01576e-17
+Mch:         +0.499587
+Chi:         +4.06975e-17
+=======================================
+
+Error init = 2.48329e-05, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 609.564 seconds
+Distributing solution: 0.218252 seconds
+=======================================
+Iter:        +4
+Error:       +0.0323715
+Madm:        +0.500388
+Mk:          +0.495843 [+0.00908174]
+Mirr:        +0.499587
+R:           +0.429769
+Omega:       -4.37986e-17
+S:           +1.01576e-17
+Mch:         +0.499587
+Chi:         +4.06975e-17
+=======================================
+
+Error init = 2.48329e-05, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Inverting the matrix: 647.749 seconds
+Distributing solution: 0.243981 seconds
+=======================================
+Iter:        +4
+Error:       +0.0323715
+Madm:        +0.500388
+Mk:          +0.495843 [+0.00908174]
+Mirr:        +0.499587
+R:           +0.429769
+Omega:       -4.37986e-17
+S:           +1.01576e-17
+Mch:         +0.499587
+Chi:         +4.06975e-17
+=======================================
+
+Error init = 2.48329e-05, Eq: eqNP = 0 Dom: 2 Bounday: -1
+DOF / rank = 10611 x 10611 / 36 = 3.12759e+06
+Load and redistrib Jacobian: 748.324 / 741.75 / 760.865 seconds (avg/min/max)
+Load and redistrib Jacobian: 748.829 / 742.122 / 754.474 seconds (avg/min/max)
+Load and redistrib Jacobian: 735.042 / 729.254 / 746.304 seconds (avg/min/max)
+Inverting the matrix: 639.444 seconds
+Distributing solution: 0.348963 seconds
+=======================================
+Iter:        +5
+Error:       +2.48329e-05
+Madm:        +0.500087
+Mk:          +0.497311 [+0.00555184]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           -4.18685e-17
+Mch:         +0.5
+Chi:         -1.67474e-16
+=======================================
+
+Error init = 1.5499e-10, Eq: eqNP = 0 Dom: 2 Bounday: -1
+=======================================
+Iter:        +6
+Error:       +1.5499e-10
+Madm:        +0.500087
+Mk:          +0.497314 [+0.00554512]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           +5.23606e-17
+Mch:         +0.5
+Chi:         +2.09442e-16
+=======================================
+
+Inverting the matrix: 619.907 seconds
+Distributing solution: 0.267559 seconds
+=======================================
+Iter:        +5
+Error:       +2.48329e-05
+Madm:        +0.500087
+Mk:          +0.497311 [+0.00555184]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           -4.18685e-17
+Mch:         +0.5
+Chi:         -1.67474e-16
+=======================================
+
+Error init = 1.5499e-10, Eq: eqNP = 0 Dom: 2 Bounday: -1
+=======================================
+Iter:        +6
+Error:       +1.5499e-10
+Madm:        +0.500087
+Mk:          +0.497314 [+0.00554512]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           +5.23606e-17
+Mch:         +0.5
+Chi:         +2.09442e-16
+=======================================
+
+Inverting the matrix: 297.981 seconds
+Distributing solution: 0.0356569 seconds
+=======================================
+Iter:        +5
+Error:       +2.48329e-05
+Madm:        +0.500087
+Mk:          +0.497311 [+0.00555184]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           -4.18685e-17
+Mch:         +0.5
+Chi:         -1.67474e-16
+=======================================
+
+Error init = 1.5499e-10, Eq: eqNP = 0 Dom: 2 Bounday: -1
+=======================================
+Iter:        +6
+Error:       +1.5499e-10
+Madm:        +0.500087
+Mk:          +0.497314 [+0.00554512]
+Mirr:        +0.5
+R:           +0.42977
+Omega:       -4.39349e-17
+S:           +5.23606e-17
+Mch:         +0.5
+Chi:         +2.09442e-16
+=======================================
+
