@@ -1,12 +1,12 @@
 binary
 {
-    com -4
-    comy 0
+    com -4.032545963543116
+    comy -0.008343920321282233
     distance 10
     ecc_omega 0.02763529043547387
-    global_omega 0.02763529043547387
+    global_omega 0.02738909742227118
     outer_shells 0
-    q 9
+    q 0.1111111111111111
     qpig 12.56637061435917
     res 9
     rext 20
@@ -19,7 +19,7 @@ binary
         mch 0.1
         mirr 0.09659258262890684
         nshells 2
-        omega 1.410846954849176
+        omega 1.230341296498487
         qpig 12.56637061435917
         res 9
         rin 0.04067043688863469
@@ -37,7 +37,7 @@ binary
         mch 0.9
         mirr 0.7863504234724287
         nshells 0
-        omega -0.3193513686766145
+        omega -0.3148335199088145
         qpig 12.56637061435917
         res 9
         rin 0.2875533426083601
@@ -69,12 +69,12 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off
     resolve off
-    sequences on
+    sequences off
     update_initial off
     use_boosted_co on
     use_fixed_r off

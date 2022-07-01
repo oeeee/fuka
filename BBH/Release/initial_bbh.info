@@ -12,10 +12,10 @@ binary
     rext 20
     bh1
     {
-        chi 0
+        chi -0.5
         dim 3
         fixed_lapse 0.3
-        mch 0.5
+        mch 0.1
         mirr 0.5
         nshells 0
         omega 0
@@ -29,10 +29,10 @@ binary
     }
     bh2
     {
-        chi 0
+        chi 0.85
         dim 3
         fixed_lapse 0.3
-        mch 0.5
+        mch 0.9
         mirr 0.5
         nshells 0
         omega 0
