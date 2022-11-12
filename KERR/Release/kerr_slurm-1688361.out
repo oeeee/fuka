@@ -1,0 +1,895 @@
+Computation with omega =  0
+Error init = 0.5, Eq: N=n0 Dom: 1 Bounday: 2
+DOF / rank = 756 x 756 / 75 = 7620.48
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 0.884795 / 0.860668 / 0.901065 seconds (avg/min/max)
+Inverting the matrix: 0.114091 seconds
+Distributing solution: 0.0011098 seconds
+Newton iteration 1 0.5
+Error init = 0.0722931, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+DOF / rank = 756 x 756 / 75 = 7620.48
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 0.608469 / 0.608188 / 0.608765 seconds (avg/min/max)
+Inverting the matrix: 0.0651407 seconds
+Distributing solution: 0.00105114 seconds
+Newton iteration 2 0.0722931
+Error init = 0.0810819, Eq: D_j A^ij + 6 * A^ij * D_j P / P =0 Dom: 1 Bounday: -1
+DOF / rank = 756 x 756 / 75 = 7620.48
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 0.604696 / 0.604395 / 0.60494 seconds (avg/min/max)
+Inverting the matrix: 0.06235 seconds
+Distributing solution: 0.000985341 seconds
+Newton iteration 3 0.0810819
+Error init = 0.00173133, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+DOF / rank = 756 x 756 / 75 = 7620.48
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 0.603993 / 0.603719 / 0.604294 seconds (avg/min/max)
+Inverting the matrix: 0.0643138 seconds
+Distributing solution: 0.00101805 seconds
+Newton iteration 4 0.00173133
+Error init = 2.79623e-06, Eq: D_j A^ij + 6 * A^ij * D_j P / P =0 Dom: 1 Bounday: -1
+DOF / rank = 756 x 756 / 75 = 7620.48
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 0.618753 / 0.618471 / 0.619029 seconds (avg/min/max)
+Inverting the matrix: 0.0719395 seconds
+Distributing solution: 0.00118713 seconds
+Newton iteration 5 2.79623e-06
+Error init = 4.90287e-12, Eq: D_i D^i N + 2 * D_i P * D^i N / P - N * P^4 * A_ij *A^ij= 0 Dom: 1 Bounday: -1
+Newton iteration 6 4.90287e-12
+Computation with omega = 0.005
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.44962 / 8.44834 / 8.45092 seconds (avg/min/max)
+Inverting the matrix: 0.550513 seconds
+Distributing solution: 0.0290705 seconds
+Newton iteration 1 0.005
+Error init = 0.000137543, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.09272 / 8.07457 / 8.15468 seconds (avg/min/max)
+Inverting the matrix: 0.255233 seconds
+Distributing solution: 0.0457239 seconds
+Newton iteration 2 0.000137543
+Error init = 1.96392e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.21126 / 8.20835 / 8.228 seconds (avg/min/max)
+Inverting the matrix: 0.195749 seconds
+Distributing solution: 0.0525745 seconds
+Newton iteration 3 1.96392e-06
+Error init = 4.24691e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 4.24691e-12
+Computation with omega = 0.01
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.18421 / 8.13804 / 8.21998 seconds (avg/min/max)
+Inverting the matrix: 0.185698 seconds
+Distributing solution: 0.0838174 seconds
+Newton iteration 1 0.005
+Error init = 0.000138681, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.06586 / 8.02999 / 8.10679 seconds (avg/min/max)
+Inverting the matrix: 0.161852 seconds
+Distributing solution: 0.0545594 seconds
+Newton iteration 2 0.000138681
+Error init = 1.34273e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.49438 / 7.44331 / 7.53206 seconds (avg/min/max)
+Inverting the matrix: 0.187926 seconds
+Distributing solution: 0.0561911 seconds
+Newton iteration 3 1.34273e-06
+Error init = 1.48787e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 4 1.48787e-12
+Computation with omega = 0.015
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18328 / 7.14252 / 7.21399 seconds (avg/min/max)
+Inverting the matrix: 0.173024 seconds
+Distributing solution: 0.0664412 seconds
+Newton iteration 1 0.005
+Error init = 0.000142204, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17104 / 7.14562 / 7.21993 seconds (avg/min/max)
+Inverting the matrix: 0.171883 seconds
+Distributing solution: 0.0482686 seconds
+Newton iteration 2 0.000142204
+Error init = 1.36429e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.14964 / 7.11502 / 7.19937 seconds (avg/min/max)
+Inverting the matrix: 0.170731 seconds
+Distributing solution: 0.0350944 seconds
+Newton iteration 3 1.36429e-06
+Error init = 8.5499e-13, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 8.5499e-13
+Computation with omega = 0.02
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.24043 / 7.20439 / 7.30445 seconds (avg/min/max)
+Inverting the matrix: 0.173439 seconds
+Distributing solution: 0.0276064 seconds
+Newton iteration 1 0.005
+Error init = 0.000148072, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17203 / 7.14861 / 7.21286 seconds (avg/min/max)
+Inverting the matrix: 0.179472 seconds
+Distributing solution: 0.0436745 seconds
+Newton iteration 2 0.000148072
+Error init = 1.39822e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1539 / 7.12418 / 7.20162 seconds (avg/min/max)
+Inverting the matrix: 0.190318 seconds
+Distributing solution: 0.0277988 seconds
+Newton iteration 3 1.39822e-06
+Error init = 3.44525e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.44525e-12
+Computation with omega = 0.025
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.84489 / 7.81105 / 7.87405 seconds (avg/min/max)
+Inverting the matrix: 0.197815 seconds
+Distributing solution: 0.0193221 seconds
+Newton iteration 1 0.005
+Error init = 0.00015635, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.6916 / 7.65626 / 7.73439 seconds (avg/min/max)
+Inverting the matrix: 0.170669 seconds
+Distributing solution: 0.028414 seconds
+Newton iteration 2 0.00015635
+Error init = 1.44484e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17457 / 7.13934 / 7.21111 seconds (avg/min/max)
+Inverting the matrix: 0.165948 seconds
+Distributing solution: 0.0241115 seconds
+Newton iteration 3 1.44484e-06
+Error init = 3.21682e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.21682e-12
+Computation with omega = 0.03
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.15754 / 7.12398 / 7.20441 seconds (avg/min/max)
+Inverting the matrix: 0.17341 seconds
+Distributing solution: 0.02776 seconds
+Newton iteration 1 0.005
+Error init = 0.00016713, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18003 / 7.14205 / 7.2226 seconds (avg/min/max)
+Inverting the matrix: 0.194322 seconds
+Distributing solution: 0.0237009 seconds
+Newton iteration 2 0.00016713
+Error init = 1.50468e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19136 / 7.16186 / 7.2293 seconds (avg/min/max)
+Inverting the matrix: 0.195505 seconds
+Distributing solution: 0.027585 seconds
+Newton iteration 3 1.50468e-06
+Error init = 6.81862e-13, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 6.81862e-13
+Computation with omega = 0.035
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1688 / 7.13226 / 7.19193 seconds (avg/min/max)
+Inverting the matrix: 0.171859 seconds
+Distributing solution: 0.0213285 seconds
+Newton iteration 1 0.005
+Error init = 0.000180536, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1839 / 7.14947 / 7.22624 seconds (avg/min/max)
+Inverting the matrix: 0.171463 seconds
+Distributing solution: 0.039626 seconds
+Newton iteration 2 0.000180536
+Error init = 1.57857e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18012 / 7.14377 / 7.23284 seconds (avg/min/max)
+Inverting the matrix: 0.170615 seconds
+Distributing solution: 0.0264077 seconds
+Newton iteration 3 1.57857e-06
+Error init = 1.03479e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.03479e-12
+Computation with omega = 0.04
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16838 / 7.13598 / 7.22617 seconds (avg/min/max)
+Inverting the matrix: 0.17306 seconds
+Distributing solution: 0.0438153 seconds
+Newton iteration 1 0.005
+Error init = 0.000196726, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17945 / 7.14428 / 7.23039 seconds (avg/min/max)
+Inverting the matrix: 0.171407 seconds
+Distributing solution: 0.027533 seconds
+Newton iteration 2 0.000196726
+Error init = 1.66785e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18723 / 7.15346 / 7.21582 seconds (avg/min/max)
+Inverting the matrix: 0.169559 seconds
+Distributing solution: 0.00204788 seconds
+Newton iteration 3 1.66785e-06
+Error init = 2.55449e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.55449e-12
+Computation with omega = 0.045
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.20592 / 7.16331 / 7.25606 seconds (avg/min/max)
+Inverting the matrix: 0.181778 seconds
+Distributing solution: 0.0300675 seconds
+Newton iteration 1 0.005
+Error init = 0.000269243, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.8244 / 7.78466 / 7.86759 seconds (avg/min/max)
+Inverting the matrix: 0.172002 seconds
+Distributing solution: 0.028001 seconds
+Newton iteration 2 0.000269243
+Error init = 1.77446e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.21487 / 7.17805 / 7.27714 seconds (avg/min/max)
+Inverting the matrix: 0.17113 seconds
+Distributing solution: 0.0159605 seconds
+Newton iteration 3 1.77446e-06
+Error init = 1.56572e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.56572e-12
+Computation with omega = 0.05
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16734 / 7.12828 / 7.27077 seconds (avg/min/max)
+Inverting the matrix: 0.174323 seconds
+Distributing solution: 0.031849 seconds
+Newton iteration 1 0.005
+Error init = 0.00037701, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17054 / 7.13153 / 7.20557 seconds (avg/min/max)
+Inverting the matrix: 0.171345 seconds
+Distributing solution: 0.043779 seconds
+Newton iteration 2 0.00037701
+Error init = 1.90128e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17333 / 7.13397 / 7.21033 seconds (avg/min/max)
+Inverting the matrix: 0.162049 seconds
+Distributing solution: 0.0409829 seconds
+Newton iteration 3 1.90128e-06
+Error init = 1.78273e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.78273e-12
+Computation with omega = 0.055
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16297 / 7.12635 / 7.21695 seconds (avg/min/max)
+Inverting the matrix: 0.171534 seconds
+Distributing solution: 0.0202785 seconds
+Newton iteration 1 0.005
+Error init = 0.000502317, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19516 / 7.16032 / 7.2374 seconds (avg/min/max)
+Inverting the matrix: 0.171 seconds
+Distributing solution: 0.0279645 seconds
+Newton iteration 2 0.000502317
+Error init = 2.05232e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18115 / 7.14874 / 7.23106 seconds (avg/min/max)
+Inverting the matrix: 0.170441 seconds
+Distributing solution: 0.0194973 seconds
+Newton iteration 3 2.05232e-06
+Error init = 1.18818e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.18818e-12
+Computation with omega = 0.06
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.15814 / 7.12266 / 7.19937 seconds (avg/min/max)
+Inverting the matrix: 0.172751 seconds
+Distributing solution: 0.0242454 seconds
+Newton iteration 1 0.005
+Error init = 0.000647134, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18458 / 7.14374 / 7.24547 seconds (avg/min/max)
+Inverting the matrix: 0.168389 seconds
+Distributing solution: 0.0435962 seconds
+Newton iteration 2 0.000647134
+Error init = 2.23309e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17613 / 7.14246 / 7.21143 seconds (avg/min/max)
+Inverting the matrix: 0.170083 seconds
+Distributing solution: 0.0200366 seconds
+Newton iteration 3 2.23309e-06
+Error init = 3.09241e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.09241e-12
+Computation with omega = 0.065
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16681 / 7.12823 / 7.22182 seconds (avg/min/max)
+Inverting the matrix: 0.173424 seconds
+Distributing solution: 0.0396128 seconds
+Newton iteration 1 0.005
+Error init = 0.00081388, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18573 / 7.14951 / 7.22251 seconds (avg/min/max)
+Inverting the matrix: 0.169852 seconds
+Distributing solution: 0.0172676 seconds
+Newton iteration 2 0.00081388
+Error init = 2.45093e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1614 / 7.12328 / 7.19976 seconds (avg/min/max)
+Inverting the matrix: 0.164929 seconds
+Distributing solution: 0.0291532 seconds
+Newton iteration 3 2.45093e-06
+Error init = 3.57651e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.57651e-12
+Computation with omega = 0.07
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.45376 / 8.41617 / 8.49774 seconds (avg/min/max)
+Inverting the matrix: 0.17237 seconds
+Distributing solution: 0.0276835 seconds
+Newton iteration 1 0.005
+Error init = 0.00100554, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16882 / 7.13283 / 7.208 seconds (avg/min/max)
+Inverting the matrix: 0.169875 seconds
+Distributing solution: 0.0223213 seconds
+Newton iteration 2 0.00100554
+Error init = 2.71544e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17 / 7.13599 / 7.19756 seconds (avg/min/max)
+Inverting the matrix: 0.183288 seconds
+Distributing solution: 0.0229347 seconds
+Newton iteration 3 2.71544e-06
+Error init = 1.04992e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.04992e-12
+Computation with omega = 0.075
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16862 / 7.13645 / 7.21786 seconds (avg/min/max)
+Inverting the matrix: 0.16653 seconds
+Distributing solution: 0.0316618 seconds
+Newton iteration 1 0.005
+Error init = 0.0012258, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17077 / 7.13658 / 7.21053 seconds (avg/min/max)
+Inverting the matrix: 0.166565 seconds
+Distributing solution: 0.0435354 seconds
+Newton iteration 2 0.0012258
+Error init = 3.03896e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17307 / 7.13878 / 7.21665 seconds (avg/min/max)
+Inverting the matrix: 0.181952 seconds
+Distributing solution: 0.0321378 seconds
+Newton iteration 3 3.03896e-06
+Error init = 2.78321e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.78321e-12
+Computation with omega = 0.08
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.2025 / 7.16994 / 7.24054 seconds (avg/min/max)
+Inverting the matrix: 0.174075 seconds
+Distributing solution: 0.0160933 seconds
+Newton iteration 1 0.005
+Error init = 0.00147927, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.15802 / 7.12438 / 7.20157 seconds (avg/min/max)
+Inverting the matrix: 0.16751 seconds
+Distributing solution: 0.0375669 seconds
+Newton iteration 2 0.00147927
+Error init = 3.43725e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16009 / 7.13007 / 7.20634 seconds (avg/min/max)
+Inverting the matrix: 0.173162 seconds
+Distributing solution: 0.0278313 seconds
+Newton iteration 3 3.43725e-06
+Error init = 2.78874e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.78874e-12
+Computation with omega = 0.085
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17385 / 7.14047 / 7.21421 seconds (avg/min/max)
+Inverting the matrix: 0.198969 seconds
+Distributing solution: 0.0512101 seconds
+Newton iteration 1 0.005
+Error init = 0.00177168, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17427 / 7.13666 / 7.21465 seconds (avg/min/max)
+Inverting the matrix: 0.167324 seconds
+Distributing solution: 0.0409253 seconds
+Newton iteration 2 0.00177168
+Error init = 3.93076e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17756 / 7.14321 / 7.21468 seconds (avg/min/max)
+Inverting the matrix: 0.186644 seconds
+Distributing solution: 0.00216947 seconds
+Newton iteration 3 3.93076e-06
+Error init = 3.95936e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 3.95936e-12
+Computation with omega = 0.09
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.66116 / 7.62666 / 7.69596 seconds (avg/min/max)
+Inverting the matrix: 0.170945 seconds
+Distributing solution: 0.00213297 seconds
+Newton iteration 1 0.005
+Error init = 0.00211027, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.6315 / 7.58879 / 7.67315 seconds (avg/min/max)
+Inverting the matrix: 0.171477 seconds
+Distributing solution: 0.00199628 seconds
+Newton iteration 2 0.00211027
+Error init = 4.54686e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.92937 / 7.89231 / 7.96491 seconds (avg/min/max)
+Inverting the matrix: 0.16514 seconds
+Distributing solution: 0.00204091 seconds
+Newton iteration 3 4.54686e-06
+Error init = 1.07949e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.07949e-11
+Computation with omega = 0.095
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16017 / 7.12676 / 7.19634 seconds (avg/min/max)
+Inverting the matrix: 0.170088 seconds
+Distributing solution: 0.0362132 seconds
+Newton iteration 1 0.005
+Error init = 0.00250429, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17736 / 7.13883 / 7.21933 seconds (avg/min/max)
+Inverting the matrix: 0.169871 seconds
+Distributing solution: 0.0283778 seconds
+Newton iteration 2 0.00250429
+Error init = 5.32401e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17365 / 7.14046 / 7.21574 seconds (avg/min/max)
+Inverting the matrix: 0.169662 seconds
+Distributing solution: 0.0274404 seconds
+Newton iteration 3 5.32401e-06
+Error init = 2.06823e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.06823e-11
+Computation with omega = 0.1
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16283 / 7.13135 / 7.19894 seconds (avg/min/max)
+Inverting the matrix: 0.168361 seconds
+Distributing solution: 0.00203265 seconds
+Newton iteration 1 0.005
+Error init = 0.00296569, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16912 / 7.13755 / 7.2227 seconds (avg/min/max)
+Inverting the matrix: 0.166856 seconds
+Distributing solution: 0.0282692 seconds
+Newton iteration 2 0.00296569
+Error init = 6.31929e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19855 / 7.172 / 7.22837 seconds (avg/min/max)
+Inverting the matrix: 0.167435 seconds
+Distributing solution: 0.00204817 seconds
+Newton iteration 3 6.31929e-06
+Error init = 4.50543e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 4.50543e-11
+Computation with omega = 0.105
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.15495 / 7.1225 / 7.21232 seconds (avg/min/max)
+Inverting the matrix: 0.17098 seconds
+Distributing solution: 0.0292097 seconds
+Newton iteration 1 0.005
+Error init = 0.00351035, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17461 / 7.15268 / 7.21077 seconds (avg/min/max)
+Inverting the matrix: 0.171928 seconds
+Distributing solution: 0.0272045 seconds
+Newton iteration 2 0.00351035
+Error init = 7.62195e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17944 / 7.14482 / 7.21992 seconds (avg/min/max)
+Inverting the matrix: 0.168211 seconds
+Distributing solution: 0.0279378 seconds
+Newton iteration 3 7.62195e-06
+Error init = 9.15833e-11, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 9.15833e-11
+Computation with omega = 0.11
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16479 / 7.12597 / 7.20741 seconds (avg/min/max)
+Inverting the matrix: 0.16592 seconds
+Distributing solution: 0.0524078 seconds
+Newton iteration 1 0.005
+Error init = 0.00415987, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18227 / 7.14394 / 7.21754 seconds (avg/min/max)
+Inverting the matrix: 0.165853 seconds
+Distributing solution: 0.00208512 seconds
+Newton iteration 2 0.00415987
+Error init = 9.37938e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.67489 / 7.64265 / 7.716 seconds (avg/min/max)
+Inverting the matrix: 0.168897 seconds
+Distributing solution: 0.00210707 seconds
+Newton iteration 3 9.37938e-06
+Error init = 1.9532e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 1.9532e-10
+Computation with omega = 0.115
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.29151 / 7.25841 / 7.33235 seconds (avg/min/max)
+Inverting the matrix: 0.170331 seconds
+Distributing solution: 0.00204776 seconds
+Newton iteration 1 0.005
+Error init = 0.00494471, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16215 / 7.13149 / 7.20741 seconds (avg/min/max)
+Inverting the matrix: 0.167826 seconds
+Distributing solution: 0.00205546 seconds
+Newton iteration 2 0.00494471
+Error init = 1.18505e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17854 / 7.14385 / 7.22851 seconds (avg/min/max)
+Inverting the matrix: 0.166877 seconds
+Distributing solution: 0.00205704 seconds
+Newton iteration 3 1.18505e-05
+Error init = 4.31184e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 4.31184e-10
+Computation with omega = 0.12
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17812 / 7.14477 / 7.23063 seconds (avg/min/max)
+Inverting the matrix: 0.203378 seconds
+Distributing solution: 0.00206211 seconds
+Newton iteration 1 0.005
+Error init = 0.00590963, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16496 / 7.12602 / 7.21079 seconds (avg/min/max)
+Inverting the matrix: 0.168922 seconds
+Distributing solution: 0.0020402 seconds
+Newton iteration 2 0.00590963
+Error init = 1.55269e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17664 / 7.14268 / 7.21605 seconds (avg/min/max)
+Inverting the matrix: 0.169011 seconds
+Distributing solution: 0.00205673 seconds
+Newton iteration 3 1.55269e-05
+Error init = 9.88934e-10, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 9.88934e-10
+Computation with omega = 0.125
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18254 / 7.16023 / 7.2152 seconds (avg/min/max)
+Inverting the matrix: 0.169186 seconds
+Distributing solution: 0.0020634 seconds
+Newton iteration 1 0.005
+Error init = 0.00712389, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.21271 / 7.19116 / 7.23165 seconds (avg/min/max)
+Inverting the matrix: 0.19573 seconds
+Distributing solution: 0.00203418 seconds
+Newton iteration 2 0.00712389
+Error init = 2.14396e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1721 / 7.15317 / 7.19561 seconds (avg/min/max)
+Inverting the matrix: 0.167172 seconds
+Distributing solution: 0.0401495 seconds
+Newton iteration 3 2.14396e-05
+Error init = 2.3689e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 2.3689e-09
+Computation with omega = 0.13
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17775 / 7.14157 / 7.21007 seconds (avg/min/max)
+Inverting the matrix: 0.172157 seconds
+Distributing solution: 0.0193345 seconds
+Newton iteration 1 0.005
+Error init = 0.00870215, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17583 / 7.15 / 7.20073 seconds (avg/min/max)
+Inverting the matrix: 0.188439 seconds
+Distributing solution: 0.0441807 seconds
+Newton iteration 2 0.00870215
+Error init = 3.20283e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1792 / 7.13937 / 7.20619 seconds (avg/min/max)
+Inverting the matrix: 0.167887 seconds
+Distributing solution: 0.0303454 seconds
+Newton iteration 3 3.20283e-05
+Error init = 6.08933e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 4 6.08933e-09
+Computation with omega = 0.135
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.12673 / 7.09221 / 7.16288 seconds (avg/min/max)
+Inverting the matrix: 0.162549 seconds
+Distributing solution: 0.027627 seconds
+Newton iteration 1 0.005
+Error init = 0.0108517, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.41793 / 8.38146 / 8.46714 seconds (avg/min/max)
+Inverting the matrix: 0.169289 seconds
+Distributing solution: 0.0278264 seconds
+Newton iteration 2 0.0108517
+Error init = 5.39245e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.15673 / 7.12404 / 7.19173 seconds (avg/min/max)
+Inverting the matrix: 0.172301 seconds
+Distributing solution: 0.0271271 seconds
+Newton iteration 3 5.39245e-05
+Error init = 1.72388e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19801 / 7.16264 / 7.22686 seconds (avg/min/max)
+Inverting the matrix: 0.167608 seconds
+Distributing solution: 0.027517 seconds
+Newton iteration 4 1.72388e-08
+Error init = 1.71248e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 1.71248e-12
+Computation with omega = 0.14
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16479 / 7.13297 / 7.18927 seconds (avg/min/max)
+Inverting the matrix: 0.166373 seconds
+Distributing solution: 0.0400594 seconds
+Newton iteration 1 0.005
+Error init = 0.0139924, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16963 / 7.13685 / 7.20023 seconds (avg/min/max)
+Inverting the matrix: 0.169909 seconds
+Distributing solution: 0.0435721 seconds
+Newton iteration 2 0.0139924
+Error init = 0.000107898, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17148 / 7.14878 / 7.19479 seconds (avg/min/max)
+Inverting the matrix: 0.170219 seconds
+Distributing solution: 0.0240255 seconds
+Newton iteration 3 0.000107898
+Error init = 5.49521e-08, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.16289 / 7.13192 / 7.18886 seconds (avg/min/max)
+Inverting the matrix: 0.16971 seconds
+Distributing solution: 0.0435445 seconds
+Newton iteration 4 5.49521e-08
+Error init = 3.10255e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 3.10255e-12
+Computation with omega = 0.145
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17472 / 7.13914 / 7.20379 seconds (avg/min/max)
+Inverting the matrix: 0.173235 seconds
+Distributing solution: 0.0201422 seconds
+Newton iteration 1 0.005
+Error init = 0.0191036, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17978 / 7.14376 / 7.20132 seconds (avg/min/max)
+Inverting the matrix: 0.168438 seconds
+Distributing solution: 0.031912 seconds
+Newton iteration 2 0.0191036
+Error init = 0.000266438, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.20416 / 7.16866 / 7.23872 seconds (avg/min/max)
+Inverting the matrix: 0.168182 seconds
+Distributing solution: 0.0280873 seconds
+Newton iteration 3 0.000266438
+Error init = 1.94329e-07, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17435 / 7.15343 / 7.20507 seconds (avg/min/max)
+Inverting the matrix: 0.168354 seconds
+Distributing solution: 0.0290854 seconds
+Newton iteration 4 1.94329e-07
+Error init = 1.42351e-12, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 5 1.42351e-12
+Computation with omega = 0.15
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18073 / 7.15308 / 7.20013 seconds (avg/min/max)
+Inverting the matrix: 0.173227 seconds
+Distributing solution: 0.0279113 seconds
+Newton iteration 1 0.005
+Error init = 0.0288087, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1701 / 7.14744 / 7.18949 seconds (avg/min/max)
+Inverting the matrix: 0.975945 seconds
+Distributing solution: 0.0192504 seconds
+Newton iteration 2 0.0288087
+Error init = 0.000908394, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 8.64655 / 8.61477 / 8.66878 seconds (avg/min/max)
+Inverting the matrix: 0.171955 seconds
+Distributing solution: 0.0214474 seconds
+Newton iteration 3 0.000908394
+Error init = 6.7836e-07, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.26458 / 7.22796 / 7.28739 seconds (avg/min/max)
+Inverting the matrix: 0.171519 seconds
+Distributing solution: 0.0248108 seconds
+Newton iteration 4 6.7836e-07
+Error init = 1.95249e-12, Eq: DDN_ij - N * PartR_ij - Pfourhor * LieK_ij=0 Dom: 1 Bounday: 2
+Newton iteration 5 1.95249e-12
+Computation with omega = 0.155
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18168 / 7.1445 / 7.19587 seconds (avg/min/max)
+Inverting the matrix: 0.193445 seconds
+Distributing solution: 0.00203627 seconds
+Newton iteration 1 0.005
+Error init = 0.0504886, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19627 / 7.16221 / 7.22936 seconds (avg/min/max)
+Inverting the matrix: 0.172631 seconds
+Distributing solution: 0.00204409 seconds
+Newton iteration 2 0.0504886
+Error init = 0.000605119, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18368 / 7.15152 / 7.20328 seconds (avg/min/max)
+Inverting the matrix: 0.167042 seconds
+Distributing solution: 0.00200953 seconds
+Newton iteration 3 0.000605119
+Error init = 0.000325831, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18915 / 7.15577 / 7.21644 seconds (avg/min/max)
+Inverting the matrix: 0.172456 seconds
+Distributing solution: 0.0400354 seconds
+Newton iteration 4 0.000325831
+Error init = 1.10467e-05, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17933 / 7.14507 / 7.20167 seconds (avg/min/max)
+Inverting the matrix: 0.169141 seconds
+Distributing solution: 0.00204746 seconds
+Newton iteration 5 1.10467e-05
+Error init = 6.21196e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 6 6.21196e-09
+Computation with omega = 0.16
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.1942 / 7.16049 / 7.21713 seconds (avg/min/max)
+Inverting the matrix: 0.170445 seconds
+Distributing solution: 0.00205312 seconds
+Newton iteration 1 0.005
+Error init = 0.0274407, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.19072 / 7.15731 / 7.22692 seconds (avg/min/max)
+Inverting the matrix: 0.169601 seconds
+Distributing solution: 0.00210528 seconds
+Newton iteration 2 0.0274407
+Error init = 0.0182618, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18523 / 7.14557 / 7.24651 seconds (avg/min/max)
+Inverting the matrix: 0.220994 seconds
+Distributing solution: 0.00206178 seconds
+Newton iteration 3 0.0182618
+Error init = 0.00705461, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.21208 / 7.17398 / 7.2482 seconds (avg/min/max)
+Inverting the matrix: 0.169639 seconds
+Distributing solution: 0.0020532 seconds
+Newton iteration 4 0.00705461
+Error init = 4.52986e-06, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.18542 / 7.15136 / 7.21311 seconds (avg/min/max)
+Inverting the matrix: 0.169371 seconds
+Distributing solution: 0.00210482 seconds
+Newton iteration 5 4.52986e-06
+Error init = 2.32216e-09, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+Newton iteration 6 2.32216e-09
+Computation with omega = 0.165
+Error init = 0.005, Eq: bet^i = n0 / P^2 * st^i + Ome * m^i * a Dom: 1 Bounday: 2
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.17572 / 7.14542 / 7.21172 seconds (avg/min/max)
+Inverting the matrix: 0.169687 seconds
+Distributing solution: 0.00204446 seconds
+Newton iteration 1 0.005
+Error init = 0.205624, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.52739 / 7.48708 / 7.56587 seconds (avg/min/max)
+Inverting the matrix: 0.179852 seconds
+Distributing solution: 0.00205806 seconds
+Newton iteration 2 0.205624
+Error init = 0.116073, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.07187 / 7.04065 / 7.09607 seconds (avg/min/max)
+Inverting the matrix: 0.165749 seconds
+Distributing solution: 0.00204741 seconds
+Newton iteration 3 0.116073
+Error init = 0.159718, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.20927 / 7.18052 / 7.22528 seconds (avg/min/max)
+Inverting the matrix: 0.170689 seconds
+Distributing solution: 0.00211231 seconds
+Newton iteration 4 0.159718
+Error init = 0.0419448, Eq: R - 8 * D_i DP^i / P - P^4 * A_ij * A^ij = 0 Dom: 1 Bounday: -1
+DOF / rank = 1656 x 1656 / 75 = 36564.5
+Block size is 16, consider lowering the number of cores.
+slurmstepd: error: *** JOB 1688361 ON node168 CANCELLED AT 2022-08-19T08:13:46 ***
