@@ -1,0 +1,501 @@
+No dat file associated with : ./initial_bns_d32_s+.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.16433
+                madm: 1
+                  mb: 1.06976
+      n_inner_shells: 0
+                  nc: 0.00110871
+             nshells: 0
+               omega: 0.00507285
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: 0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.46417 6.9899
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.23208 6.46417 10.4849 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: 0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: 0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: 0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+############################
+Binary boosted NS
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Mb:          +1.06881
+Madm:        +1
+Madm_ql:     +1 [+1.41495e-08]
+Mk:          +1.00027 [+0.000265475]
+R:           +6.47623 +7.00565
+Jadm:        +0.3
+Chi:         +0.3 [+0.3]
+Omega:       +0.0145918
+=======================================
+
+Error init = 0.00024091, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 24690 x 24690 / 512 = 1.19062e+06
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 94.2078 / 93.1623 / 95.3541 seconds (avg/min/max)
+Inverting the matrix: 191.264 seconds
+Distributing solution: 0.102614 seconds
+=======================================
+Iter:        +1
+Error:       +0.00024091
+Mb:          +1.06881
+Madm:        +1
+Madm_ql:     +1 [+1.41495e-08]
+Mk:          +1.00027 [+0.000265475]
+R:           +6.47623 +7.00565
+Jadm:        +0.3
+Chi:         +0.3 [+0.3]
+Omega:       +0.0155202
+=======================================
+
+Error init = 7.30451e-06, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 24690 x 24690 / 512 = 1.19062e+06
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 92.495 / 92.0952 / 92.8583 seconds (avg/min/max)
+Inverting the matrix: 209.931 seconds
+Distributing solution: 0.099783 seconds
+=======================================
+Iter:        +2
+Error:       +7.30451e-06
+Mb:          +1.06906
+Madm:        +0.999992
+Madm_ql:     +0.999992 [+1.38594e-08]
+Mk:          +1.02822 [+0.0282244]
+R:           +6.47623 +7.00565
+Jadm:        +0.3
+Chi:         +0.300005 [+0.3]
+Omega:       +0.0155261
+=======================================
+
+Error init = 1.15446e-08, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 24690 x 24690 / 512 = 1.19062e+06
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 93.1725 / 92.7934 / 93.5487 seconds (avg/min/max)
+Inverting the matrix: 200.683 seconds
+Distributing solution: 0.11271 seconds
+=======================================
+Iter:        +3
+Error:       +1.15446e-08
+Mb:          +1.06905
+Madm:        +1
+Madm_ql:     +1 [+1.33818e-08]
+Mk:          +1.02823 [+0.028228]
+R:           +6.47623 +7.00565
+Jadm:        +0.3
+Chi:         +0.3 [+0.3]
+Omega:       +0.0155261
+=======================================
+
+Error init = 1.34273e-11, Eq: integ(intMadmalt) = qlMadm Dom: 3 Bounday: 1
+=======================================
+Iter:        +4
+Error:       +1.34273e-11
+Mb:          +1.06905
+Madm:        +1
+Madm_ql:     +1 [+1.43688e-08]
+Mk:          +1.02823 [+0.028228]
+R:           +6.47623 +7.00565
+Jadm:        +0.3
+Chi:         +0.3 [+0.3]
+Omega:       +0.0155261
+=======================================
+
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.1.0.09.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.16433
+                madm: 1
+                  mb: 1.06976
+      n_inner_shells: 0
+                  nc: 0.00110871
+             nshells: 0
+               omega: 0.00507285
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: 0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.46417 6.9899
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.23208 6.46417 10.4849 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: 0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: 0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.3.0.11.dat
+*****************ns info*****************
+                 chi: 0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: 0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_32_0.00722501.togashi.1.0.3.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_32_0.00722501.togashi.1.0.3.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_32_0.00722501.togashi.1.0.3.0.11.info
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+[node301:420820] *** Process received signal ***
+[node301:420820] Signal: Aborted (6)
+[node301:420820] Signal code:  (-6)
+[node301:420820] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b3a2a8745d0]
+[node301:420820] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b3a2aab7207]
+[node301:420820] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b3a2aab88f8]
+[node301:420820] [ 3] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0x9974c)[0x2b3a2a01674c]
+[node301:420820] [ 4] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4a06)[0x2b3a2a021a06]
+[node301:420820] [ 5] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4a71)[0x2b3a2a021a71]
+[node301:420820] [ 6] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0xa4d05)[0x2b3a2a021d05]
+[node301:420820] [ 7] /cluster/spack/opt/spack/linux-centos7-broadwell/gcc-8.1.0/gcc-10.2.0-ru4xdhhkxnma5i727b7njtnjoh6kff3s/lib64/libstdc++.so.6(+0x9938a)[0x2b3a2a01638a]
+[node301:420820] [ 8] ./solve(_ZN6Kadath8fread_beEPiiiP8_IO_FILE+0x2c)[0x5a995c]
+[node301:420820] [ 9] ./solve(_ZN6Kadath6DomainC2EiP8_IO_FILE+0x93)[0x542f03]
+[node301:420820] [10] ./solve(_ZN6Kadath14Domain_nucleusC1EiP8_IO_FILE+0x13)[0x668633]
+[node301:420820] [11] ./solve(_ZN6Kadath21Space_spheric_adaptedC2EP8_IO_FILE+0x10d)[0x55d59d]
+[node301:420820] [12] ./solve(_Z20bns_setup_boosted_3dIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEEEvR19kadath_config_boostI11BCO_NS_INFOES8_RS5_I8BIN_INFOE+0x226)[0x4cecc6]
+[node301:420820] [13] ./solve(_Z28bns_xcts_superimposed_importR19kadath_config_boostI8BIN_INFOESt5arrayINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEELm2EE+0x3f5)[0x4d1015]
+[node301:420820] [14] ./solve(_Z20bns_xcts_setup_spaceR19kadath_config_boostI8BIN_INFOE+0x2ef)[0x4d149f]
+[node301:420820] [15] ./solve(main+0x58e)[0x46c80e]
+[node301:420820] [16] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3a2aaa33d5]
+[node301:420820] [17] ./solve[0x4711d7]
+[node301:420820] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+An MPI communication peer process has unexpectedly disconnected.  This
+usually indicates a failure in the peer process (e.g., a crash or
+otherwise exiting without calling MPI_FINALIZE first).
+
+Although this local MPI process will likely now behave unpredictably
+(it may even hang or crash), the root cause of this problem is the
+failure of the peer -- that is what you need to investigate.  For
+example, there may be a core file that you can examine.  More
+generally: such peer hangups are frequently caused by application bugs
+or other external events.
+
+  Local host: node313
+  Local PID:  54893
+  Peer host:  node301
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node node301 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[node301:420792] 8 more processes have sent help message help-mpi-btl-tcp.txt / peer hung up
+[node301:420792] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

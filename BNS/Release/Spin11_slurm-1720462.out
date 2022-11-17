@@ -1,0 +1,2818 @@
+No dat file associated with : ./initial_bns_d20_s-.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.16433
+                madm: 1
+                  mb: 1.06976
+      n_inner_shells: 0
+                  nc: 0.00110871
+             nshells: 0
+               omega: -0.00507285
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: -0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.46417 6.9899
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.23208 6.46417 10.4849 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: -0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0140018.togashi.1.-0.3.0.11.info
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.1.0.09.dat
+*****************ns info*****************
+                 chi: -0.1
+                 dim: 3
+                  hc: 1.16433
+                madm: 1
+                  mb: 1.06976
+      n_inner_shells: 0
+                  nc: 0.00110871
+             nshells: 0
+               omega: -0.00507285
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: -0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.46417 6.9899
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.23208 6.46417 10.4849 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15727
+                madm: 1
+                  mb: 1.06689
+      n_inner_shells: 0
+                  nc: 0.00108579
+             nshells: 0
+               omega: -0.0145214
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.-0.3.0.11.dat
+*****************ns info*****************
+                 chi: -0.3
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0145918
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23208
+                rmid: 6.46417
+                rout: 10.4849
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0140018.togashi.1.-0.3.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0140018.togashi.1.-0.3.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0140018.togashi.1.-0.3.0.11.info
+Bounds:
+Outer: 40 
+NS1: 3.23811 7.00565 8.00377 
+NS2: 3.23811 7.00565 8.00377 
+xc1: -10
+xc2: 10
+WeightNS1: 10, WeightNS2: 10
+Config File: ./initbin.info
+Fields File: ./initbin.dat
+***************binary info***************
+                 com: 0
+                comy: 0
+            distance: 20
+           ecc_omega: 0.0140018
+        global_omega: 0.0140018
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 9
+                rext: 40
+*****************ns info*****************
+                 chi: -0.3
+         decay_limit: 10
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0155261
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23811
+                rmid: 7.00565
+                rout: 8.00377
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+*****************ns info*****************
+                 chi: -0.3
+         decay_limit: 10
+                 dim: 3
+                  hc: 1.15871
+                madm: 1
+                  mb: 1.06905
+      n_inner_shells: 0
+                  nc: 0.00109054
+             nshells: 0
+               omega: -0.0155261
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.23811
+                rmid: 7.00565
+                rout: 8.00377
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+=================================
+BNS grav input
+Distance: 20
+Omega guess: 0.0140018
+Units: 12.5664
+=================================
+############################
+Py fixing without first integral and fixed omega, chi = -0.3,-0.3 and q = 1
+with Py BC fixing
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.0140018
+Axis:        +0
+P:           [+0, +0, +0]
+
+NS1-Mb:      +1.01355
+NS1-Madm_ql: +1.49821
+NS1-S:       -0.276381
+NS1-Chi:     -0.276381
+NS1-Chi_ql:  -0.123129
+NS1-OmegaS:  -0.0155261
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.01355
+NS2-Madm_ql: +1.49821
+NS2-S:       -0.276381
+NS2-Chi:     -0.276381
+NS2-Chi_ql:  -0.123129
+NS2-OmegaS:  -0.0155261
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 0.498212, Eq: integvolume(intM) = qlMadm1 Dom: 0 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 983.943 / 982.521 / 985.18 seconds (avg/min/max)
+Inverting the matrix: 285.985 seconds
+Distributing solution: 0.0995941 seconds
+=======================================
+Iter:        +1
+Error:       +0.498212
+Omega:       +0.0140018
+Axis:        -6.22591e-08
+P:           [+1.5384e-10, +2.79478e-10, +0]
+
+NS1-Mb:      +1.00375
+NS1-Madm_ql: +1.13497
+NS1-S:       -0.324337
+NS1-Chi:     -0.324337
+NS1-Chi_ql:  -0.251786
+NS1-OmegaS:  -0.0138063
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.00375
+NS2-Madm_ql: +1.13497
+NS2-S:       -0.324337
+NS2-Chi:     -0.324337
+NS2-Chi_ql:  -0.251786
+NS2-OmegaS:  -0.0138063
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 0.0653024, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 962.004 / 960.574 / 963.304 seconds (avg/min/max)
+Inverting the matrix: 262.938 seconds
+Distributing solution: 0.105533 seconds
+=======================================
+Iter:        +2
+Error:       +0.0653024
+Omega:       +0.0140018
+Axis:        -2.46392e-08
+P:           [+3.07704e-11, +5.16336e-11, +0]
+
+NS1-Mb:      +1.04907
+NS1-Madm_ql: +0.901922
+NS1-S:       -0.301919
+NS1-Chi:     -0.301919
+NS1-Chi_ql:  -0.371152
+NS1-OmegaS:  -0.0162189
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.04907
+NS2-Madm_ql: +0.901922
+NS2-S:       -0.301919
+NS2-Chi:     -0.301919
+NS2-Chi_ql:  -0.371152
+NS2-OmegaS:  -0.0162189
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 0.0199808, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 978.436 / 976.897 / 979.768 seconds (avg/min/max)
+Inverting the matrix: 288.557 seconds
+Distributing solution: 0.109957 seconds
+=======================================
+Iter:        +3
+Error:       +0.0199808
+Omega:       +0.0140018
+Axis:        -3.28272e-10
+P:           [+1.83435e-13, -3.68032e-13, +0]
+
+NS1-Mb:      +1.06758
+NS1-Madm_ql: +0.979015
+NS1-S:       -0.299816
+NS1-Chi:     -0.299816
+NS1-Chi_ql:  -0.312807
+NS1-OmegaS:  -0.0144757
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06758
+NS2-Madm_ql: +0.979015
+NS2-S:       -0.299816
+NS2-Chi:     -0.299816
+NS2-Chi_ql:  -0.312807
+NS2-OmegaS:  -0.0144757
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 0.00147701, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 977.954 / 976.547 / 979.104 seconds (avg/min/max)
+Inverting the matrix: 265.542 seconds
+Distributing solution: 0.0927694 seconds
+=======================================
+Iter:        +4
+Error:       +0.00147701
+Omega:       +0.0140018
+Axis:        -1.89461e-10
+P:           [-6.55564e-15, +5.46285e-14, +0]
+
+NS1-Mb:      +1.06906
+NS1-Madm_ql: +0.983231
+NS1-S:       -0.3
+NS1-Chi:     -0.3
+NS1-Chi_ql:  -0.31032
+NS1-OmegaS:  -0.0143889
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06906
+NS2-Madm_ql: +0.983231
+NS2-S:       -0.3
+NS2-Chi:     -0.3
+NS2-Chi_ql:  -0.31032
+NS2-OmegaS:  -0.0143889
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 6.94352e-06, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 972.752 / 971.283 / 973.93 seconds (avg/min/max)
+Inverting the matrix: 262.265 seconds
+Distributing solution: 0.0884081 seconds
+=======================================
+Iter:        +5
+Error:       +6.94352e-06
+Omega:       +0.0140018
+Axis:        -1.94076e-11
+P:           [+7.50649e-16, -2.93968e-14, +0]
+
+NS1-Mb:      +1.06905
+NS1-Madm_ql: +0.983235
+NS1-S:       -0.3
+NS1-Chi:     -0.3
+NS1-Chi_ql:  -0.310318
+NS1-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06905
+NS2-Madm_ql: +0.983235
+NS2-S:       -0.3
+NS2-Chi:     -0.3
+NS2-Chi_ql:  -0.310318
+NS2-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 5.22786e-08, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 100 = 1.70759e+07
+Load and redistrib Jacobian: 976.551 / 975.16 / 977.687 seconds (avg/min/max)
+Inverting the matrix: 264.913 seconds
+Distributing solution: 0.0988892 seconds
+=======================================
+Iter:        +6
+Error:       +5.22786e-08
+Omega:       +0.0140018
+Axis:        -2.48099e-12
+P:           [-2.21163e-14, +4.33972e-14, +0]
+
+NS1-Mb:      +1.06905
+NS1-Madm_ql: +0.983235
+NS1-S:       -0.3
+NS1-Chi:     -0.3
+NS1-Chi_ql:  -0.310318
+NS1-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06905
+NS2-Madm_ql: +0.983235
+NS2-S:       -0.3
+NS2-Chi:     -0.3
+NS2-Chi_ql:  -0.310318
+NS2-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 1.49941e-10, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+=======================================
+Iter:        +7
+Error:       +1.49941e-10
+Omega:       +0.0140018
+Axis:        -2.48099e-12
+P:           [-2.21163e-14, +4.33972e-14, +0]
+
+NS1-Mb:      +1.06905
+NS1-Madm_ql: +0.983235
+NS1-S:       -0.3
+NS1-Chi:     -0.3
+NS1-Chi_ql:  -0.310318
+NS1-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06905
+NS2-Madm_ql: +0.983235
+NS2-S:       -0.3
+NS2-Chi:     -0.3
+NS2-Chi_ql:  -0.310318
+NS2-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+############################
+Total with mass fixing, chi = -0.3,-0.3 and q = 1
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.0140018
+Axis:        -2.48099e-12
+P:           [-2.21163e-14, +4.33972e-14, +0]
+
+NS1-Mb:      +1.06905
+NS1-Madm_ql: +0.983235
+NS1-S:       -0.3
+NS1-Chi:     -0.3
+NS1-Chi_ql:  -0.310318
+NS1-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+
+NS2-Mb:      +1.06905
+NS2-Madm_ql: +0.983235
+NS2-S:       -0.3
+NS2-Chi:     -0.3
+NS2-Chi_ql:  -0.310318
+NS2-OmegaS:  -0.0143888
+NS-Rs:       +6.47623 +7.00565
+=======================================
+
+Error init = 0.019437, Eq: firstint Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 100 = 2.34227e+07
+Load and redistrib Jacobian: 968.113 / 965.997 / 969.636 seconds (avg/min/max)
+Inverting the matrix: 419.747 seconds
+Distributing solution: 0.108026 seconds
+=======================================
+Iter:        +1
+Error:       +0.019437
+Omega:       +0.0142689
+Axis:        -5.32949e-12
+P:           [-1.47665e-12, +1.05926e-08, +0]
+
+NS1-Mb:      +1.06559
+NS1-Madm_ql: +1.03638
+NS1-S:       -0.220372
+NS1-Chi:     -0.220372
+NS1-Chi_ql:  -0.205174
+NS1-OmegaS:  -0.0143879
+NS-Rs:       +5.23731 +9.40723
+
+NS2-Mb:      +1.06559
+NS2-Madm_ql: +1.03638
+NS2-S:       -0.220372
+NS2-Chi:     -0.220372
+NS2-Chi_ql:  -0.205174
+NS2-OmegaS:  -0.0143879
+NS-Rs:       +5.23731 +9.40723
+=======================================
+
+Error init = 0.104113, Eq: dn(phi) Dom: 0 Bounday: 1
+DOF / rank = 48397 x 48397 / 100 = 2.34227e+07
+Load and redistrib Jacobian: 945.071 / 942.826 / 946.615 seconds (avg/min/max)
+Inverting the matrix: 383.704 seconds
+Distributing solution: 0.122351 seconds
+=======================================
+Iter:        +2
+Error:       +0.104113
+Omega:       +0.014628
+Axis:        -3.92522e-10
+P:           [-2.43018e-11, +2.49205e-08, +0]
+
+NS1-Mb:      +1.06874
+NS1-Madm_ql: +0.997004
+NS1-S:       -0.303938
+NS1-Chi:     -0.303938
+NS1-Chi_ql:  -0.305767
+NS1-OmegaS:  -0.0188238
+NS-Rs:       +5.33972 +9.86301
+
+NS2-Mb:      +1.06874
+NS2-Madm_ql: +0.997004
+NS2-S:       -0.303938
+NS2-Chi:     -0.303938
+NS2-Chi_ql:  -0.305767
+NS2-OmegaS:  -0.0188238
+NS-Rs:       +5.33972 +9.86301
+=======================================
+
+Error init = 0.0860322, Eq: eqP= 0 Dom: 2 Bounday: -1
+DOF / rank = 48397 x 48397 / 100 = 2.34227e+07
+Load and redistrib Jacobian: 947.279 / 945.071 / 948.756 seconds (avg/min/max)
+Inverting the matrix: 382.043 seconds
+Distributing solution: 0.114416 seconds
+=======================================
+Iter:        +3
+Error:       +0.0860322
+Omega:       +0.0110991
+Axis:        -2.2112e-09
+P:           [-1.30996e-11, +1.14702e-08, +0]
+
+NS1-Mb:      +1.07166
+NS1-Madm_ql: +0.921785
+NS1-S:       -0.303887
+NS1-Chi:     -0.303887
+NS1-Chi_ql:  -0.357645
+NS1-OmegaS:  -0.0256437
+NS-Rs:       +5.17877 +14.165
+
+NS2-Mb:      +1.07166
+NS2-Madm_ql: +0.921785
+NS2-S:       -0.303887
+NS2-Chi:     -0.303887
+NS2-Chi_ql:  -0.357645
+NS2-OmegaS:  -0.0256437
+NS-Rs:       +5.17877 +14.165
+=======================================
+
+Error init = 0.118929, Eq: dn(phi) Dom: 3 Bounday: 1
+DOF / rank = 48397 x 48397 / 100 = 2.34227e+07
+Load and redistrib Jacobian: 965.107 / 962.877 / 966.683 seconds (avg/min/max)
+Inverting the matrix: 374.983 seconds
+Distributing solution: 0.106404 seconds
+=======================================
+Iter:        +4
+Error:       +0.118929
+Omega:       +0.109544
+Axis:        +6.78032e-06
+P:           [+0.000454789, +0.00895349, +0]
+
+NS1-Mb:      +159.982
+NS1-Madm_ql: +1.40898e+08
+NS1-S:       -72.2448
+NS1-Chi:     -72.2448
+NS1-Chi_ql:  -3.63914e-15
+NS1-OmegaS:  +0.12655
+NS-Rs:       -43.2238 +123.438
+
+NS2-Mb:      +159.982
+NS2-Madm_ql: +1.40898e+08
+NS2-S:       -72.2448
+NS2-Chi:     -72.2448
+NS2-Chi_ql:  -3.63913e-15
+NS2-OmegaS:  +0.12655
+NS-Rs:       -43.2238 +123.438
+=======================================
+
+Error init = 3.64994e+17, Eq: eqbet^i= 0 Dom: 8 Bounday: -1
+DOF / rank = 48397 x 48397 / 100 = 2.34227e+07
+Load and redistrib Jacobian: 962.799 / 960.645 / 964.246 seconds (avg/min/max)
+Inverting the matrix: 375.446 seconds
+Distributing solution: 0.121439 seconds
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node261:165403] *** Process received signal ***
+[node261:165403] Signal: Aborted (6)
+[node261:165403] Signal code:  (-6)
+[node261:165403] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ad32ac6c5d0]
+[node261:165403] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ad32aeaf207]
+[node261:165403] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ad32aeb08f8]
+[node261:165403] [ 3] ./solve[0x45fc2d]
+[node261:165403] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165403] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165403] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165403] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165403] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165403] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165403] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165403] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165403] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165403] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad32ae9b3d5]
+[node261:165403] [14] ./solve[0x4711d7]
+[node261:165403] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node261:165402] *** Process received signal ***
+[node261:165402] Signal: Aborted (6)
+[node261:165402] Signal code:  (-6)
+[node261:165402] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ad67067f5d0]
+[node261:165402] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ad6708c2207]
+[node261:165402] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ad6708c38f8]
+[node261:165402] [ 3] ./solve[0x45fc2d]
+[node261:165402] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165402] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165402] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165402] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165402] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165402] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165402] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165402] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165402] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165402] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad6708ae3d5]
+[node261:165402] [14] ./solve[0x4711d7]
+[node261:165402] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node261:165409] *** Process received signal ***
+[node261:165409] Signal: Aborted (6)
+[node261:165409] Signal code:  (-6)
+[node261:165409] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b1d47d255d0]
+[node261:165409] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b1d47f68207]
+[node261:165409] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b1d47f698f8]
+[node261:165409] [ 3] ./solve[0x45fc2d]
+[node261:165409] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165409] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165409] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165409] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165409] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165409] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165409] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165409] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165409] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165409] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b1d47f543d5]
+[node261:165409] [14] ./solve[0x4711d7]
+[node261:165409] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+Point Point (Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407561] *** Process received signal ***
+[node163:407561] Signal: Aborted (6)
+[node163:407561] Signal code:  (-6)
+[node163:407561] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b11d26535d0]
+[node163:407561] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b11d2896207]
+[node163:407561] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b11d28978f8]
+[node163:407561] [ 3] ./solve[0x45fc2d]
+[node163:407561] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407561] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407561] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407561] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407561] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407561] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407561] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407561] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407561] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407561] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b11d28823d5]
+[node163:407561] [14] ./solve[0x4711d7]
+[node163:407561] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407539] *** Process received signal ***
+[node163:407539] Signal: Aborted (6)
+[node163:407539] Signal code:  (-6)
+[node163:407539] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ab930b1d5d0]
+[node163:407539] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ab930d60207]
+[node163:407539] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ab930d618f8]
+[node163:407539] [ 3] ./solve[0x45fc2d]
+[node163:407539] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407539] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407539] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407539] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407539] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407539] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407539] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407539] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407539] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407539] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab930d4c3d5]
+[node163:407539] [14] ./solve[0x4711d7]
+[node163:407539] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407540] *** Process received signal ***
+[node163:407540] Signal: Aborted (6)
+[node163:407540] Signal code:  (-6)
+[node163:407540] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b133892a5d0]
+[node163:407540] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b1338b6d207]
+[node163:407540] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b1338b6e8f8]
+[node163:407540] [ 3] ./solve[0x45fc2d]
+[node163:407540] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407540] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407540] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407540] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407540] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407540] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407540] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407540] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407540] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407540] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b1338b593d5]
+[node163:407540] [14] ./solve[0x4711d7]
+[node163:407540] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407541] *** Process received signal ***
+[node163:407541] Signal: Aborted (6)
+[node163:407541] Signal code:  (-6)
+[node163:407541] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ac6bbf8b5d0]
+[node163:407541] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ac6bc1ce207]
+[node163:407541] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ac6bc1cf8f8]
+[node163:407541] [ 3] ./solve[0x45fc2d]
+[node163:407541] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407541] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407541] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407541] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407541] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407541] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407541] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407541] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407541] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407541] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ac6bc1ba3d5]
+[node163:407541] [14] ./solve[0x4711d7]
+[node163:407541] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407542] *** Process received signal ***
+[node163:407542] Signal: Aborted (6)
+[node163:407542] Signal code:  (-6)
+[node163:407542] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2baaa34eb5d0]
+[node163:407542] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2baaa372e207]
+[node163:407542] [ 2] /lib64/libc.so.6(abort+0x148)[0x2baaa372f8f8]
+[node163:407542] [ 3] ./solve[0x45fc2d]
+[node163:407542] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407542] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407542] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407542] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407542] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407542] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407542] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407542] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407542] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407542] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2baaa371a3d5]
+[node163:407542] [14] ./solve[0x4711d7]
+[node163:407542] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407543] *** Process received signal ***
+[node163:407543] Signal: Aborted (6)
+[node163:407543] Signal code:  (-6)
+[node163:407543] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2afcc07395d0]
+[node163:407543] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2afcc097c207]
+[node163:407543] [ 2] /lib64/libc.so.6(abort+0x148)[0x2afcc097d8f8]
+[node163:407543] [ 3] ./solve[0x45fc2d]
+[node163:407543] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407543] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407543] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407543] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407543] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407543] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407543] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407543] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407543] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407543] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2afcc09683d5]
+[node163:407543] [14] ./solve[0x4711d7]
+[node163:407543] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407544] *** Process received signal ***
+[node163:407544] Signal: Aborted (6)
+[node163:407544] Signal code:  (-6)
+[node163:407544] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b97009485d0]
+[node163:407544] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9700b8b207]
+[node163:407544] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b9700b8c8f8]
+[node163:407544] [ 3] ./solve[0x45fc2d]
+[node163:407544] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407544] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407544] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407544] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407544] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407544] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407544] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407544] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407544] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407544] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9700b773d5]
+[node163:407544] [14] ./solve[0x4711d7]
+[node163:407544] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407545] *** Process received signal ***
+[node163:407545] Signal: Aborted (6)
+[node163:407545] Signal code:  (-6)
+[node163:407545] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b5a35ba05d0]
+[node163:407545] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b5a35de3207]
+[node163:407545] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5a35de48f8]
+[node163:407545] [ 3] ./solve[0x45fc2d]
+[node163:407545] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407545] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407545] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407545] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407545] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407545] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407545] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407545] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407545] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407545] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5a35dcf3d5]
+[node163:407545] [14] ./solve[0x4711d7]
+[node163:407545] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407556] *** Process received signal ***
+[node163:407556] Signal: Aborted (6)
+[node163:407556] Signal code:  (-6)
+[node163:407556] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b428a37a5d0]
+[node163:407556] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b428a5bd207]
+[node163:407556] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b428a5be8f8]
+[node163:407556] [ 3] ./solve[0x45fc2d]
+[node163:407556] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407556] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407556] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407556] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407556] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407556] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407556] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407556] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407556] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407556] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b428a5a93d5]
+[node163:407556] [14] ./solve[0x4711d7]
+[node163:407556] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node163:407557] *** Process received signal ***
+[node163:407557] Signal: Aborted (6)
+[node163:407557] Signal code:  (-6)
+[node163:407557] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b94263265d0]
+[node163:407557] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9426569207]
+[node163:407557] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b942656a8f8]
+[node163:407557] [ 3] ./solve[0x45fc2d]
+[node163:407557] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node163:407557] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node163:407557] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node163:407557] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node163:407557] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node163:407557] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node163:407557] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node163:407557] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node163:407557] [12] ./solve(main+0x3de)[0x46c65e]
+[node163:407557] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b94265553d5]
+[node163:407557] [14] ./solve[0x4711d7]
+[node163:407557] *** End of error message ***
+Point (Point Point Point -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node261:165401] *** Process received signal ***
+Point Point Point (-18.0038((([node261:165401] Signal: Aborted (6)
+[node261:165401] Signal code:  (-6)
+(((-18.0038, -18.0038-18.0038-18.0038[node261:165401] [ 0] -18.0038-18.0038-18.0038, 0, , , /lib64/libpthread.so.0(+0xf5d0)[0x2b3e579b85d0]
+[node261:165401] [ 1] , , , 0, 000/lib64/libc.so.6(gsignal+0x37)[0x2b3e57bfb207]
+[node261:165401] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b3e57bfc8f8]
+[node261:165401] [ 3] 000, 0, , , ./solve[0x45fc2d]
+[node261:165401] [ 4] , , , 0)000./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165401] [ 5] 000) not found in other domains, for Domain_bispheric_chi_first::import)))./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165401] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165401] [ 7] ))) not found in other domains, for Domain_bispheric_chi_first::import
+ not found in other domains, for Domain_bispheric_chi_first::import not found in other domains, for Domain_bispheric_chi_first::import not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165401] [ 8]  not found in other domains, for Domain_bispheric_chi_first::import not found in other domains, for Domain_bispheric_chi_first::import not found in other domains, for Domain_bispheric_chi_first::import
+[node211:00626] *** Process received signal ***
+
+
+
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165401] [ 9] Point 
+
+[node209:172031] *** Process received signal ***
+[node211:00626] Signal: Aborted (6)
+[node211:00626] Signal code:  (-6)
+[node259:398774] *** Process received signal ***
+[node205:427157] *** Process received signal ***
+[node206:365160] *** Process received signal ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165401] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165401] [11] 
+[node204:377543] *** Process received signal ***
+[node210:351114] *** Process received signal ***
+[node260:324600] *** Process received signal ***
+[node209:172031] Signal: Aborted (6)
+[node209:172031] Signal code:  (-6)
+Point (-18.0038, [node259:398774] Signal: Aborted (6)
+[node259:398774] Signal code:  (-6)
+[node205:427157] Signal: Aborted (6)
+[node205:427157] Signal code:  (-6)
+[node206:365160] Signal: Aborted (6)
+[node206:365160] Signal code:  (-6)
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165401] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165401] [13] [node204:377543] Signal: Aborted (6)
+[node204:377543] Signal code:  (-6)
+[node210:351114] Signal: Aborted (6)
+[node210:351114] Signal code:  (-6)
+[node260:324600] Signal: Aborted (6)
+[node260:324600] Signal code:  (-6)
+[node209:172031] 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node211:00624] *** Process received signal ***
+[node259:398774] [node205:427157] [node206:365160] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3e57be73d5]
+[node261:165401] [14] ([node210:351114] [node260:324600] [ 0] [node211:00624] Signal: Aborted (6)
+[node211:00624] Signal code:  (-6)
+[ 0] [ 0] [ 0] ./solve[0x4711d7]
+[node261:165401] *** End of error message ***
+[node204:377543] [ 0] [ 0] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b7b54ca25d0]
+Point (/lib64/libpthread.so.0(+0xf5d0)[0x2abc30c505d0]
+/lib64/libpthread.so.0(+0xf5d0)[0x2ac0937a25d0]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b9c990df5d0]
+Point (/lib64/libpthread.so.0(+0xf5d0)[0x2b65654ad5d0]
+[node204:377543] [ 1] /lib64/libpthread.so.0(+0xf5d0)[0x2ab0cbbbf5d0]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b54254eb5d0]
+[node209:172031] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[node259:398774] [node205:427157] [node206:365160] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+/lib64/libc.so.6(gsignal+0x37)[0x2b65656f0207]
+[node204:377543] [ 2] [node210:351114] [node260:324600] [ 1] 
+[ 1] [ 1] [ 1] [node261:165407] *** Process received signal ***
+[node261:165407] Signal: Aborted (6)
+[node261:165407] Signal code:  (-6)
+/lib64/libc.so.6(abort+0x148)[0x2b65656f18f8]
+[node204:377543] [ 3] [ 1] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b7b54ee5207]
+[node211:00623] *** Process received signal ***
+[node211:00623] Signal: Aborted (6)
+[node211:00623] Signal code:  (-6)
+/lib64/libc.so.6(gsignal+0x37)[0x2abc30e93207]
+/lib64/libc.so.6(gsignal+0x37)[0x2ac0939e5207]
+/lib64/libc.so.6(gsignal+0x37)[0x2b9c99322207]
+[node261:165407] [ 0] ./solve[0x45fc2d]
+[node204:377543] [ 4] /lib64/libc.so.6(gsignal+0x37)[0x2ab0cbe02207]
+/lib64/libc.so.6(gsignal+0x37)[0x2b542572e207]
+[node209:172031] Point ([node259:398774] [node205:427157] [node206:365160] /lib64/libpthread.so.0(+0xf5d0)[0x2acf381905d0]
+[node261:165407] [ 1] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377543] [ 5] [node210:351114] [node260:324600] [ 2] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[ 2] [ 2] [ 2] /lib64/libc.so.6(gsignal+0x37)[0x2acf383d3207]
+[node261:165407] [ 2] /lib64/libc.so.6(abort+0x148)[0x2acf383d48f8]
+[node261:165407] [ 3] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377543] [ 6] [ 2] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b7b54ee68f8]
+
+/lib64/libc.so.6(abort+0x148)[0x2abc30e948f8]
+/lib64/libc.so.6(abort+0x148)[0x2ac0939e68f8]
+/lib64/libc.so.6(abort+0x148)[0x2b9c993238f8]
+./solve[0x45fc2d]
+[node261:165407] [ 4] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377543] [ 7] /lib64/libc.so.6(abort+0x148)[0x2ab0cbe038f8]
+/lib64/libc.so.6(abort+0x148)[0x2b542572f8f8]
+[node209:172031] [node211:00622] *** Process received signal ***
+[node259:398774] [node205:427157] [node206:365160] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165407] [ 5] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377543] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377543] [ 9] [node210:351114] [node260:324600] [ 3] [node211:00622] Signal: Aborted (6)
+[node211:00622] Signal code:  (-6)
+[ 3] [ 3] [ 3] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165407] [ 6] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377543] [10] [ 3] [ 3] ./solve[0x45fc2d]
+[node211:00623] [ 0] ./solve[0x45fc2d]
+./solve[0x45fc2d]
+./solve[0x45fc2d]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165407] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377543] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377543] [12] ./solve[0x45fc2d]
+./solve[0x45fc2d]
+[node209:172031] [node211:00624] [ 0] [node259:398774] [node205:427157] [node206:365160] [node261:165407] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165407] ./solve(main+0x3de)[0x46c65e]
+[node204:377543] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b65656dc3d5]
+[node204:377543] [14] [node210:351114] [node260:324600] [ 4] [node211:00626] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b85025445d0]
+[node211:00626] [ 1] [ 4] [ 4] [ 4] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165407] [10] ./solve[0x4711d7]
+[node204:377543] *** End of error message ***
+[ 4] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00622] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165407] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165407] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165407] [13] -18.0038./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172031] /lib64/libc.so.6(gsignal+0x37)[0x2b8502787207]
+[node211:00626] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b85027888f8]
+[node211:00626] [ 3] ./solve[0x45fc2d]
+[node211:00626] [ 4] [node259:398774] [node205:427157] [node206:365160] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2acf383bf3d5]
+[node261:165407] [14] ./solve[0x4711d7]
+[node261:165407] *** End of error message ***
+, [node210:351114] [node260:324600] [ 5] /lib64/libpthread.so.0(+0xf5d0)[0x2b34632ab5d0]
+[node211:00623] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b34634ee207]
+[node211:00623] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b34634ef8f8]
+[node211:00623] [ 3] ./solve[0x45fc2d]
+[node211:00623] [ 4] [ 5] [ 5] [ 5] Point (0[ 5] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b8f56f775d0]
+[node211:00624] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b8f571ba207]
+[node211:00624] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b8f571bb8f8]
+[node211:00624] [ 3] ./solve[0x45fc2d]
+[node211:00624] [ 4] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+, ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172031] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00626] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00626] [ 6] [node259:398774] [node205:427157] [node206:365160] [node261:165404] *** Process received signal ***
+0[node210:351114] [node260:324600] [ 6] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00623] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00623] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[ 6] [ 6] [ 6] [node261:165404] Signal: Aborted (6)
+[node261:165404] Signal code:  (-6)
+)[ 6] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00624] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00624] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00624] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165404] [ 0]  not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172031] [node211:00623] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00623] [ 8] [node259:398774] [node205:427157] [node206:365160] /lib64/libpthread.so.0(+0xf5d0)[0x2b6b18b4e5d0]
+[node261:165404] [ 1] 
+[node210:351114] [node260:324600] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00626] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00626] [ 8] [ 7] [ 7] [ 7] /lib64/libc.so.6(gsignal+0x37)[0x2b6b18d91207]
+[node261:165404] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b6b18d928f8]
+[node204:377542] *** Process received signal ***
+[ 7] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00624] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00624] [ 9] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165404] [ 3] ./solve[0x45fc2d]
+[node261:165404] [ 4] [node204:377542] Signal: Aborted (6)
+[node204:377542] Signal code:  (-6)
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172031] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00626] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00626] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00626] [11] [node259:398774] [node205:427157] [node206:365160] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165404] [ 5] [node204:377542] [node210:351114] [node260:324600] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00623] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00623] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00623] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00623] [ 8] [ 8] [ 8] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165404] [ 6] [ 0] [ 8] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00624] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00624] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00624] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00624] [13] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165404] [ 7] /lib64/libpthread.so.0(+0xf5d0)[0x2b735a97c5d0]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172031] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00623] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b34634da3d5]
+[node211:00623] [14] ./solve[0x4711d7]
+[node259:398774] [node205:427157] [node206:365160] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165404] [ 8] [node204:377542] [node210:351114] [node260:324600] [ 9] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00626] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00626] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b85027733d5]
+[node211:00626] [14] ./solve[0x4711d7]
+[node211:00626] *** End of error message ***
+[ 9] [ 9] [ 9] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165404] [ 9] [ 1] [ 9] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b8f571a63d5]
+[node211:00624] [14] ./solve[0x4711d7]
+[node211:00624] *** End of error message ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165404] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165404] [11] /lib64/libc.so.6(gsignal+0x37)[0x2b735abbf207]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172031] [node211:00623] *** End of error message ***
+[node259:398774] [node205:427157] [node206:365160] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165404] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165404] [13] [node204:377542] [node210:351114] [node260:324600] [10] [ 0] [10] [10] [10] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6b18d7d3d5]
+[node261:165404] [14] ./solve[0x4711d7]
+[ 2] [10] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b20a6aa25d0]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165404] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b735abc08f8]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172031] [node211:00622] [node259:398774] [node205:427157] [node206:365160] Point ([node204:377542] [node210:351114] [node260:324600] [11] [ 1] [11] [11] [11] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node261:165408] *** Process received signal ***
+[ 3] [11] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+/lib64/libc.so.6(gsignal+0x37)[0x2b20a6ce5207]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165408] Signal: Aborted (6)
+[node261:165408] Signal code:  (-6)
+./solve[0x45fc2d]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172031] [node211:00622] [node259:398774] [node205:427157] [node206:365160] [node261:165408] [ 0] [node204:377542] [node210:351114] [node260:324600] [12] [ 2] [12] [12] [12] /lib64/libpthread.so.0(+0xf5d0)[0x2b65371525d0]
+[node261:165408] [ 1] [ 4] [12] [12] ./solve(main+0x3de)[0x46c65e]
+/lib64/libc.so.6(abort+0x148)[0x2b20a6ce68f8]
+./solve(main+0x3de)[0x46c65e]
+./solve(main+0x3de)[0x46c65e]
+./solve(main+0x3de)[0x46c65e]
+/lib64/libc.so.6(gsignal+0x37)[0x2b6537395207]
+[node261:165408] [ 2] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(main+0x3de)[0x46c65e]
+Point ([node209:172031] [node211:00622] [node259:398774] [node205:427157] [node206:365160] /lib64/libc.so.6(abort+0x148)[0x2b65373968f8]
+[node261:165408] [ 3] ./solve[0x45fc2d]
+[node261:165408] [ 4] [node204:377542] [node210:351114] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[13] [ 3] [13] [13] [13] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165408] [ 5] [ 5] [13] 
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7b54ed13d5]
+./solve[0x45fc2d]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2abc30e7f3d5]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ac0939d13d5]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9c9930e3d5]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165408] [ 6] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab0cbdee3d5]
+[node260:324601] *** Process received signal ***
+[node209:172031] [node211:00622] [node259:398774] [node205:427157] [node206:365160] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165408] [ 7] [node204:377542] [node210:351114] [node260:324601] Signal: Aborted (6)
+[node260:324601] Signal code:  (-6)
+[14] [ 4] [14] [14] [14] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165408] [ 8] [ 6] [14] ./solve(main+0x3de)[0x46c65e]
+./solve[0x4711d7]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve[0x4711d7]
+./solve[0x4711d7]
+./solve[0x4711d7]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165408] [ 9] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve[0x4711d7]
+[node260:324600] [node209:172031] *** End of error message ***
+[node211:00622] [node259:398774] *** End of error message ***
+[node205:427157] *** End of error message ***
+[node206:365160] *** End of error message ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165408] [10] [node204:377542] [node210:351114] *** End of error message ***
+[node260:324601] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b08713b55d0]
+Point [ 5] Point Point ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165408] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165408] [12] [ 7] [node260:324601] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b08715f8207]
+[node260:324601] [ 2] (./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+(Point ((./solve(main+0x3de)[0x46c65e]
+[node261:165408] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b65373813d5]
+[node261:165408] [14] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+Point (-18.0038, /lib64/libc.so.6(abort+0x148)[0x2b08715f98f8]
+[node260:324601] [ 3] -18.0038[node211:00622] -18.0038-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+-18.0038./solve[0x4711d7]
+[node261:165408] *** End of error message ***
+[node204:377542] Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve[0x45fc2d]
+[node260:324601] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324601] , [ 6] , [node205:427154] *** Process received signal ***
+, Point ([ 8] 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node210:351113] *** Process received signal ***
+[ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324601] [ 6] 0./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+0[node205:427154] Signal: Aborted (6)
+[node205:427154] Signal code:  (-6)
+0-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351111] *** Process received signal ***
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324601] [ 7] , [node211:00622] , [node205:427154] [ 0] , [node261:165405] *** Process received signal ***
+[node204:377542] [node210:351113] Signal: Aborted (6)
+[node210:351113] Signal code:  (-6)
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324601] [ 8] 0[ 7] 0/lib64/libpthread.so.0(+0xf5d0)[0x2ae4701165d0]
+[node205:427154] [ 1] 0[node261:165405] Signal: Aborted (6)
+[node261:165405] Signal code:  (-6)
+[ 9] [node210:351111] Signal: Aborted (6)
+[node210:351111] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324601] [ 9] )./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+)/lib64/libc.so.6(gsignal+0x37)[0x2ae470359207]
+[node205:427154] [ 2] )[node261:165405] [ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351113] [ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324601] [10]  not found in other domains, for Domain_bispheric_chi_first::import[node211:00622]  not found in other domains, for Domain_bispheric_chi_first::import/lib64/libc.so.6(abort+0x148)[0x2ae47035a8f8]
+[node205:427154] [ 3] ./solve[0x45fc2d]
+[node205:427154] [ 4]  not found in other domains, for Domain_bispheric_chi_first::import/lib64/libpthread.so.0(+0xf5d0)[0x2b8d5aa985d0]
+[node261:165405] [ 1] [node204:377542] [node210:351111] [ 0] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324601] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324601] [12] 
+[ 8] 
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427154] [ 5] 
+/lib64/libc.so.6(gsignal+0x37)[0x2b8d5acdb207]
+[node261:165405] [ 2] [10] /lib64/libpthread.so.0(+0xf5d0)[0x2b04ead7e5d0]
+[node210:351113] [ 1] ./solve(main+0x3de)[0x46c65e]
+[node260:324601] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b08715e43d5]
+[node260:324601] [14] [node209:172039] *** Process received signal ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398768] *** Process received signal ***
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427154] [ 6] [node206:365163] *** Process received signal ***
+/lib64/libc.so.6(abort+0x148)[0x2b8d5acdc8f8]
+[node261:165405] [ 3] ./solve[0x45fc2d]
+[node261:165405] [ 4] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b62062e35d0]
+[node210:351111] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6206526207]
+[node210:351111] [ 2] ./solve[0x4711d7]
+[node260:324601] *** End of error message ***
+[node209:172039] Signal: Aborted (6)
+[node209:172039] Signal code:  (-6)
+[node211:00622] [node259:398768] Signal: Aborted (6)
+[node259:398768] Signal code:  (-6)
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427154] [ 7] [node206:365163] Signal: Aborted (6)
+[node206:365163] Signal code:  (-6)
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165405] [ 5] [node204:377542] /lib64/libc.so.6(gsignal+0x37)[0x2b04eafc1207]
+[node210:351113] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b04eafc28f8]
+[node210:351113] [ 3] ./solve[0x45fc2d]
+[node210:351113] [ 4] [13] [node209:172039] [ 9] [node259:398768] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427154] [ 8] [node206:365163] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165405] [ 6] [11] /lib64/libc.so.6(abort+0x148)[0x2b62065278f8]
+[node210:351111] [ 3] ./solve[0x45fc2d]
+[node210:351111] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b542571a3d5]
+[ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[ 0] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427154] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427154] [10] [ 0] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165405] [ 7] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351113] [ 5] [node260:324600] /lib64/libpthread.so.0(+0xf5d0)[0x2b92e73e95d0]
+[node211:00622] /lib64/libpthread.so.0(+0xf5d0)[0x2b07e88255d0]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427154] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+/lib64/libpthread.so.0(+0xf5d0)[0x2ae0705b05d0]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165405] [ 8] [node204:377542] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351111] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[14] [node209:172039] [10] [node259:398768] [node205:427154] [12] ./solve(main+0x3de)[0x46c65e]
+[node205:427154] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae4703453d5]
+[node205:427154] [14] [node206:365163] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165405] [ 9] [12] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351113] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351113] [ 7] ./solve[0x4711d7]
+[ 1] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[ 1] ./solve[0x4711d7]
+[node205:427154] *** End of error message ***
+[ 1] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165405] [10] ./solve(main+0x3de)[0x46c65e]
+[node210:351111] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351111] [ 7] [node260:324600] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b92e762c207]
+[node211:00622] /lib64/libc.so.6(gsignal+0x37)[0x2b07e8a68207]
+Point (/lib64/libc.so.6(gsignal+0x37)[0x2ae0707f3207]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165405] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165405] [12] [node204:377542] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351113] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351113] [ 9] Point [node209:172039] [11] [node259:398768] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[node206:365163] ./solve(main+0x3de)[0x46c65e]
+[node261:165405] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b8d5acc73d5]
+[node261:165405] [14] [13] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351111] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351111] [ 9] ([ 2] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[ 2] 
+[ 2] ./solve[0x4711d7]
+[node261:165405] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b735abab3d5]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351113] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351113] [11] -18.0038/lib64/libc.so.6(abort+0x148)[0x2b92e762d8f8]
+[node211:00622] /lib64/libc.so.6(abort+0x148)[0x2b07e8a698f8]
+[node205:427159] *** Process received signal ***
+/lib64/libc.so.6(abort+0x148)[0x2ae0707f48f8]
+Point ([node204:377542] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351111] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351111] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351111] [12] , [node209:172039] [12] [node259:398768] [node205:427159] Signal: Aborted (6)
+[node205:427159] Signal code:  (-6)
+[node206:365163] -18.0038, 0[14] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351113] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351113] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b04eafad3d5]
+[node210:351113] [14] 0[ 3] ./solve(main+0x3de)[0x46c65e]
+[ 3] [node205:427159] [ 0] [ 3] , 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve[0x4711d7]
+./solve(main+0x3de)[0x46c65e]
+[node210:351111] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b62065123d5]
+[node210:351111] [14] ./solve[0x4711d7]
+, ./solve[0x45fc2d]
+[node211:00622] ./solve[0x45fc2d]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b5abe2235d0]
+[node205:427159] [ 1] ./solve[0x45fc2d]
+Point ([node204:377542] *** End of error message ***
+./solve[0x4711d7]
+[node210:351113] *** End of error message ***
+0[node209:172039] [13] [node259:398768] /lib64/libc.so.6(gsignal+0x37)[0x2b5abe466207]
+[node205:427159] [ 2] [node206:365163] [node261:165406] *** Process received signal ***
+[node210:351111] *** End of error message ***
+)[ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b20a6cd13d5]
+[ 4] /lib64/libc.so.6(abort+0x148)[0x2b5abe4678f8]
+[node205:427159] [ 3] [ 4] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+Point (-18.0038, 0, 0)Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00622] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve[0x45fc2d]
+[node205:427159] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165406] Signal: Aborted (6)
+[node261:165406] Signal code:  (-6)
+ not found in other domains, for Domain_bispheric_chi_first::import
+[node204:377548] *** Process received signal ***
+[node204:377548] Signal: Aborted (6)
+[node204:377548] Signal code:  (-6)
+
+[node210:351110] *** Process received signal ***
+
+[node209:172039] [14] [node259:398768] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427159] [ 5] [node206:365163] [node261:165410] *** Process received signal ***
+[node204:377548] [ 0] [node210:351110] Signal: Aborted (6)
+[node210:351110] Signal code:  (-6)
+[node260:324597] *** Process received signal ***
+[ 5] ./solve[0x4711d7]
+[ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427159] [ 6] [ 5] [node261:165410] Signal: Aborted (6)
+[node261:165410] Signal code:  (-6)
+/lib64/libpthread.so.0(+0xf5d0)[0x2b6a8a9015d0]
+[node204:377548] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6a8ab44207]
+[node204:377548] [ 2] [node210:351110] [ 0] [node260:324597] Signal: Aborted (6)
+[node260:324597] Signal code:  (-6)
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00622] *** End of error message ***
+Point ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427159] [ 7] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165406] [ 0] /lib64/libc.so.6(abort+0x148)[0x2b6a8ab458f8]
+[node204:377548] [ 3] ./solve[0x45fc2d]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b64539c15d0]
+[node210:351110] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6453c04207]
+[node210:351110] [ 2] [node260:324597] [node209:172039] (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427159] [ 8] [node206:365163] /lib64/libpthread.so.0(+0xf5d0)[0x2b6ceb64a5d0]
+[node261:165406] [ 1] [node204:377548] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377548] [ 5] /lib64/libc.so.6(abort+0x148)[0x2b6453c058f8]
+[node210:351110] [ 3] ./solve[0x45fc2d]
+[node210:351110] [ 4] [ 0] [ 6] Point (
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427159] [ 9] [ 6] [node261:165410] [ 0] Point (./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351110] [ 5] /lib64/libpthread.so.0(+0xf5d0)[0x2b0c9503d5d0]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node211:00625] *** Process received signal ***
+[node259:398769] *** Process received signal ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427159] [10] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+/lib64/libc.so.6(gsignal+0x37)[0x2b6ceb88d207]
+[node261:165406] [ 2] Point (./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351110] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351110] [ 7] [node260:324597] [node209:172039] [node211:00625] Signal: Aborted (6)
+[node211:00625] Signal code:  (-6)
+[node259:398769] Signal: Aborted (6)
+[node259:398769] Signal code:  (-6)
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427159] [11] [node206:365163] /lib64/libpthread.so.0(+0xf5d0)[0x2b639cb655d0]
+[node261:165410] [ 1] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377548] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377548] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351110] [ 8] [ 1] [ 7] [node211:00625] [ 0] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427159] [12] [ 7] /lib64/libc.so.6(abort+0x148)[0x2b6ceb88e8f8]
+[node261:165406] [ 3] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351110] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351110] [10] /lib64/libc.so.6(gsignal+0x37)[0x2b0c95280207]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b72ee5ad5d0]
+[node211:00625] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b72ee7f0207]
+[node211:00625] [ 2] [node259:398769] [ 0] ./solve(main+0x3de)[0x46c65e]
+[node205:427159] [13] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+/lib64/libc.so.6(gsignal+0x37)[0x2b639cda8207]
+[node261:165410] [ 2] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351110] [11] [node260:324597] [node209:172039] /lib64/libc.so.6(abort+0x148)[0x2b72ee7f18f8]
+[node211:00625] [ 3] ./solve[0x45fc2d]
+[node211:00625] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00625] [ 5] /lib64/libpthread.so.0(+0xf5d0)[0x2b0a7c3e75d0]
+[node259:398769] [ 1] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5abe4523d5]
+[node205:427159] [14] [node206:365163] ./solve[0x45fc2d]
+[node261:165406] [ 4] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377548] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377548] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377548] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377548] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351110] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351110] [13] [ 2] [ 8] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00625] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00625] [ 7] /lib64/libc.so.6(gsignal+0x37)[0x2b0a7c62a207]
+[node259:398769] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b0a7c62b8f8]
+./solve[0x4711d7]
+[node205:427159] *** End of error message ***
+[ 8] /lib64/libc.so.6(abort+0x148)[0x2b639cda98f8]
+[node261:165410] [ 3] [node204:377539] *** Process received signal ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6453bf03d5]
+[node210:351110] [14] ./solve[0x4711d7]
+[node210:351110] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b0c952818f8]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00625] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00625] [ 9] [node259:398769] [ 3] ./solve[0x45fc2d]
+[node259:398769] [ 4] Point (./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165406] [ 5] [node204:377544] *** Process received signal ***
+[node204:377544] Signal: Aborted (6)
+[node204:377544] Signal code:  (-6)
+Point ([node260:324597] [node209:172039] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00625] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00625] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00625] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00625] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b72ee7dc3d5]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node259:398769] [ 5] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[node206:365163] ./solve[0x45fc2d]
+[node261:165410] [ 4] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377548] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377548] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6a8ab303d5]
+[node204:377548] [14] ./solve[0x4711d7]
+[node204:377548] *** End of error message ***
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[ 3] [ 9] [node211:00625] [14] ./solve[0x4711d7]
+[node211:00625] *** End of error message ***
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398769] [ 6] 
+[ 9] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165406] [ 6] [node204:377539] Signal: Aborted (6)
+[node204:377539] Signal code:  (-6)
+[node210:351126] *** Process received signal ***
+./solve[0x45fc2d]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+Point (./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398769] [ 7] [node205:427150] *** Process received signal ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node261:165410] [ 5] [node204:377544] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2aaeb23b55d0]
+[node204:377544] [node210:351126] Signal: Aborted (6)
+[node210:351126] Signal code:  (-6)
+[node260:324597] [node209:172039] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398769] [ 8] [node205:427150] Signal: Aborted (6)
+[node205:427150] Signal code:  (-6)
+[node206:365163] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165406] [ 7] [node204:377539] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b27f866d5d0]
+[node204:377539] [ 1] [node210:351126] [ 0] [ 4] [10] [node211:00627] *** Process received signal ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398769] [ 9] [node205:427150] [ 0] [10] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node261:165410] [ 6] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aaeb25f8207]
+[node204:377544] [ 2] /lib64/libpthread.so.0(+0xf5d0)[0x2ae013e805d0]
+[node210:351126] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ae0140c3207]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00627] Signal: Aborted (6)
+[node211:00627] Signal code:  (-6)
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398769] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398769] [11] /lib64/libpthread.so.0(+0xf5d0)[0x2acb1ef285d0]
+[node205:427150] [ 1] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165406] [ 8] /lib64/libc.so.6(gsignal+0x37)[0x2b27f88b0207]
+[node204:377539] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b27f88b18f8]
+[node204:377539] [ 3] [node210:351126] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ae0140c48f8]
+[node210:351126] [ 3] ./solve[0x45fc2d]
+[node210:351126] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351126] [ 5] [node260:324597] [node209:172039] [node211:00627] [ 0] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398769] [12] ./solve(main+0x3de)[0x46c65e]
+/lib64/libc.so.6(gsignal+0x37)[0x2acb1f16b207]
+[node205:427150] [ 2] [node206:365163] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node261:165410] [ 7] /lib64/libc.so.6(abort+0x148)[0x2aaeb25f98f8]
+[node204:377544] [ 3] ./solve[0x45fc2d]
+[node204:377544] [ 4] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351126] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351126] [ 7] [ 5] [11] /lib64/libpthread.so.0(+0xf5d0)[0x2b6ae7d075d0]
+[node211:00627] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b6ae7f4a207]
+[node211:00627] [ 2] [node259:398769] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b0a7c6163d5]
+[node259:398769] [14] /lib64/libc.so.6(abort+0x148)[0x2acb1f16c8f8]
+[node205:427150] [ 3] [11] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165406] [ 9] Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351126] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351126] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351126] [10] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+/lib64/libc.so.6(abort+0x148)[0x2b6ae7f4b8f8]
+[node211:00627] [ 3] ./solve[0x45fc2d]
+[node211:00627] [ 4] ./solve[0x4711d7]
+[node259:398769] *** End of error message ***
+./solve[0x45fc2d]
+[node205:427150] [ 4] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node261:165410] [ 8] ./solve[0x45fc2d]
+[node204:377539] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377539] [ 5] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351126] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351126] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351126] [13] [node260:324597] [node209:172039] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00627] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00627] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00627] [node259:398768] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427150] [ 5] [node206:365163] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165406] [10] [node204:377545] *** Process received signal ***
+[node204:377545] Signal: Aborted (6)
+[node204:377545] Signal code:  (-6)
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae0140af3d5]
+[node210:351126] [14] ./solve[0x4711d7]
+[node210:351126] *** End of error message ***
+[ 6] [12] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00627] [ 8] [ 6] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427150] [ 6] [12] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node261:165410] [ 9] Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+Point (./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(main+0x3de)[0x46c65e]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00627] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00627] [10] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427150] [ 7] ./solve(main+0x3de)[0x46c65e]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165406] [11] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377544] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377544] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377544] [ 7] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node260:324597] [node209:172039] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00627] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00627] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00627] [13] [node259:398768] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427150] [ 8] [node206:365163] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node261:165410] [10] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377539] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377539] [ 7] [node210:351115] *** Process received signal ***
+[ 7] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6ae7f363d5]
+[node211:00627] [14] ./solve[0x4711d7]
+[node211:00627] *** End of error message ***
+[ 7] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427150] [ 9] [13] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165406] [12] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377544] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377544] [ 9] [node210:351115] Signal: Aborted (6)
+[node210:351115] Signal code:  (-6)
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b92e76183d5]
+Point (./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427150] [10] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae0707df3d5]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node261:165410] [11] [node204:377541] *** Process received signal ***
+[node204:377541] Signal: Aborted (6)
+[node204:377541] Signal code:  (-6)
+[node210:351115] [ 0] [node260:324597] [node209:172039] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node259:398768] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427150] [11] [node206:365163] ./solve(main+0x3de)[0x46c65e]
+[node261:165406] [13] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377539] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377539] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377539] [10] /lib64/libpthread.so.0(+0xf5d0)[0x2aec815b05d0]
+[node210:351115] [ 1] [ 8] [14] [node211:00628] *** Process received signal ***
+[ 8] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427150] [12] ./solve(main+0x3de)[0x46c65e]
+[node205:427150] [13] [14] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node261:165410] [12] ./solve(main+0x3de)[0x46c65e]
+[node261:165410] [13] [node204:377541] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4303bbd5d0]
+[node204:377541] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2aec817f3207]
+[node210:351115] [ 2] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+./solve[0x4711d7]
+[node211:00628] Signal: Aborted (6)
+[node211:00628] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2acb1f1573d5]
+[node205:427150] [14] ./solve[0x4711d7]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b6ceb8793d5]
+[node261:165406] [14] ./solve[0x4711d7]
+[node261:165406] *** End of error message ***
+[node204:377545] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2acfde9055d0]
+[node204:377545] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2acfdeb48207]
+[node204:377545] /lib64/libc.so.6(abort+0x148)[0x2aec817f48f8]
+[node210:351115] [ 3] ./solve[0x45fc2d]
+[node210:351115] [ 4] [node260:324597] [node209:172039] *** End of error message ***
+[node211:00628] [ 0] [node259:398768] ./solve[0x4711d7]
+[node205:427150] *** End of error message ***
+[node206:365163] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b639cd943d5]
+[node261:165410] [14] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377544] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377544] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377544] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377544] [13] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351115] [ 5] [ 9] /lib64/libpthread.so.0(+0xf5d0)[0x2b9a0c5735d0]
+[node211:00628] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b9a0c7b6207]
+[node211:00628] [ 2] [ 9] Point (./solve[0x4711d7]
+[node261:165410] *** End of error message ***
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377539] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377539] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377539] [13] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351115] [ 6] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+Point (/lib64/libc.so.6(abort+0x148)[0x2b9a0c7b78f8]
+[node211:00628] [ 3] ./solve[0x45fc2d]
+[node211:00628] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00628] [ 5] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+Point (/lib64/libc.so.6(__libc_start_main+0xf5)[0x2aaeb25e43d5]
+[node204:377544] [14] ./solve[0x4711d7]
+[node204:377544] *** End of error message ***
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351115] [ 7] [node260:324597] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00628] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00628] [ 7] [node259:398768] [node205:427156] *** Process received signal ***
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import/lib64/libc.so.6(gsignal+0x37)[0x2b4303e00207]
+[node204:377541] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b4303e018f8]
+[node204:377541] [ 3] ./solve[0x45fc2d]
+[node204:377541] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377541] [ 5] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351115] [ 8] [10] [node209:172043] *** Process received signal ***
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00628] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00628] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00628] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00628] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00628] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00628] [13] [10] [node205:427156] Signal: Aborted (6)
+[node205:427156] Signal code:  (-6)
+
+[ 2] /lib64/libc.so.6(abort+0x148)[0x2acfdeb498f8]
+[node204:377545] [ 3] ./solve[0x45fc2d]
+[node204:377545] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377545] [ 5] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351115] [ 9] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172043] Signal: Aborted (6)
+[node209:172043] Signal code:  (-6)
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9a0c7a23d5]
+[node211:00628] [14] ./solve[0x4711d7]
+[node211:00628] *** End of error message ***
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427156] [ 0] [node206:365159] *** Process received signal ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b27f889c3d5]
+[node204:377539] [14] ./solve[0x4711d7]
+[node204:377539] *** End of error message ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351115] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351115] [11] [node260:324597] [node209:172043] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ad283c705d0]
+[node209:172043] [ 1] Point ([node259:398768] /lib64/libpthread.so.0(+0xf5d0)[0x2b5d731f55d0]
+[node205:427156] [ 1] [node206:365159] Signal: Aborted (6)
+[node206:365159] Signal code:  (-6)
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377545] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377545] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377545] [ 8] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351115] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351115] [13] [11] /lib64/libc.so.6(gsignal+0x37)[0x2ad283eb3207]
+[node209:172043] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ad283eb48f8]
+[node209:172043] [ 3] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[11] /lib64/libc.so.6(gsignal+0x37)[0x2b5d73438207]
+[node205:427156] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5d734398f8]
+[node206:365159] [ 0] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377541] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377541] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377541] [ 8] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aec817df3d5]
+[node210:351115] [14] ./solve[0x4711d7]
+[node210:351115] *** End of error message ***
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+./solve[0x45fc2d]
+[node209:172043] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00629] *** Process received signal ***
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427156] [ 3] ./solve[0x45fc2d]
+[node205:427156] [ 4] /lib64/libpthread.so.0(+0xf5d0)[0x2ba711d805d0]
+[node206:365159] [ 1] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377545] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377545] Point ([node260:324597] [node209:172043] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172043] [ 6] [node211:00629] Signal: Aborted (6)
+[node211:00629] Signal code:  (-6)
+[node259:398768] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427156] [ 5] /lib64/libc.so.6(gsignal+0x37)[0x2ba711fc3207]
+[node206:365159] [ 2] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377541] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377541] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node210:351116] *** Process received signal ***
+[12] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172043] [ 7] [node211:00629] [ 0] [12] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427156] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427156] [ 7] /lib64/libc.so.6(abort+0x148)[0x2ba711fc48f8]
+[node206:365159] [ 3] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377545] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377545] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377545] [13] [node210:351116] Signal: Aborted (6)
+[node210:351116] Signal code:  (-6)
+./solve(main+0x3de)[0x46c65e]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172043] [ 8] /lib64/libpthread.so.0(+0xf5d0)[0x2af7c56345d0]
+[node211:00629] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2af7c5877207]
+[node211:00629] [ 2] ./solve(main+0x3de)[0x46c65e]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427156] [ 8] ./solve[0x45fc2d]
+[node206:365159] [ 4] [node204:377541] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377541] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377541] [13] [node210:351116] [ 0] [node260:324597] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172043] [ 9] /lib64/libc.so.6(abort+0x148)[0x2af7c58788f8]
+[node211:00629] [ 3] ./solve[0x45fc2d]
+[node211:00629] [ 4] [node259:398768] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427156] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427156] [10] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365159] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2acfdeb343d5]
+[node204:377545] [14] ./solve[0x4711d7]
+[node204:377545] *** End of error message ***
+/lib64/libpthread.so.0(+0xf5d0)[0x2b84bfde95d0]
+[node210:351116] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b84c002c207]
+[node210:351116] [ 2] [13] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172043] [10] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00629] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00629] [ 6] [13] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427156] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427156] [12] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365159] [ 6] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4303dec3d5]
+[node204:377541] [14] ./solve[0x4711d7]
+[node204:377541] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b84c002d8f8]
+[node210:351116] [ 3] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b0c9526c3d5]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172043] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172043] [12] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00629] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00629] [ 8] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b07e8a543d5]
+./solve(main+0x3de)[0x46c65e]
+[node205:427156] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5d734243d5]
+[node205:427156] [14] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365159] [ 7] Point ./solve[0x45fc2d]
+[node210:351116] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351116] [ 5] [node260:324597] ./solve(main+0x3de)[0x46c65e]
+[node209:172043] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad283e9f3d5]
+[node209:172043] [14] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00629] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00629] [10] [node259:398768] ./solve[0x4711d7]
+[node205:427156] *** End of error message ***
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365159] [ 8] (./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351116] [ 6] [14] ./solve[0x4711d7]
+[node209:172043] *** End of error message ***
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00629] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00629] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00629] [13] [14] Point (./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365159] [ 9] -18.0038./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351116] [ 7] ./solve[0x4711d7]
+Point (/lib64/libc.so.6(__libc_start_main+0xf5)[0x2af7c58633d5]
+[node211:00629] [14] ./solve[0x4711d7]
+[node211:00629] *** End of error message ***
+./solve[0x4711d7]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365159] [10] , ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351116] [ 8] [node260:324597] *** End of error message ***
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+Point ([node259:398768] *** End of error message ***
+[node205:427158] *** Process received signal ***
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365159] [11] 0./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351116] [ 9] Point [node209:172036] *** Process received signal ***
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+Point [node205:427158] Signal: Aborted (6)
+[node205:427158] Signal code:  (-6)
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365159] [12] ./solve(main+0x3de)[0x46c65e]
+[node206:365159] [13] , ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351116] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351116] [11] ([node209:172036] Signal: Aborted (6)
+[node209:172036] Signal code:  (-6)
+[node211:00621] *** Process received signal ***
+([node205:427158] [ 0] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ba711faf3d5]
+[node206:365159] [14] 0./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351116] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351116] [13] -18.0038[node209:172036] [ 0] [node211:00621] Signal: Aborted (6)
+[node211:00621] Signal code:  (-6)
+-18.0038/lib64/libpthread.so.0(+0xf5d0)[0x2b794c6495d0]
+[node205:427158] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b794c88c207]
+[node205:427158] [ 2] ./solve[0x4711d7]
+[node206:365159] *** End of error message ***
+)/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b84c00183d5]
+[node210:351116] [14] ./solve[0x4711d7]
+[node210:351116] *** End of error message ***
+, /lib64/libpthread.so.0(+0xf5d0)[0x2b209903f5d0]
+[node209:172036] [ 1] [node211:00621] [ 0] , /lib64/libc.so.6(abort+0x148)[0x2b794c88d8f8]
+[node205:427158] [ 3] ./solve[0x45fc2d]
+[node205:427158] [ 4] Point ( not found in other domains, for Domain_bispheric_chi_first::importPoint (0/lib64/libc.so.6(gsignal+0x37)[0x2b2099282207]
+[node209:172036] [ 2] /lib64/libpthread.so.0(+0xf5d0)[0x2b58a23c75d0]
+[node211:00621] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b58a260a207]
+[node211:00621] [ 2] 0./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427158] [ 5] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node210:351123] *** Process received signal ***
+, /lib64/libc.so.6(abort+0x148)[0x2b20992838f8]
+[node209:172036] [ 3] /lib64/libc.so.6(abort+0x148)[0x2b58a260b8f8]
+[node211:00621] [ 3] ./solve[0x45fc2d]
+[node211:00621] [ 4] , ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427158] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427158] 
+[node204:377538] *** Process received signal ***
+[node210:351123] Signal: Aborted (6)
+[node210:351123] Signal code:  (-6)
+0./solve[0x45fc2d]
+[node209:172036] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00621] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00621] [ 6] 0[ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427158] [ 8] [node206:365157] *** Process received signal ***
+[node204:377538] Signal: Aborted (6)
+[node204:377538] Signal code:  (-6)
+[node210:351123] [ 0] )./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172036] [ 5] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00621] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00621] [ 8] )./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427158] [ 9] [node206:365157] Signal: Aborted (6)
+[node206:365157] Signal code:  (-6)
+[node204:377538] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2af3a7ba45d0]
+[node210:351123] [ 1]  not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172036] [ 6] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00621] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00621] [10]  not found in other domains, for Domain_bispheric_chi_first::import./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427158] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427158] [11] [node206:365157] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b99f35365d0]
+[node204:377538] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2af3a7de7207]
+[node210:351123] [ 2] 
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172036] [ 7] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00621] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00621] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00621] [13] 
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427158] [12] ./solve(main+0x3de)[0x46c65e]
+[node205:427158] [13] /lib64/libpthread.so.0(+0xf5d0)[0x2b28af4be5d0]
+[node206:365157] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b99f3779207]
+[node204:377538] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b99f377a8f8]
+[node204:377538] [ 3] /lib64/libc.so.6(abort+0x148)[0x2af3a7de88f8]
+[node210:351123] [ 3] [node260:324599] *** Process received signal ***
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172036] [ 8] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b58a25f63d5]
+[node211:00621] [14] ./solve[0x4711d7]
+[node211:00621] *** End of error message ***
+[node259:398766] *** Process received signal ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b794c8783d5]
+[node205:427158] [14] ./solve[0x4711d7]
+[node205:427158] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b28af701207]
+[node206:365157] [ 2] ./solve[0x45fc2d]
+[node204:377538] [ 4] ./solve[0x45fc2d]
+[node210:351123] [ 4] [node260:324599] Signal: Aborted (6)
+[node260:324599] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172036] [ 9] Point ([node259:398766] Signal: Aborted (6)
+[node259:398766] Signal code:  (-6)
+Point (/lib64/libc.so.6(abort+0x148)[0x2b28af7028f8]
+[node206:365157] [ 3] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377538] [ 5] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351123] [ 5] [node260:324599] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172036] [10] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node259:398766] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve[0x45fc2d]
+[node206:365157] [ 4] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377538] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377538] [ 7] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351123] [ 6] [ 0] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172036] [11] [node211:00636] *** Process received signal ***
+[ 0] [node205:427153] *** Process received signal ***
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365157] [ 5] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377538] [ 8] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351123] [ 7] /lib64/libpthread.so.0(+0xf5d0)[0x2b90f3cf25d0]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172036] [12] ./solve(main+0x3de)[0x46c65e]
+[node209:172036] [13] [node211:00636] Signal: Aborted (6)
+[node211:00636] Signal code:  (-6)
+/lib64/libpthread.so.0(+0xf5d0)[0x2b725be015d0]
+[node205:427153] Signal: Aborted (6)
+[node205:427153] Signal code:  (-6)
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365157] [ 6] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377538] [ 9] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351123] [ 8] [node260:324599] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b209926e3d5]
+[node209:172036] [14] [node211:00636] [ 0] [node259:398766] [node205:427153] [ 0] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365157] [ 7] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377538] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377538] [11] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351123] [ 9] [ 1] ./solve[0x4711d7]
+[node209:172036] *** End of error message ***
+/lib64/libpthread.so.0(+0xf5d0)[0x2b7479dcb5d0]
+[node211:00636] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b747a00e207]
+[node211:00636] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b747a00f8f8]
+[ 1] /lib64/libpthread.so.0(+0xf5d0)[0x2b61e392e5d0]
+[node205:427153] [ 1] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365157] [ 8] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377538] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377538] [13] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351123] [10] /lib64/libc.so.6(gsignal+0x37)[0x2b90f3f35207]
+Point ([node211:00636] [ 3] ./solve[0x45fc2d]
+[node211:00636] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node211:00636] [ 5] /lib64/libc.so.6(gsignal+0x37)[0x2b725c044207]
+/lib64/libc.so.6(gsignal+0x37)[0x2b61e3b71207]
+[node205:427153] [ 2] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365157] [ 9] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b99f37653d5]
+[node204:377538] [14] ./solve[0x4711d7]
+[node204:377538] *** End of error message ***
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351123] [11] [node260:324599] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node211:00636] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node211:00636] [ 7] [node259:398766] /lib64/libc.so.6(abort+0x148)[0x2b61e3b728f8]
+[node205:427153] [ 3] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365157] [10] Point ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351123] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351123] [13] [ 2] [node209:172035] *** Process received signal ***
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node211:00636] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node211:00636] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node211:00636] [10] [ 2] ./solve[0x45fc2d]
+[node205:427153] [ 4] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365157] [11] (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import/lib64/libc.so.6(__libc_start_main+0xf5)[0x2af3a7dd33d5]
+[node210:351123] [14] /lib64/libc.so.6(abort+0x148)[0x2b90f3f368f8]
+[node209:172035] Signal: Aborted (6)
+[node209:172035] Signal code:  (-6)
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node211:00636] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node211:00636] [12] ./solve(main+0x3de)[0x46c65e]
+[node211:00636] [13] /lib64/libc.so.6(abort+0x148)[0x2b725c0458f8]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427153] [ 5] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365157] [12] 
+./solve[0x4711d7]
+[node210:351123] *** End of error message ***
+[node260:324599] [node209:172035] [ 0] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7479ffa3d5]
+[node211:00636] [14] ./solve[0x4711d7]
+[node211:00636] *** End of error message ***
+[node259:398766] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427153] [ 6] ./solve(main+0x3de)[0x46c65e]
+[node206:365157] [13] [node204:377556] *** Process received signal ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import[ 3] /lib64/libpthread.so.0(+0xf5d0)[0x2ba0f0db65d0]
+[node209:172035] [ 1] [ 3] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427153] [ 7] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b28af6ed3d5]
+[node206:365157] [14] [node204:377556] Signal: Aborted (6)
+[node204:377556] Signal code:  (-6)
+
+[node210:351109] *** Process received signal ***
+./solve[0x45fc2d]
+/lib64/libc.so.6(gsignal+0x37)[0x2ba0f0ff9207]
+[node209:172035] [ 2] ./solve[0x45fc2d]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427153] [ 8] ./solve[0x4711d7]
+[node206:365157] *** End of error message ***
+[node204:377556] [ 0] [node210:351109] Signal: Aborted (6)
+[node210:351109] Signal code:  (-6)
+[node260:324599] /lib64/libc.so.6(abort+0x148)[0x2ba0f0ffa8f8]
+[node209:172035] [ 3] [node259:398766] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427153] [ 9] Point (/lib64/libpthread.so.0(+0xf5d0)[0x2b73513595d0]
+[node204:377556] [ 1] [node210:351109] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b34123fc5d0]
+[node210:351109] [ 1] [ 4] ./solve[0x45fc2d]
+[node209:172035] [ 4] [ 4] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427153] [10] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+/lib64/libc.so.6(gsignal+0x37)[0x2b735159c207]
+[node204:377556] [ 2] /lib64/libc.so.6(gsignal+0x37)[0x2b341263f207]
+[node210:351109] [ 2] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172035] [ 5] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427153] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427153] [12] [node206:365167] *** Process received signal ***
+/lib64/libc.so.6(abort+0x148)[0x2b735159d8f8]
+[node204:377556] [ 3] /lib64/libc.so.6(abort+0x148)[0x2b34126408f8]
+[node210:351109] [ 3] [node260:324599] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172035] [ 6] [node259:398766] ./solve(main+0x3de)[0x46c65e]
+[node205:427153] [13] [node206:365167] Signal: Aborted (6)
+[node206:365167] Signal code:  (-6)
+./solve[0x45fc2d]
+[node204:377556] [ 4] ./solve[0x45fc2d]
+[node210:351109] [ 4] [ 5] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172035] [ 7] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b61e3b5d3d5]
+[node205:427153] [14] [node206:365167] [ 0] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377556] [ 5] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351109] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172035] [ 8] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve[0x4711d7]
+[node205:427153] *** End of error message ***
+/lib64/libpthread.so.0(+0xf5d0)[0x2b2d74cdd5d0]
+[node206:365167] [ 1] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377556] [ 6] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node210:351109] [ 6] [node260:324599] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172035] [ 9] [node259:398766] Point (/lib64/libc.so.6(gsignal+0x37)[0x2b2d74f20207]
+[node206:365167] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b2d74f218f8]
+[node206:365167] [ 3] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377556] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351109] [ 7] [ 6] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172035] [10] [ 6] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import./solve[0x45fc2d]
+[node206:365167] [ 4] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377556] [ 8] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351109] [ 8] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172035] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172035] [12] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365167] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365167] [ 6] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377556] [ 9] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351109] [ 9] [node260:324599] ./solve(main+0x3de)[0x46c65e]
+[node209:172035] [13] [node259:398766] [node205:427151] *** Process received signal ***
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365167] [ 7] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377556] [10] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351109] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node210:351109] [11] [ 7] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ba0f0fe53d5]
+[node209:172035] [14] ./solve[0x4711d7]
+[node209:172035] *** End of error message ***
+[ 7] [node205:427151] Signal: Aborted (6)
+[node205:427151] Signal code:  (-6)
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365167] [ 8] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377556] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351109] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351109] [13] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+Point (./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427151] [ 0] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365167] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365167] [10] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377556] [12] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b341262b3d5]
+[node210:351109] [14] ./solve[0x4711d7]
+[node210:351109] *** End of error message ***
+[node260:324599] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node259:398766] /lib64/libpthread.so.0(+0xf5d0)[0x2ae7775745d0]
+[node205:427151] [ 1] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365167] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365167] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377556] [13] Point ([ 8] [node209:172053] *** Process received signal ***
+[ 8] /lib64/libc.so.6(gsignal+0x37)[0x2ae7777b7207]
+[node205:427151] [ 2] ./solve(main+0x3de)[0x46c65e]
+[node206:365167] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b2d74f0c3d5]
+[node206:365167] [14] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b73515883d5]
+[node204:377556] [14] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node210:351112] *** Process received signal ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172053] Signal: Aborted (6)
+[node209:172053] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+/lib64/libc.so.6(abort+0x148)[0x2ae7777b88f8]
+[node205:427151] [ 3] ./solve[0x4711d7]
+[node206:365167] *** End of error message ***
+./solve[0x4711d7]
+[node204:377556] *** End of error message ***
+[node210:351112] Signal: Aborted (6)
+[node210:351112] Signal code:  (-6)
+[node260:324599] [node209:172053] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b698400c5d0]
+[node209:172053] [ 1] [node259:398766] ./solve[0x45fc2d]
+[node205:427151] [ 4] Point (Point ([node210:351112] [ 0] [ 9] /lib64/libc.so.6(gsignal+0x37)[0x2b698424f207]
+[node209:172053] [ 2] [ 9] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427151] [ 5] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import-18.0038, 0, 0)/lib64/libpthread.so.0(+0xf5d0)[0x2ba67f8b25d0]
+[node210:351112] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ba67faf5207]
+[node210:351112] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+/lib64/libc.so.6(abort+0x148)[0x2b69842508f8]
+[node209:172053] [ 3] ./solve[0x45fc2d]
+[node209:172053] [ 4] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427151] [ 6] 
+ not found in other domains, for Domain_bispheric_chi_first::import
+[ 2] /lib64/libc.so.6(abort+0x148)[0x2ba67faf68f8]
+[node210:351112] [ 3] [node260:324599] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172053] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172053] [ 6] [node259:398766] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427151] [ 7] [node206:365165] *** Process received signal ***
+[node204:377540] *** Process received signal ***
+./solve[0x45fc2d]
+[node210:351112] [ 4] [10] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172053] [ 7] [10] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427151] [ 8] [node206:365165] Signal: Aborted (6)
+[node206:365165] Signal code:  (-6)
+[node204:377540] Signal: Aborted (6)
+[node204:377540] Signal code:  (-6)
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node210:351112] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172053] [ 8] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427151] [ 9] Point ([node204:377540] [ 0] [node210:351112] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node210:351112] [ 7] [node260:324599] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172053] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172053] [10] [node259:398766] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427151] [10] [node206:365165] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b5a2d6a25d0]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b1554db45d0]
+[node204:377540] [ 1] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node210:351112] [ 8] [11] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172053] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172053] [12] ./solve(main+0x3de)[0x46c65e]
+[node209:172053] [13] [11] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427151] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427151] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+/lib64/libc.so.6(gsignal+0x37)[0x2b1554ff7207]
+[node204:377540] [ 2] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node210:351112] [ 9] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b698423b3d5]
+[node209:172053] [14] ./solve[0x4711d7]
+[node209:172053] *** End of error message ***
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[12] ./solve(main+0x3de)[0x46c65e]
+[node205:427151] [13] [node206:365165] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b5a2d8e5207]
+[node206:365165] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b1554ff88f8]
+[node204:377540] [ 3] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node210:351112] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324599] Point ([node259:398766] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae7777a33d5]
+[node205:427151] [14] [node206:365164] *** Process received signal ***
+./solve[0x45fc2d]
+[node204:377540] [ 4] [node210:351112] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node210:351112] [12] ./solve(main+0x3de)[0x46c65e]
+[node210:351112] [13] [12] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[12] ./solve[0x4711d7]
+[node205:427151] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b5a2d8e68f8]
+[node206:365165] [ 3] ./solve[0x45fc2d]
+[node206:365165] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node204:377540] [ 5] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ba67fae13d5]
+[node210:351112] [14] ./solve[0x4711d7]
+[node210:351112] *** End of error message ***
+./solve(main+0x3de)[0x46c65e]
+[node209:172037] *** Process received signal ***
+./solve(main+0x3de)[0x46c65e]
+Point ([node206:365164] Signal: Aborted (6)
+[node206:365164] Signal code:  (-6)
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node204:377540] [ 6] [node260:324599] [node209:172037] Signal: Aborted (6)
+[node209:172037] Signal code:  (-6)
+[node259:398766] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node205:427155] *** Process received signal ***
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365165] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365165] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node204:377540] [ 7] [13] [node209:172037] [ 0] [13] [node205:427155] Signal: Aborted (6)
+[node205:427155] Signal code:  (-6)
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365165] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node204:377540] [ 8] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b90f3f213d5]
+/lib64/libpthread.so.0(+0xf5d0)[0x2b7c8013b5d0]
+[node209:172037] [ 1] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b725c0303d5]
+[node205:427155] [ 0] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365165] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node204:377540] [ 9] [node260:324599] /lib64/libc.so.6(gsignal+0x37)[0x2b7c8037e207]
+[node209:172037] [ 2] [node259:398766] /lib64/libpthread.so.0(+0xf5d0)[0x2adcd7dd95d0]
+[node205:427155] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2adcd801c207]
+[node205:427155] [ 2] /lib64/libc.so.6(abort+0x148)[0x2adcd801d8f8]
+[node205:427155] [ 3] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365165] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node204:377540] [10] [14] /lib64/libc.so.6(abort+0x148)[0x2b7c8037f8f8]
+[node209:172037] [ 3] ./solve[0x45fc2d]
+[node209:172037] [ 4] [14] ./solve[0x45fc2d]
+[node205:427155] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427155] [ 5] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365165] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node204:377540] [11] ./solve[0x4711d7]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172037] [ 5] ./solve[0x4711d7]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427155] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427155] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427155] [ 8] [node206:365164] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b16d858e5d0]
+[node206:365164] [ 1] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node204:377540] [12] [node260:324599] *** End of error message ***
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172037] [ 6] [node259:398766] *** End of error message ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427155] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427155] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365165] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365165] [12] ./solve(main+0x3de)[0x46c65e]
+[node204:377540] [13] Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172037] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+Point ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427155] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427155] [12] ./solve(main+0x3de)[0x46c65e]
+[node205:427155] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2adcd80083d5]
+[node205:427155] [14] ./solve[0x4711d7]
+[node205:427155] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b16d87d1207]
+[node206:365164] [ 2] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b1554fe33d5]
+[node204:377540] [14] Point [node209:172037] [ 8] (Point (-18.0038, ./solve(main+0x3de)[0x46c65e]
+[node206:365165] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5a2d8d13d5]
+[node206:365165] [14] ./solve[0x4711d7]
+./solve[0x4711d7]
+[node204:377540] *** End of error message ***
+
+[node260:324605] *** Process received signal ***
+[node260:324605] Signal: Aborted (6)
+[node260:324605] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172037] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172037] [10] -18.00380, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node205:427152] *** Process received signal ***
+[node205:427152] Signal: Aborted (6)
+[node205:427152] Signal code:  (-6)
+/lib64/libc.so.6(abort+0x148)[0x2b16d87d28f8]
+[node206:365164] [ 3] ./solve[0x45fc2d]
+[node206:365164] [ 4] (Point (, [node205:427152] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b5a39cd95d0]
+[node205:427152] [ 1] [node206:365165] *** End of error message ***
+[node260:324605] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172037] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172037] [12] 0/lib64/libc.so.6(gsignal+0x37)[0x2b5a39f1c207]
+[node205:427152] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5a39f1d8f8]
+[node205:427152] [ 3] ./solve[0x45fc2d]
+[node205:427152] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365164] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365164] [ 6] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node209:172034] *** Process received signal ***
+, ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node205:427152] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node205:427152] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node205:427152] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365164] [ 7] [node260:324603] *** Process received signal ***
+[node260:324603] Signal: Aborted (6)
+[node260:324603] Signal code:  (-6)
+./solve(main+0x3de)[0x46c65e]
+[node209:172037] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7c8036a3d5]
+[node209:172037] [14] ./solve[0x4711d7]
+[node209:172037] *** End of error message ***
+0./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node205:427152] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node205:427152] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node205:427152] [10] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365164] [ 8] [ 0] [node209:172034] Signal: Aborted (6)
+[node209:172034] Signal code:  (-6)
+)./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node205:427152] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node205:427152] [12] ./solve(main+0x3de)[0x46c65e]
+[node205:427152] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5a39f083d5]
+[node205:427152] [14] ./solve[0x4711d7]
+[node205:427152] *** End of error message ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365164] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365164] [10] [node260:324603] [node209:172034] [ 0]  not found in other domains, for Domain_bispheric_chi_first::import./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365164] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365164] [12] /lib64/libpthread.so.0(+0xf5d0)[0x2b37e0ec25d0]
+[node260:324605] [ 1] /lib64/libpthread.so.0(+0xf5d0)[0x2b5e20d845d0]
+[node209:172034] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b5e20fc7207]
+[node209:172034] [ 2] 
+./solve(main+0x3de)[0x46c65e]
+[node206:365164] [13] /lib64/libc.so.6(gsignal+0x37)[0x2b37e1105207]
+[node260:324605] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5e20fc88f8]
+[node209:172034] [ 3] ./solve[0x45fc2d]
+[node209:172034] [ 4] [node259:398772] *** Process received signal ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b16d87bd3d5]
+[node206:365164] [14] ./solve[0x4711d7]
+[node206:365164] *** End of error message ***
+/lib64/libc.so.6(abort+0x148)[0x2b37e11068f8]
+[node260:324605] [ 3] ./solve[0x45fc2d]
+[node260:324605] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172034] [ 5] [node259:398772] Signal: Aborted (6)
+[node259:398772] Signal code:  (-6)
+Point (./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324605] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324605] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172034] [ 6] [node259:398772] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324605] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172034] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172034] [ 8] [ 0] [node206:365162] *** Process received signal ***
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324605] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172034] [ 9] /lib64/libpthread.so.0(+0xf5d0)[0x2b9d326775d0]
+[node206:365162] Signal: Aborted (6)
+[node206:365162] Signal code:  (-6)
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324605] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172034] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172034] [11] [node259:398772] [node206:365162] [ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324605] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324605] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172034] [12] ./solve(main+0x3de)[0x46c65e]
+[node209:172034] [13] [ 1] /lib64/libpthread.so.0(+0xf5d0)[0x2ad7108715d0]
+[node206:365162] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ad710ab4207]
+[node206:365162] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324605] [12] ./solve(main+0x3de)[0x46c65e]
+[node260:324605] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5e20fb33d5]
+[node209:172034] [14] ./solve[0x4711d7]
+[node209:172034] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2b9d328ba207]
+[ 2] /lib64/libc.so.6(abort+0x148)[0x2ad710ab58f8]
+[node206:365162] [ 3] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b37e10f13d5]
+[node260:324605] [14] ./solve[0x4711d7]
+[node260:324605] *** End of error message ***
+Point ([node259:398772] ./solve[0x45fc2d]
+[node206:365162] [ 4] [ 0] Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[ 2] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365162] [ 5] /lib64/libpthread.so.0(+0xf5d0)[0x2afad73175d0]
+[node260:324603] [ 1] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node209:172032] *** Process received signal ***
+/lib64/libc.so.6(abort+0x148)[0x2b9d328bb8f8]
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365162] [ 6] /lib64/libc.so.6(gsignal+0x37)[0x2afad755a207]
+[node260:324603] [ 2] [node209:172033] *** Process received signal ***
+[node209:172033] Signal: Aborted (6)
+[node209:172033] Signal code:  (-6)
+[node259:398772] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365162] [ 7] /lib64/libc.so.6(abort+0x148)[0x2afad755b8f8]
+[node260:324603] [ 3] ./solve[0x45fc2d]
+[node260:324603] [ 4] [node209:172032] Signal: Aborted (6)
+[node209:172032] Signal code:  (-6)
+[ 3] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365162] [ 8] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324603] [ 5] [node209:172033] [ 0] ./solve[0x45fc2d]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365162] [ 9] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324603] [ 6] [node209:172032] [ 0] Point (./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365162] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365162] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324603] [ 7] /lib64/libpthread.so.0(+0xf5d0)[0x2b39b01fe5d0]
+[node209:172033] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b39b0441207]
+[node209:172033] [ 2] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365162] [12] ./solve(main+0x3de)[0x46c65e]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324603] [ 8] /lib64/libpthread.so.0(+0xf5d0)[0x2ad36bffb5d0]
+[node209:172032] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2ad36c23e207]
+[node209:172032] [ 2] [node259:398770] *** Process received signal ***
+[node206:365162] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad710aa03d5]
+[node206:365162] [14] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324603] [ 9] /lib64/libc.so.6(abort+0x148)[0x2b39b04428f8]
+[node209:172033] [ 3] [node259:398772] ./solve[0x4711d7]
+[node206:365162] *** End of error message ***
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324603] [10] /lib64/libc.so.6(abort+0x148)[0x2ad36c23f8f8]
+[node209:172032] [ 3] ./solve[0x45fc2d]
+[node209:172032] [ 4] [node259:398770] Signal: Aborted (6)
+[node259:398770] Signal code:  (-6)
+Point (./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324603] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324603] [12] ./solve[0x45fc2d]
+[node209:172033] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172033] [ 5] [ 4] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node206:365161] *** Process received signal ***
+./solve(main+0x3de)[0x46c65e]
+[node260:324603] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2afad75463d5]
+[node260:324603] [14] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node209:172032] [ 5] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365161] Signal: Aborted (6)
+[node206:365161] Signal code:  (-6)
+./solve[0x4711d7]
+[node260:324603] *** End of error message ***
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172033] [ 6] [node259:398770] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ae35c2995d0]
+[node259:398770] [ 1] [node206:365161] [ 0] Point (./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node209:172032] [ 6] /lib64/libc.so.6(gsignal+0x37)[0x2ae35c4dc207]
+[node259:398770] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ae35c4dd8f8]
+[node259:398770] [ 3] /lib64/libpthread.so.0(+0xf5d0)[0x2b898ee185d0]
+[node206:365161] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b898f05b207]
+[node206:365161] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b898f05c8f8]
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172033] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172033] [ 8] ./solve[0x45fc2d]
+[node259:398770] [ 4] [node206:365161] [ 3] ./solve[0x45fc2d]
+[node206:365161] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365161] [ 5] [node260:324596] *** Process received signal ***
+[node260:324596] Signal: Aborted (6)
+[node260:324596] Signal code:  (-6)
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node209:172032] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node209:172032] [ 8] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node259:398770] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365161] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365161] [ 7] [node260:324596] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172033] [ 9] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398770] [ 6] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365161] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node260:324598] *** Process received signal ***
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node209:172032] [ 9] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398770] [ 7] [node206:365161] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365161] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365161] [11] [node260:324598] Signal: Aborted (6)
+[node260:324598] Signal code:  (-6)
+./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172033] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172033] [11] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398770] [ 8] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365161] [12] ./solve(main+0x3de)[0x46c65e]
+[node206:365161] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b898f0473d5]
+[node206:365161] [14] [ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node209:172032] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node209:172032] [11] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398770] [ 9] ./solve[0x4711d7]
+[node206:365161] *** End of error message ***
+[node260:324598] [ 0] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172033] [12] ./solve(main+0x3de)[0x46c65e]
+[node209:172033] [13] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398770] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398770] [11] Point (/lib64/libpthread.so.0(+0xf5d0)[0x2abe70a2c5d0]
+[node260:324598] [ 1] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node209:172032] [12] ./solve(main+0x3de)[0x46c65e]
+[node209:172032] [13] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398770] [12] ./solve(main+0x3de)[0x46c65e]
+[node259:398770] [13] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node206:365158] *** Process received signal ***
+/lib64/libc.so.6(gsignal+0x37)[0x2abe70c6f207]
+[node260:324598] [ 2] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b39b042d3d5]
+[node209:172033] [14] ./solve[0x4711d7]
+[node209:172033] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae35c4c83d5]
+[node259:398770] [14] [node206:365158] Signal: Aborted (6)
+[node206:365158] Signal code:  (-6)
+/lib64/libc.so.6(abort+0x148)[0x2abe70c708f8]
+[node260:324598] [ 3] ./solve[0x45fc2d]
+[node260:324598] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad36c22a3d5]
+[node209:172032] [14] ./solve[0x4711d7]
+[node209:172032] *** End of error message ***
+./solve[0x4711d7]
+[node259:398770] *** End of error message ***
+[node206:365158] [ 0] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324598] [ 5] [node259:398772] /lib64/libpthread.so.0(+0xf5d0)[0x2b5b02c185d0]
+[node206:365158] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b5b02e5b207]
+[node206:365158] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b5b02e5c8f8]
+[node206:365158] [ 3] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324598] [ 6] [ 5] ./solve[0x45fc2d]
+[node206:365158] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node206:365158] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node206:365158] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node206:365158] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node206:365158] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node206:365158] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node206:365158] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node206:365158] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node206:365158] [12] ./solve(main+0x3de)[0x46c65e]
+[node206:365158] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b5b02e473d5]
+[node206:365158] [14] ./solve[0x4711d7]
+[node206:365158] *** End of error message ***
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324598] [ 7] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324598] [ 8] [node259:398772] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324598] [ 9] [ 6] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324598] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324598] [11] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324598] [12] ./solve(main+0x3de)[0x46c65e]
+[node260:324598] [13] [node259:398772] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2abe70c5b3d5]
+[node260:324598] [14] [ 7] ./solve[0x4711d7]
+[node260:324598] *** End of error message ***
+Point /lib64/libpthread.so.0(+0xf5d0)[0x2b745cb6c5d0]
+[node260:324596] [ 1] (-18.0038, 0, 0)/lib64/libc.so.6(gsignal+0x37)[0x2b745cdaf207]
+[node260:324596] [ 2]  not found in other domains, for Domain_bispheric_chi_first::import
+/lib64/libc.so.6(abort+0x148)[0x2b745cdb08f8]
+[node260:324596] [ 3] ./solve[0x45fc2d]
+[node260:324596] [ 4] [node259:398767] *** Process received signal ***
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324596] [ 5] [node259:398767] Signal: Aborted (6)
+[node259:398767] Signal code:  (-6)
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324596] [ 6] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324596] [ 7] [node259:398772] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324596] [ 8] [node259:398767] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b0cccefc5d0]
+[node259:398767] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324596] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324596] [10] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b0ccd13f207]
+[node259:398767] [ 2] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324596] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324596] [12] /lib64/libc.so.6(abort+0x148)[0x2b0ccd1408f8]
+[node259:398767] [ 3] ./solve[0x45fc2d]
+[node259:398767] [ 4] ./solve(main+0x3de)[0x46c65e]
+[node260:324596] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b745cd9b3d5]
+[node260:324596] [14] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node259:398767] [ 5] ./solve[0x4711d7]
+[node260:324596] *** End of error message ***
+./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398767] [ 6] Point (./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398767] [ 7] Point (-18.0038, 0, 0)./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398767] [ 8] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398767] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398767] [10]  not found in other domains, for Domain_bispheric_chi_first::import
+./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398767] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398767] [12] [node260:324602] *** Process received signal ***
+./solve(main+0x3de)[0x46c65e]
+[node259:398767] [13] [node260:324604] *** Process received signal ***
+[node260:324604] Signal: Aborted (6)
+[node260:324604] Signal code:  (-6)
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b0ccd12b3d5]
+[node259:398767] [14] ./solve[0x4711d7]
+[node259:398767] *** End of error message ***
+[node260:324602] Signal: Aborted (6)
+[node260:324602] Signal code:  (-6)
+[ 8] [node260:324604] [ 0] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398772] [ 9] [node260:324602] [ 0] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398772] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398772] [11] /lib64/libpthread.so.0(+0xf5d0)[0x2aad7be085d0]
+[node260:324604] [ 1] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398772] [12] ./solve(main+0x3de)[0x46c65e]
+[node259:398772] [13] /lib64/libpthread.so.0(+0xf5d0)[0x2ab057ae05d0]
+[node260:324602] [ 1] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9d328a63d5]
+[node259:398772] [14] ./solve[0x4711d7]
+[node259:398772] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x37)[0x2aad7c04b207]
+[node260:324604] [ 2] Point (/lib64/libc.so.6(gsignal+0x37)[0x2ab057d23207]
+[node260:324602] [ 2] -18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+/lib64/libc.so.6(abort+0x148)[0x2aad7c04c8f8]
+[node260:324604] [ 3] ./solve[0x45fc2d]
+[node260:324604] [ 4] [node259:398771] *** Process received signal ***
+/lib64/libc.so.6(abort+0x148)[0x2ab057d248f8]
+[node260:324602] [ 3] ./solve[0x45fc2d]
+[node260:324602] [ 4] [node259:398771] Signal: Aborted (6)
+[node259:398771] Signal code:  (-6)
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324604] [ 5] [node259:398771] [ 0] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node260:324602] [ 5] /lib64/libpthread.so.0(+0xf5d0)[0x2b29bb11a5d0]
+[node259:398771] [ 1] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324604] [ 6] /lib64/libc.so.6(gsignal+0x37)[0x2b29bb35d207]
+[node259:398771] [ 2] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node260:324602] [ 6] /lib64/libc.so.6(abort+0x148)[0x2b29bb35e8f8]
+[node259:398771] [ 3] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324604] [ 7] ./solve[0x45fc2d]
+[node259:398771] [ 4] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node260:324602] [ 7] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node259:398771] [ 5] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324604] [ 8] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398771] [ 6] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node260:324602] [ 8] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398771] [ 7] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324604] [ 9] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398771] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node260:324602] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398771] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node260:324604] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324604] [11] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398771] [10] [node260:324602] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node260:324602] [11] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398771] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324604] [12] ./solve(main+0x3de)[0x46c65e]
+[node260:324604] [13] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398771] [12] ./solve(main+0x3de)[0x46c65e]
+[node259:398771] [13] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node260:324602] [12] ./solve(main+0x3de)[0x46c65e]
+[node260:324602] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b29bb3493d5]
+[node259:398771] [14] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aad7c0373d5]
+[node260:324604] [14] ./solve[0x4711d7]
+[node259:398771] *** End of error message ***
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab057d0f3d5]
+[node260:324602] [14] ./solve[0x4711d7]
+[node260:324604] *** End of error message ***
+Point (./solve[0x4711d7]
+[node260:324602] *** End of error message ***
+Point (-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+-18.0038, 0, 0) not found in other domains, for Domain_bispheric_chi_first::import
+[node259:398773] *** Process received signal ***
+[node259:398765] *** Process received signal ***
+[node259:398773] Signal: Aborted (6)
+[node259:398773] Signal code:  (-6)
+[node259:398765] Signal: Aborted (6)
+[node259:398765] Signal code:  (-6)
+[node259:398773] [ 0] [node259:398765] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2ac3a73e15d0]
+[node259:398773] [ 1] /lib64/libpthread.so.0(+0xf5d0)[0x2b40ba1865d0]
+[node259:398765] [ 1] /lib64/libc.so.6(gsignal+0x37)[0x2b40ba3c9207]
+[node259:398765] /lib64/libc.so.6(gsignal+0x37)[0x2ac3a7624207]
+[node259:398773] [ 2] /lib64/libc.so.6(abort+0x148)[0x2ac3a76258f8]
+[node259:398773] [ 3] [ 2] /lib64/libc.so.6(abort+0x148)[0x2b40ba3ca8f8]
+[node259:398765] [ 3] ./solve[0x45fc2d]
+[node259:398773] [ 4] ./solve[0x45fc2d]
+[node259:398765] [ 4] ./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+./solve(_ZNK6Kadath6Domain6importEiiiPPNS_7Term_eqE+0x166)[0x544246]
+[node259:398773] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398773] [ 6] [node259:398765] [ 5] ./solve(_ZNK6Kadath10Ope_import6actionEv+0x130)[0x72ff00]
+[node259:398765] [ 6] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398773] [ 7] ./solve(_ZNK6Kadath7Ope_sub6actionEv+0x29)[0x73ff19]
+[node259:398765] [ 7] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398773] [ 8] ./solve(_ZN6Kadath8Equation5applyERiPPNS_7Term_eqE+0x56)[0x703226]
+[node259:398765] [ 8] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398773] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398773] [10] ./solve(_ZN6Kadath13System_of_eqs10sec_memberEv+0xaf)[0x580e4f]
+[node259:398765] [ 9] ./solve(_Z13update_fieldsIN6Kadath12Space_bin_nsEEvRK11CoordFieldsIT_ERSt5arrayISt8optionalINS0_6VectorEELm9EERS7_IS8_INS0_6ScalarEELm2EEdddPNS0_13System_of_eqsE+0x227)[0x4b9507]
+[node259:398765] [10] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398773] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398773] [12] ./solve(_ZN15bns_xcts_solverIN6Kadath10Margherita12Cold_Table_tILi0E15linear_interp_tEER19kadath_config_boostI8BIN_INFOENS0_12Space_bin_nsEE29hydrostatic_equilibrium_stageEv+0x7d9)[0x4ca599]
+[node259:398765] [11] ./solve(_Z15bns_xcts_driverR19kadath_config_boostI8BIN_INFOENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xe35)[0x476035]
+[node259:398765] [12] ./solve(main+0x3de)[0x46c65e]
+[node259:398773] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ac3a76103d5]
+[node259:398773] [14] ./solve(main+0x3de)[0x46c65e]
+[node259:398765] [13] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b40ba3b53d5]
+[node259:398765] [14] ./solve[0x4711d7]
+[node259:398773] *** End of error message ***
+./solve[0x4711d7]
+[node259:398765] *** End of error message ***
+--------------------------------------------------------------------------
+mpirun noticed that process rank 92 with PID 165403 on node node261 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+9 total processes killed (some possibly by mpirun during cleanup)

@@ -1,0 +1,190 @@
+No dat file associated with : ./initial_bns_w0.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.0011175, 0.001165
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00023
+                madm: 1.64
+                  mb: 1.8979
+      n_inner_shells: 0
+                  nc: 0.00115906
+             nshells: 0
+               omega: 0
+             ql_madm: 1.62
+                qpig: 12.5664
+                 res: 9
+                 rin: 4.28365
+                rmid: 8.5673
+                rout: 17.1346
+             eosfile: poly2_123.6.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+############################
+TOV with a resolved surface
+with ADM Mass fixing
+############################
+[Rmin, Rmax] : [8.5673, 8.5673]
+Error init = 1.64, Eq: integ(intMadm) = Madm Dom: 3 Bounday: 1
+DOF / rank = 6599 x 6599 / 420 = 103683
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.99904 / 7.28746 / 8.30041 seconds (avg/min/max)
+Inverting the matrix: 17.3527 seconds
+Distributing solution: 0.0410428 seconds
+=======================================
+Iter:        +1
+Error:       +1.64
+Mb:          +1.77367
+Madm:        +0
+Madm_ql:     +0 [-nan]
+Mk:          +0 [-nan]
+R:           +8.56934 +8.56934
+
+Error init = 0.000258004, Eq: eqNP= 0 Dom: 2 Bounday: -1
+DOF / rank = 6599 x 6599 / 420 = 103683
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 7.49021 / 7.11207 / 7.82135 seconds (avg/min/max)
+Inverting the matrix: 17.4466 seconds
+Distributing solution: 0.0418912 seconds
+=======================================
+Iter:        +2
+Error:       +0.000258004
+Mb:          +1.77542
+Madm:        +1.64
+Madm_ql:     +1.64 [+9.7483e-15]
+Mk:          +1.20653 [+0.264311]
+R:           +8.57179 +8.57179
+
+Error init = 5.35671e-06, Eq: firstint Dom: 0 Bounday: -1
+DOF / rank = 6599 x 6599 / 420 = 103683
+Block size is 8, consider lowering the number of cores.
+Load and redistrib Jacobian: 3.83682 / 3.59277 / 4.1654 seconds (avg/min/max)
+Inverting the matrix: 17.371 seconds
+Distributing solution: 0.0391985 seconds
+=======================================
+Iter:        +3
+Error:       +5.35671e-06
+Mb:          +1.7745
+Madm:        +1.64
+Madm_ql:     +1.64 [+2.06745e-13]
+Mk:          +1.64008 [+4.99234e-05]
+R:           +8.57176 +8.57176
+
+Error init = 2.35418e-11, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+=======================================
+Iter:        +4
+Error:       +2.35418e-11
+Mb:          +1.7745
+Madm:        +1.64
+Madm_ql:     +1.64 [+2.75796e-13]
+Mk:          +1.64001 [+7.70942e-06]
+R:           +8.57176 +8.57176
+
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.poly2_123.1.64.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.poly2_123.1.64.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.30171
+                madm: 1.64
+                  mb: 1.7745
+      n_inner_shells: 0
+                  nc: 0.0012205
+             nshells: 0
+               omega: 0
+             ql_madm: 1.64
+                qpig: 12.5664
+                 res: 9
+                 rin: 4.28365
+                rmid: 8.5673
+                rout: 17.1346
+             eosfile: poly2_123.6.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+###################################
+Rotating - with fixed ADM Mass
+###################################
+=======================================
+Iter:        +0
+Error:       +0
+Mb:          +1.7745
+Madm:        +1.64
+Madm_ql:     +1.64 [+2.75796e-13]
+Mk:          +1.64001 [+7.70942e-06]
+R:           +8.57176 +8.57176
+Jadm:        +0
+Chi:         +0 [+0]
+Omega:       +0
+=======================================
+
+Error init = 2.35418e-11, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+=======================================
+Iter:        +1
+Error:       +2.35418e-11
+Mb:          +1.7745
+Madm:        +1.64
+Madm_ql:     +1.64 [+2.75796e-13]
+Mk:          +1.64001 [+7.70942e-06]
+R:           +8.57176 +8.57176
+Jadm:        +0
+Chi:         +0 [+0]
+Omega:       +0
+=======================================
+
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 8.57176 8.57176
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 4.28588 8.57176 12.8576 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.30171
+                madm: 1.64
+                  mb: 1.7745
+      n_inner_shells: 0
+                  nc: 0.0012205
+             nshells: 0
+               omega: 0
+             ql_madm: 1.64
+                qpig: 12.5664
+                 res: 11
+                 rin: 4.28588
+                rmid: 8.57176
+                rout: 12.8576
+             eosfile: poly2_123.6.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+###################################
+Rotating - with fixed ADM Mass
+###################################
+=======================================
+Iter:        +0
+Error:       +0
+Mb:          +1.7745
+Madm:        +1.64186
+Madm_ql:     +1.64186 [+3.14703e-13]
+Mk:          +1.64158 [+0.00017042]
+R:           +8.57176 +8.57176
+Jadm:        +0
+Chi:         +0 [+0]
+Omega:       +0
+=======================================
+
+Error init = 0.00185651, Eq: integ(intMadm) = Madm Dom: 3 Bounday: 1
+DOF / rank = 24690 x 24690 / 420 = 1.45142e+06
+slurmstepd: error: *** JOB 1726913 ON node303 CANCELLED AT 2022-11-10T22:35:20 DUE TO TIME LIMIT ***

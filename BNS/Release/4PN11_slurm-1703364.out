@@ -1,0 +1,158 @@
+No dat file associated with : ./initial_bns_d20q2.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.001355, 0.0014025
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00941
+                madm: 1.5
+                  mb: 1.76615
+      n_inner_shells: 0
+                  nc: 0.00140176
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 2.98962
+                rmid: 5.97923
+                rout: 11.9585
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+############################
+TOV with a resolved surface
+with ADM Mass fixing
+############################
+[Rmin, Rmax] : [5.97923, 5.97923]
+Error init = 1.5, Eq: integ(intMadm) = Madm Dom: 3 Bounday: 1
+DOF / rank = 6599 x 6599 / 120 = 362890
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 20.2951 / 20.1337 / 21.1515 seconds (avg/min/max)
+Inverting the matrix: 85.602 seconds
+Distributing solution: 0.0351796 seconds
+=======================================
+Iter:        +1
+Error:       +1.5
+Mb:          +1.73802
+Madm:        +0
+Madm_ql:     +0 [-nan]
+Mk:          +0 [-nan]
+R:           +6.22246 +6.22246
+
+Error init = 0.0144681, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 6599 x 6599 / 120 = 362890
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 11.71 / 11.6775 / 11.7591 seconds (avg/min/max)
+Inverting the matrix: 78.2782 seconds
+Distributing solution: 0.0335666 seconds
+=======================================
+Iter:        +2
+Error:       +0.0144681
+Mb:          +1.70973
+Madm:        +1.5
+Madm_ql:     +1.5 [+1.43174e-12]
+Mk:          +1.04912 [+0.300585]
+R:           +6.21593 +6.21593
+
+Error init = 0.000224413, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 6599 x 6599 / 120 = 362890
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 11.7467 / 11.7067 / 11.9804 seconds (avg/min/max)
+Inverting the matrix: 75.4562 seconds
+Distributing solution: 0.0339371 seconds
+=======================================
+Iter:        +3
+Error:       +0.000224413
+Mb:          +1.67749
+Madm:        +1.5
+Madm_ql:     +1.5 [+3.1634e-13]
+Mk:          +1.50101 [+0.000673591]
+R:           +6.21595 +6.21595
+
+Error init = 2.19176e-06, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 6599 x 6599 / 120 = 362890
+Block size is 32, consider lowering the number of cores.
+Load and redistrib Jacobian: 11.7652 / 11.7289 / 11.7975 seconds (avg/min/max)
+Inverting the matrix: 79.492 seconds
+Distributing solution: 0.0353143 seconds
+=======================================
+Iter:        +4
+Error:       +2.19176e-06
+Mb:          +1.67901
+Madm:        +1.5
+Madm_ql:     +1.5 [+4.92939e-14]
+Mk:          +1.49984 [+0.000107917]
+R:           +6.21596 +6.21596
+
+Error init = 5.29975e-09, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+=======================================
+Iter:        +5
+Error:       +5.29975e-09
+Mb:          +1.67901
+Madm:        +1.5
+Madm_ql:     +1.5 [+1.37076e-13]
+Mk:          +1.49984 [+0.000109992]
+R:           +6.21596 +6.21596
+
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.5.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.5.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.29056
+                madm: 1.5
+                  mb: 1.67901
+      n_inner_shells: 0
+                  nc: 0.00144366
+             nshells: 0
+               omega: 0
+             ql_madm: 1.5
+                qpig: 12.5664
+                 res: 9
+                 rin: 2.98962
+                rmid: 5.97923
+                rout: 11.9585
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.5.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.5.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.5.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.29056
+                madm: 1.5
+                  mb: 1.67901
+      n_inner_shells: 0
+                  nc: 0.00144366
+             nshells: 0
+               omega: 0
+             ql_madm: 1.5
+                qpig: 12.5664
+                 res: 9
+                 rin: 2.98962
+                rmid: 5.97923
+                rout: 11.9585
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.5.0.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.21596 6.21596
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.10798 6.21596 9.32394 
+slurmstepd: error: *** JOB 1703364 ON node163 CANCELLED AT 2022-10-01T14:05:47 DUE TO TIME LIMIT ***

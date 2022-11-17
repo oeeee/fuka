@@ -1,10 +1,11 @@
 binary
 {
-    com 0
-    comy 0
-    distance 47.2
-    ecc_omega 0.0100021748737747
-    global_omega 0.0100021748737747
+    adot -2.484438173436805e-05
+    com -3.647031533625131e-10
+    comy 2.241901235273578e-10
+    distance 28
+    ecc_omega 0.008736558108174088
+    global_omega 0.008736558108174088
     outer_shells 0
     q 1
     qpig 12.56637061435917
@@ -13,21 +14,23 @@ binary
     ns1
     {
         chi 0
+        decay_limit 14
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        fixed_r 6.354228175255301
+        hc 1.166236446511939
+        madm 1
+        mb 1.071917411408232
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001114779074343017
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 3.248051121992493e-05
+        ql_madm 0.9887066997857409
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.17711408762765
+        rmid 6.710728987353644
+        rout 9.065467747500445
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -35,21 +38,23 @@ binary
     ns2
     {
         chi 0
+        decay_limit 14
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        fixed_r 6.354228175248062
+        hc 1.166236446511939
+        madm 1
+        mb 1.071917411408232
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001114779074343017
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 3.248051122360301e-05
+        ql_madm 0.9887066997857474
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.177114087624031
+        rmid 6.710728987353644
+        rout 9.065467747500445
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -76,7 +81,7 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off

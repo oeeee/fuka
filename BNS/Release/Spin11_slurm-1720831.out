@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+Config file input is invalid.  Check for typos.
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[63000,1],342]
+  Exit code:    1
+--------------------------------------------------------------------------
+/var/tmp/slurmd_spool/job1720831/slurm_script: line 16: .info: command not found

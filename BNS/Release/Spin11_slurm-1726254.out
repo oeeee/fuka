@@ -1,0 +1,1099 @@
+No dat file associated with : ./initial_bns_d33_ir.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.70137 6.70137
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.35069 6.70137 10.0521 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_36_0.00610424.togashi.1.0.0.11.info
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.00107, 0.0011175
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00919
+                madm: 1
+                  mb: 1.11258
+      n_inner_shells: 0
+                  nc: 0.00108187
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.15541
+                rmid: 6.31081
+                rout: 12.6216
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.70137 6.70137
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.35069 6.70137 10.0521 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16524
+                madm: 1
+                  mb: 1.07012
+      n_inner_shells: 0
+                  nc: 0.00111162
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 0
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35069
+                rmid: 6.70137
+                rout: 10.0521
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_36_0.00610424.togashi.1.0.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_36_0.00610424.togashi.1.0.0.11.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_36_0.00610424.togashi.1.0.0.11.info
+Bounds:
+Outer: 72 
+NS1: 3.35536 6.71073 10.4738 
+NS2: 3.35536 6.71073 10.4738 
+xc1: -18
+xc2: 18
+WeightNS1: 18, WeightNS2: 18
+Config File: ./initbin.info
+Fields File: ./initbin.dat
+***************binary info***************
+                 com: 0
+                comy: 0
+            distance: 36
+           ecc_omega: 0.00610424
+        global_omega: 0.00610424
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 9
+                rext: 72
+*****************ns info*****************
+                 chi: 0
+         decay_limit: 18
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: -3.41087e-27
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35536
+                rmid: 6.71073
+                rout: 10.4738
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+*****************ns info*****************
+                 chi: 0
+         decay_limit: 18
+                 dim: 3
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: -3.41087e-27
+             ql_madm: 1
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.35536
+                rmid: 6.71073
+                rout: 10.4738
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+=================================
+BNS grav input
+Distance: 36
+Omega guess: 0.00610424
+Units: 12.5664
+=================================
+############################
+Py fixing without first integral and fixed omega, chi = 0,0 and q = 1
+with Py BC fixing
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00610424
+Axis:        +0
+P:           [+0, +0, +0]
+
+NS1-Mb:      +1.07329
+NS1-Madm_ql: +1.06203
+NS1-S:       +1.68606e-16
+NS1-Chi:     +1.68606e-16
+NS1-Chi_ql:  +1.49486e-16
+NS1-OmegaS:  -3.41087e-27
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07329
+NS2-Madm_ql: +1.06203
+NS2-S:       -1.65961e-16
+NS2-Chi:     -1.65961e-16
+NS2-Chi_ql:  -1.47141e-16
+NS2-OmegaS:  -3.41087e-27
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 0.062029, Eq: integvolume(intM) = qlMadm1 Dom: 0 Bounday: -1
+DOF / rank = 41323 x 41323 / 420 = 4.06569e+06
+Load and redistrib Jacobian: 269.181 / 267.59 / 270.038 seconds (avg/min/max)
+Inverting the matrix: 175.733 seconds
+Distributing solution: 0.130656 seconds
+=======================================
+Iter:        +1
+Error:       +0.062029
+Omega:       +0.00610424
+Axis:        +0.835017
+P:           [-5.7936e-15, +2.07941e-10, +0]
+
+NS1-Mb:      +1.06611
+NS1-Madm_ql: +0.996011
+NS1-S:       -0.011139
+NS1-Chi:     -0.011139
+NS1-Chi_ql:  -0.0112284
+NS1-OmegaS:  +7.04076e-08
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.06611
+NS2-Madm_ql: +0.996011
+NS2-S:       -0.0111534
+NS2-Chi:     -0.0111534
+NS2-Chi_ql:  -0.0112429
+NS2-OmegaS:  +7.038e-08
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 0.0111534, Eq: integ(intS2) / Madm2 / Madm2 = chi2 Dom: 5 Bounday: 1
+DOF / rank = 41323 x 41323 / 420 = 4.06569e+06
+Load and redistrib Jacobian: 270.654 / 269.137 / 271.522 seconds (avg/min/max)
+Inverting the matrix: 176.012 seconds
+Distributing solution: 0.138386 seconds
+=======================================
+Iter:        +2
+Error:       +0.0111534
+Omega:       +0.00610424
+Axis:        -0.0155412
+P:           [+2.77548e-15, -1.28101e-10, +0]
+
+NS1-Mb:      +1.072
+NS1-Madm_ql: +0.992025
+NS1-S:       +4.27389e-06
+NS1-Chi:     +4.27389e-06
+NS1-Chi_ql:  +4.34288e-06
+NS1-OmegaS:  +9.0397e-05
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07201
+NS2-Madm_ql: +0.992023
+NS2-S:       +4.15953e-06
+NS2-Chi:     +4.15953e-06
+NS2-Chi_ql:  +4.22669e-06
+NS2-OmegaS:  +9.0389e-05
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 8.93305e-05, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 420 = 4.06569e+06
+Load and redistrib Jacobian: 270.289 / 269.176 / 271.225 seconds (avg/min/max)
+Inverting the matrix: 179.811 seconds
+Distributing solution: 0.131977 seconds
+=======================================
+Iter:        +3
+Error:       +8.93305e-05
+Omega:       +0.00610424
+Axis:        -2.86337e-06
+P:           [+1.53815e-15, -1.60831e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992257
+NS1-S:       -5.76606e-10
+NS1-Chi:     -5.76606e-10
+NS1-Chi_ql:  -5.85641e-10
+NS1-OmegaS:  +9.14951e-05
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992257
+NS2-S:       -5.83718e-10
+NS2-Chi:     -5.83718e-10
+NS2-Chi_ql:  -5.92864e-10
+NS2-OmegaS:  +9.14951e-05
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 4.07169e-07, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 41323 x 41323 / 420 = 4.06569e+06
+Load and redistrib Jacobian: 270.739 / 269.421 / 271.755 seconds (avg/min/max)
+Inverting the matrix: 180.508 seconds
+Distributing solution: 0.129471 seconds
+=======================================
+Iter:        +4
+Error:       +4.07169e-07
+Omega:       +0.00610424
+Axis:        +5.99473e-09
+P:           [-3.54168e-15, +1.87027e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992257
+NS1-S:       +9.89268e-16
+NS1-Chi:     +9.89268e-16
+NS1-Chi_ql:  +1.00477e-15
+NS1-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992257
+NS2-S:       +7.91231e-16
+NS2-Chi:     +7.91231e-16
+NS2-Chi_ql:  +8.03629e-16
+NS2-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 7.22972e-10, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+=======================================
+Iter:        +5
+Error:       +7.22972e-10
+Omega:       +0.00610424
+Axis:        +5.99473e-09
+P:           [-3.54168e-15, +1.87027e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992257
+NS1-S:       +9.89268e-16
+NS1-Chi:     +9.89268e-16
+NS1-Chi_ql:  +1.00477e-15
+NS1-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992257
+NS2-S:       +7.91231e-16
+NS2-Chi:     +7.91231e-16
+NS2-Chi_ql:  +8.03629e-16
+NS2-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+############################
+Total with mass fixing, chi = 0,0 and q = 1
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00610424
+Axis:        +5.99473e-09
+P:           [-3.54168e-15, +1.87027e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992257
+NS1-S:       +9.89268e-16
+NS1-Chi:     +9.89268e-16
+NS1-Chi_ql:  +1.00477e-15
+NS1-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992257
+NS2-S:       +7.91231e-16
+NS2-Chi:     +7.91231e-16
+NS2-Chi_ql:  +8.03629e-16
+NS2-OmegaS:  +9.14961e-05
+NS-Rs:       +6.71073 +6.71073
+=======================================
+
+Error init = 0.0070808, Eq: firstint Dom: 3 Bounday: -1
+DOF / rank = 48397 x 48397 / 420 = 5.57683e+06
+Load and redistrib Jacobian: 267.286 / 265.467 / 268.437 seconds (avg/min/max)
+Inverting the matrix: 228.146 seconds
+Distributing solution: 0.134552 seconds
+=======================================
+Iter:        +1
+Error:       +0.0070808
+Omega:       +0.00608523
+Axis:        -1.01526e-09
+P:           [-3.18894e-13, -4.26202e-11, +0]
+
+NS1-Mb:      +1.06602
+NS1-Madm_ql: +0.993244
+NS1-S:       +1.6855e-05
+NS1-Chi:     +1.6855e-05
+NS1-Chi_ql:  +1.7085e-05
+NS1-OmegaS:  +1.70201e-05
+NS-Rs:       +6.42834 +6.56405
+
+NS2-Mb:      +1.06602
+NS2-Madm_ql: +0.993244
+NS2-S:       +1.6855e-05
+NS2-Chi:     +1.6855e-05
+NS2-Chi_ql:  +1.7085e-05
+NS2-OmegaS:  +1.70201e-05
+NS-Rs:       +6.42834 +6.56405
+=======================================
+
+Error init = 0.00589782, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 420 = 5.57683e+06
+Load and redistrib Jacobian: 266.296 / 264.476 / 267.604 seconds (avg/min/max)
+Inverting the matrix: 226.214 seconds
+Distributing solution: 0.136755 seconds
+=======================================
+Iter:        +2
+Error:       +0.00589782
+Omega:       +0.00608504
+Axis:        +3.61499e-11
+P:           [+1.75672e-12, +5.79846e-12, +0]
+
+NS1-Mb:      +1.07193
+NS1-Madm_ql: +0.992551
+NS1-S:       +1.36753e-07
+NS1-Chi:     +1.36753e-07
+NS1-Chi_ql:  +1.38813e-07
+NS1-OmegaS:  +1.67679e-05
+NS-Rs:       +6.44952 +6.57551
+
+NS2-Mb:      +1.07193
+NS2-Madm_ql: +0.992551
+NS2-S:       +1.36753e-07
+NS2-Chi:     +1.36753e-07
+NS2-Chi_ql:  +1.38813e-07
+NS2-OmegaS:  +1.67679e-05
+NS-Rs:       +6.44952 +6.57551
+=======================================
+
+Error init = 1.05051e-05, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 420 = 5.57683e+06
+Load and redistrib Jacobian: 266.519 / 264.674 / 267.74 seconds (avg/min/max)
+Inverting the matrix: 230.171 seconds
+Distributing solution: 0.136197 seconds
+=======================================
+Iter:        +3
+Error:       +1.05051e-05
+Omega:       +0.00608508
+Axis:        +2.8779e-11
+P:           [+1.31267e-11, +8.58791e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992493
+NS1-S:       +6.66086e-12
+NS1-Chi:     +6.66086e-12
+NS1-Chi_ql:  +6.76201e-12
+NS1-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992493
+NS2-S:       +6.65548e-12
+NS2-Chi:     +6.65548e-12
+NS2-Chi_ql:  +6.75654e-12
+NS2-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+=======================================
+
+Error init = 6.58344e-08, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 48397 x 48397 / 420 = 5.57683e+06
+Load and redistrib Jacobian: 269.614 / 267.943 / 270.792 seconds (avg/min/max)
+Inverting the matrix: 231.731 seconds
+Distributing solution: 0.318992 seconds
+=======================================
+Iter:        +4
+Error:       +6.58344e-08
+Omega:       +0.00608508
+Axis:        +2.00388e-11
+P:           [+8.63259e-12, +6.15401e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992493
+NS1-S:       +2.08947e-15
+NS1-Chi:     +2.08947e-15
+NS1-Chi_ql:  +2.1212e-15
+NS1-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992493
+NS2-S:       +4.30316e-15
+NS2-Chi:     +4.30316e-15
+NS2-Chi_ql:  +4.36851e-15
+NS2-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+=======================================
+
+Error init = 4.46514e-11, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +5
+Error:       +4.46514e-11
+Omega:       +0.00608508
+Axis:        +2.00388e-11
+P:           [+8.63259e-12, +6.15401e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.992493
+NS1-S:       +2.08947e-15
+NS1-Chi:     +2.08947e-15
+NS1-Chi_ql:  +2.1212e-15
+NS1-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.992493
+NS2-S:       +4.30316e-15
+NS2-Chi:     +4.30316e-15
+NS2-Chi_ql:  +4.36851e-15
+NS2-OmegaS:  +1.68945e-05
+NS-Rs:       +6.44965 +6.57556
+=======================================
+
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+Rmin/max: 
+6.44965 6.57556
+6.44965 6.57556
+Bounds:
+NS1: 3.22483 6.71073 10.3837 
+NS2: 3.22483 6.71073 10.3837 
+xc1: -18
+xc2: 18
+Config File: ./bns_regrid.info
+Fields File: ./bns_regrid.dat
+***************binary info***************
+                 com: 2.00388e-11
+                comy: 5.03354e-13
+            distance: 36
+           ecc_omega: 0.00610424
+        global_omega: 0.00608508
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 11
+                rext: 72
+*****************ns info*****************
+                 chi: 0
+         decay_limit: 18
+                 dim: 3
+             fixed_r: 6.44965
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 1.68945e-05
+             ql_madm: 0.992493
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.22483
+                rmid: 6.71073
+                rout: 10.3837
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+*****************ns info*****************
+                 chi: 0
+         decay_limit: 18
+                 dim: 3
+             fixed_r: 6.44965
+                  hc: 1.16624
+                madm: 1
+                  mb: 1.07192
+      n_inner_shells: 0
+                  nc: 0.00111478
+             nshells: 0
+               omega: 1.68945e-05
+             ql_madm: 0.992493
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.22483
+                rmid: 6.71073
+                rout: 10.3837
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+=================================
+BNS grav input
+Distance: 36
+Omega guess: 0.00608508
+Units: 12.5664
+=================================
+############################
+Total with mass fixing, chi = 0,0 and q = 1
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00608508
+Axis:        +2.00388e-11
+P:           [+8.55815e-12, +6.11006e-12, +0]
+
+NS1-Mb:      +1.0635
+NS1-Madm_ql: +0.99251
+NS1-S:       +3.89339e-06
+NS1-Chi:     +3.89339e-06
+NS1-Chi_ql:  +3.95238e-06
+NS1-OmegaS:  +1.68945e-05
+NS-Rs:       +6.45123 +6.57556
+
+NS2-Mb:      +1.0635
+NS2-Madm_ql: +0.99251
+NS2-S:       +3.89339e-06
+NS2-Chi:     +3.89339e-06
+NS2-Chi_ql:  +3.95238e-06
+NS2-OmegaS:  +1.68945e-05
+NS-Rs:       +6.45123 +6.57556
+=======================================
+
+Error init = 0.00841665, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 91866 x 91866 / 420 = 2.00937e+07
+Load and redistrib Jacobian: 912.339 / 905.224 / 916.398 seconds (avg/min/max)
+Inverting the matrix: 854.455 seconds
+Distributing solution: 0.195422 seconds
+=======================================
+Iter:        +1
+Error:       +0.00841665
+Omega:       +0.00608436
+Axis:        -1.45242e-11
+P:           [+1.18326e-11, -1.61778e-10, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.991009
+NS1-S:       +1.20196e-07
+NS1-Chi:     +1.20196e-07
+NS1-Chi_ql:  +1.22387e-07
+NS1-OmegaS:  +1.6712e-05
+NS-Rs:       +6.46577 +6.58902
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.991009
+NS2-S:       +1.20196e-07
+NS2-Chi:     +1.20196e-07
+NS2-Chi_ql:  +1.22387e-07
+NS2-OmegaS:  +1.6712e-05
+NS-Rs:       +6.46577 +6.58902
+=======================================
+
+Error init = 1.02779e-05, Eq: integvolume(intM) = qlMadm1 Dom: 0 Bounday: -1
+DOF / rank = 91866 x 91866 / 420 = 2.00937e+07
+Load and redistrib Jacobian: 911.644 / 904.462 / 915.796 seconds (avg/min/max)
+Inverting the matrix: 859.186 seconds
+Distributing solution: 0.197186 seconds
+=======================================
+Iter:        +2
+Error:       +1.02779e-05
+Omega:       +0.00608422
+Axis:        -4.27048e-12
+P:           [+7.20729e-12, -8.498e-13, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       +1.95336e-10
+NS1-Chi:     +1.95336e-10
+NS1-Chi_ql:  +1.98934e-10
+NS1-OmegaS:  +1.67188e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       +1.95328e-10
+NS2-Chi:     +1.95328e-10
+NS2-Chi_ql:  +1.98925e-10
+NS2-OmegaS:  +1.67188e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 1.27518e-08, Eq: integvolume(intMb) = Mb2 Dom: 3 Bounday: -1
+DOF / rank = 91866 x 91866 / 420 = 2.00937e+07
+Load and redistrib Jacobian: 901.981 / 894.818 / 906.381 seconds (avg/min/max)
+Inverting the matrix: 854.876 seconds
+Distributing solution: 0.19766 seconds
+=======================================
+Iter:        +3
+Error:       +1.27518e-08
+Omega:       +0.00608422
+Axis:        +3.09952e-11
+P:           [+1.28003e-11, +9.57788e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       -2.70841e-15
+NS1-Chi:     -2.70841e-15
+NS1-Chi_ql:  -2.7583e-15
+NS1-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       -3.43212e-15
+NS2-Chi:     -3.43212e-15
+NS2-Chi_ql:  -3.49533e-15
+NS2-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 1.89306e-11, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +4
+Error:       +1.89306e-11
+Omega:       +0.00608422
+Axis:        +3.09952e-11
+P:           [+1.28003e-11, +9.57788e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       -2.70841e-15
+NS1-Chi:     -2.70841e-15
+NS1-Chi_ql:  -2.7583e-15
+NS1-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       -3.43212e-15
+NS2-Chi:     -3.43212e-15
+NS2-Chi_ql:  -3.49533e-15
+NS2-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+############################
+Py fixing without first integral and fixed omega, chi = 0,0 and q = 1
+with Py BC fixing
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00608422
+Axis:        +3.09952e-11
+P:           [+1.28003e-11, +9.57788e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       -2.70841e-15
+NS1-Chi:     -2.70841e-15
+NS1-Chi_ql:  -2.7583e-15
+NS1-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       -3.43212e-15
+NS2-Chi:     -3.43212e-15
+NS2-Chi_ql:  -3.49533e-15
+NS2-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 1.89306e-11, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +1
+Error:       +1.89306e-11
+Omega:       +0.00608422
+Axis:        +3.09952e-11
+P:           [+1.28003e-11, +9.57788e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       -2.70841e-15
+NS1-Chi:     -2.70841e-15
+NS1-Chi_ql:  -2.7583e-15
+NS1-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       -3.43212e-15
+NS2-Chi:     -3.43212e-15
+NS2-Chi_ql:  -3.49533e-15
+NS2-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+############################
+Eccentricity reduction step with fixed omega, chi = 0,0 and q = 1
+############################
+### Using PN estimate for adot and omega! ###
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.00610424
+Axis:        +3.09952e-11
+P:           [+1.28003e-11, +9.57788e-12, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990916
+NS1-S:       -2.70841e-15
+NS1-Chi:     -2.70841e-15
+NS1-Chi_ql:  -2.7583e-15
+NS1-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990916
+NS2-S:       -3.43212e-15
+NS2-Chi:     -3.43212e-15
+NS2-Chi_ql:  -3.49533e-15
+NS2-OmegaS:  +1.67189e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 3.9729e-05, Eq: eqphi = 0 Dom: 0 Bounday: -1
+DOF / rank = 78499 x 78499 / 420 = 1.46717e+07
+Load and redistrib Jacobian: 918.401 / 913.167 / 921.89 seconds (avg/min/max)
+Inverting the matrix: 630.118 seconds
+Distributing solution: 0.189222 seconds
+=======================================
+Iter:        +1
+Error:       +3.9729e-05
+Omega:       +0.00610424
+Axis:        +3.02122e-07
+P:           [-1.37051e-14, -1.96e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990946
+NS1-S:       -3.15904e-09
+NS1-Chi:     -3.15904e-09
+NS1-Chi_ql:  -3.21703e-09
+NS1-OmegaS:  +1.678e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990946
+NS2-S:       -3.15903e-09
+NS2-Chi:     -3.15903e-09
+NS2-Chi_ql:  -3.21702e-09
+NS2-OmegaS:  +1.678e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 1.4323e-07, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 78499 x 78499 / 420 = 1.46717e+07
+Load and redistrib Jacobian: 916.286 / 911.213 / 919.464 seconds (avg/min/max)
+Inverting the matrix: 636.125 seconds
+Distributing solution: 0.188848 seconds
+=======================================
+Iter:        +2
+Error:       +1.4323e-07
+Omega:       +0.00610424
+Axis:        -1.35037e-10
+P:           [+4.13998e-15, +2.10526e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990946
+NS1-S:       +1.07571e-15
+NS1-Chi:     +1.07571e-15
+NS1-Chi_ql:  +1.09546e-15
+NS1-OmegaS:  +1.67802e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990946
+NS2-S:       -3.5632e-15
+NS2-Chi:     -3.5632e-15
+NS2-Chi_ql:  -3.62861e-15
+NS2-OmegaS:  +1.67802e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+
+Error init = 3.03735e-10, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +3
+Error:       +3.03735e-10
+Omega:       +0.00610424
+Axis:        -1.35037e-10
+P:           [+4.13998e-15, +2.10526e-14, +0]
+
+NS1-Mb:      +1.07192
+NS1-Madm_ql: +0.990946
+NS1-S:       +1.07571e-15
+NS1-Chi:     +1.07571e-15
+NS1-Chi_ql:  +1.09546e-15
+NS1-OmegaS:  +1.67802e-05
+NS-Rs:       +6.46592 +6.58917
+
+NS2-Mb:      +1.07192
+NS2-Madm_ql: +0.990946
+NS2-S:       -3.5632e-15
+NS2-Chi:     -3.5632e-15
+NS2-Chi_ql:  -3.62861e-15
+NS2-OmegaS:  +1.67802e-05
+NS-Rs:       +6.46592 +6.58917
+=======================================
+

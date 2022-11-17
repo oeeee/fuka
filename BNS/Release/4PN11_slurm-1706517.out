@@ -1,0 +1,571 @@
+No dat file associated with : ./initial_bhns_d20q1.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.0013075, 0.001355
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00938
+                madm: 1.4
+                  mb: 1.62815
+      n_inner_shells: 0
+                  nc: 0.00133125
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.33309 6.33309
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.16655 6.33309 9.49964 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.16655
+                rmid: 6.33309
+                rout: 9.49964
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.25783
+                madm: 1.4
+                  mb: 1.55226
+      n_inner_shells: 0
+                  nc: 0.00136693
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.16655
+                rmid: 6.33309
+                rout: 9.49964
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.11.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.25783
+                madm: 1.4
+                  mb: 1.55226
+      n_inner_shells: 0
+                  nc: 0.00136693
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.16655
+                rmid: 6.33309
+                rout: 9.49964
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Solved previously: /home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0157618.togashi.1.4.0.0.11.info
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+Config File: /home/la34cit/fuka//COs/initbh.info
+Fields File: /home/la34cit/fuka//COs/initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 1.4
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.582726
+                rmid: 1.16545
+                rout: 4.66181
+                velx: 0
+                vely: 0
+
+Config File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.1.4.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.1.4.0.0.09.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 1.4
+                mirr: 1.4
+             nshells: 0
+               omega: -7.81299e-18
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.582726
+                rmid: 1.20336
+                rout: 4.66181
+                velx: 0
+                vely: 0
+
+Solved previously: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.1.4.0.0.09.info
+############################
+Binary boost using von Neumann BC
+############################
+Solved previously: /home/la34cit/fuka//COs/converged_BH_BIN_BOOST_20_0.0157618.1.4.0.0.09.info
+/home/la34cit/fuka//COs/converged_NS_BIN_BOOST_20_0.0157618.togashi.1.4.0.0.11.info
+/home/la34cit/fuka//COs/converged_BH_BIN_BOOST_20_0.0157618.1.4.0.0.09.info
+NS-bounds: 3.16655 6.33309 7.5554 
+BH-bounds: 0.582726 1.20336 7.5554 
+outer-bounds: 40 
+xc1: -10
+xc2: 10
+WeightNS: 10, WeightBH: 10
+Config File: ./initbin.info
+Fields File: ./initbin.dat
+***************binary info***************
+                 com: 0
+                comy: 0
+            distance: 20
+           ecc_omega: 0.0157618
+        global_omega: 0.0157618
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 11
+                rext: 40
+*****************ns info*****************
+                 chi: 0
+         decay_limit: 10
+                 dim: 3
+                  hc: 1.25783
+                madm: 1.4
+                  mb: 1.55226
+      n_inner_shells: 0
+                  nc: 0.00136693
+             nshells: 0
+               omega: -4.0939e-26
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.16655
+                rmid: 6.33309
+                rout: 7.5554
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+*****************bh info*****************
+                 chi: 0
+         decay_limit: 10
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 1.4
+                mirr: 1.4
+             nshells: 0
+               omega: 0.0157618
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.582726
+                rmid: 1.20336
+                rout: 7.5554
+                velx: 0
+                vely: 0
+
+=================================
+BHNS grav input
+Distance: 20
+Omega guess: 0.0157618
+Units: 12.5664
+=================================
+############################
+Hydro Rescaling stage using fixed omega, chi = 0,0 and q = 1
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0, +0, +0]
+
+NS-Mb:       +1.47303[+1.55226]
+NS-Madm_ql:  +1.95125[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +2.9e-15
+NS-Chi:      +1.47959e-15[+0]
+NS-qlChi:    +7.61683e-16
+NS-Omega:    -4.0939e-26
+
+BH-Mirr:     +1.3998[+1.4]
+BH-Mch:      +1.3998[+1.4]
+BH-R:        +1.20336
+BH-S:        +8.88151e-15
+BH-Chi:      +4.53269e-15[+0]
+BH-Omega:    +0.0157618
+=======================================
+Error init = 0.551246, Eq: integvolume(intM) = qlMadm1 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3111.51 / 3106.28 / 3115.8 seconds (avg/min/max)
+Inverting the matrix: 1272.83 seconds
+Distributing solution: 0.16954 seconds
+=======================================
+Iter:        +1
+Error:       +0.551246
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [-0.0104456, -0.607259, +0]
+
+NS-Mb:       +1.37297[+1.55226]
+NS-Madm_ql:  +1.65343[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        -0.0989525
+NS-Chi:      -0.050486[+0]
+NS-qlChi:    -0.0361954
+NS-Omega:    +3.32782e-06
+
+BH-Mirr:     +1.3931[+1.4]
+BH-Mch:      +1.39347[+1.4]
+BH-R:        +1.10708
+BH-S:        -0.0889539
+BH-Chi:      -0.0458111[+0]
+BH-Omega:    +0.0142623
+=======================================
+Error init = 0.179299, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3159.5 / 3154.16 / 3163.33 seconds (avg/min/max)
+Inverting the matrix: 1237.6 seconds
+Distributing solution: 0.174806 seconds
+=======================================
+Iter:        +2
+Error:       +0.179299
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.140502, +3.66286, +0]
+
+NS-Mb:       +1.29591[+1.55226]
+NS-Madm_ql:  +0.730759[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        -0.0253592
+NS-Chi:      -0.0129384[+0]
+NS-qlChi:    -0.0474884
+NS-Omega:    -0.0030233
+
+BH-Mirr:     +1.39839[+1.4]
+BH-Mch:      +1.39839[+1.4]
+BH-R:        +1.15309
+BH-S:        -0.00488949
+BH-Chi:      -0.00250039[+0]
+BH-Omega:    +0.0147853
+=======================================
+Error init = 0.256357, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3166.19 / 3160.14 / 3170.25 seconds (avg/min/max)
+Inverting the matrix: 1334.7 seconds
+Distributing solution: 0.169812 seconds
+=======================================
+Iter:        +3
+Error:       +0.256357
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.111944, +1.23254, +0]
+
+NS-Mb:       +1.5595[+1.55226]
+NS-Madm_ql:  +1.26875[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +0.0086618
+NS-Chi:      +0.00441928[+0]
+NS-qlChi:    +0.0053809
+NS-Omega:    +0.000393701
+
+BH-Mirr:     +1.39902[+1.4]
+BH-Mch:      +1.39902[+1.4]
+BH-R:        +1.11836
+BH-S:        -0.001948
+BH-Chi:      -0.000995274[+0]
+BH-Omega:    +0.0140269
+=======================================
+Error init = 0.00723949, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3189.5 / 3183.58 / 3194.1 seconds (avg/min/max)
+Inverting the matrix: 1282.68 seconds
+Distributing solution: 0.193741 seconds
+=======================================
+Iter:        +4
+Error:       +0.00723949
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0914227, +0.128509, +0]
+
+NS-Mb:       +1.55039[+1.55226]
+NS-Madm_ql:  +1.36325[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        -0.000336611
+NS-Chi:      -0.00017174[+0]
+NS-qlChi:    -0.000181123
+NS-Omega:    +0.000517981
+
+BH-Mirr:     +1.39997[+1.4]
+BH-Mch:      +1.39997[+1.4]
+BH-R:        +1.11283
+BH-S:        -0.000231601
+BH-Chi:      -0.000118168[+0]
+BH-Omega:    +0.0137633
+=======================================
+Error init = 0.00187637, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3279.73 / 3274.14 / 3283.89 seconds (avg/min/max)
+Inverting the matrix: 1257.32 seconds
+Distributing solution: 0.194637 seconds
+=======================================
+Iter:        +5
+Error:       +0.00187637
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0913829, +0.0512986, +0]
+
+NS-Mb:       +1.55227[+1.55226]
+NS-Madm_ql:  +1.36859[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +8.96775e-07
+NS-Chi:      +4.57538e-07[+0]
+NS-qlChi:    +4.7878e-07
+NS-Omega:    +0.0005793
+
+BH-Mirr:     +1.4[+1.4]
+BH-Mch:      +1.4[+1.4]
+BH-R:        +1.11249
+BH-S:        -9.2993e-05
+BH-Chi:      -4.74454e-05[+0]
+BH-Omega:    +0.0137491
+=======================================
+Error init = 7.0817e-06, Eq: eqphi = 0 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3284.9 / 3279.63 / 3289.43 seconds (avg/min/max)
+Inverting the matrix: 1281.78 seconds
+Distributing solution: 0.289707 seconds
+=======================================
+Iter:        +6
+Error:       +7.0817e-06
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0907407, +0.0502866, +0]
+
+NS-Mb:       +1.55226[+1.55226]
+NS-Madm_ql:  +1.36863[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        -2.9955e-08
+NS-Chi:      -1.52832e-08[+0]
+NS-qlChi:    -1.59919e-08
+NS-Omega:    +0.00057955
+
+BH-Mirr:     +1.4[+1.4]
+BH-Mch:      +1.4[+1.4]
+BH-R:        +1.11249
+BH-S:        -9.35304e-05
+BH-Chi:      -4.77196e-05[+0]
+BH-Omega:    +0.0137482
+=======================================
+Error init = 8.42631e-08, Eq: eqphi = 0 Dom: 0 Bounday: -1
+DOF / rank = 78398 x 78398 / 100 = 6.14625e+07
+Load and redistrib Jacobian: 3267.56 / 3261.94 / 3271.75 seconds (avg/min/max)
+Inverting the matrix: 1362.19 seconds
+Distributing solution: 0.195812 seconds
+=======================================
+Iter:        +7
+Error:       +8.42631e-08
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0907146, +0.0502645, +0]
+
+NS-Mb:       +1.55226[+1.55226]
+NS-Madm_ql:  +1.36863[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +3.18765e-12
+NS-Chi:      +1.62635e-12[+0]
+NS-qlChi:    +1.70177e-12
+NS-Omega:    +0.00057955
+
+BH-Mirr:     +1.4[+1.4]
+BH-Mch:      +1.4[+1.4]
+BH-R:        +1.11249
+BH-S:        -9.34986e-05
+BH-Chi:      -4.77033e-05[+0]
+BH-Omega:    +0.0137482
+=======================================
+Error init = 2.08786e-11, Eq: integvolume(intMb) = Mb1 Dom: 0 Bounday: -1
+=======================================
+Iter:        +8
+Error:       +2.08786e-11
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0907146, +0.0502645, +0]
+
+NS-Mb:       +1.55226[+1.55226]
+NS-Madm_ql:  +1.36863[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +3.18765e-12
+NS-Chi:      +1.62635e-12[+0]
+NS-qlChi:    +1.70177e-12
+NS-Omega:    +0.00057955
+
+BH-Mirr:     +1.4[+1.4]
+BH-Mch:      +1.4[+1.4]
+BH-R:        +1.11249
+BH-S:        -9.34986e-05
+BH-Chi:      -4.77033e-05[+0]
+BH-Omega:    +0.0137482
+=======================================
+############################################
+TOTAL_BC - Hydrostatic equilibrium stage
+using von Neumann lapse condition on the BH
+############################################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.0157618
+Axis:        +0
+Padm:        [+0.0907146, +0.0502645, +0]
+
+NS-Mb:       +1.55226[+1.55226]
+NS-Madm_ql:  +1.36863[+1.4]
+NS-R:        +6.32656 +6.32656
+NS-S:        +3.18765e-12
+NS-Chi:      +1.62635e-12[+0]
+NS-qlChi:    +1.70177e-12
+NS-Omega:    +0.00057955
+
+BH-Mirr:     +1.4[+1.4]
+BH-Mch:      +1.4[+1.4]
+BH-R:        +1.11249
+BH-S:        -9.34986e-05
+BH-Chi:      -4.77033e-05[+0]
+BH-Omega:    +0.0137482
+=======================================
+Error init = 0.0907146, Eq: integ(intPx) = 0 Dom: 11 Bounday: 1
+DOF / rank = 91768 x 91768 / 100 = 8.42137e+07
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+An MPI communication peer process has unexpectedly disconnected.  This
+usually indicates a failure in the peer process (e.g., a crash or
+otherwise exiting without calling MPI_FINALIZE first).
+
+Although this local MPI process will likely now behave unpredictably
+(it may even hang or crash), the root cause of this problem is the
+failure of the peer -- that is what you need to investigate.  For
+example, there may be a core file that you can examine.  More
+generally: such peer hangups are frequently caused by application bugs
+or other external events.
+
+  Local host: node178
+  Local PID:  28471
+  Peer host:  node206
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: Open MPI failed to TCP connect to a peer MPI process.  This
+should not happen.
+
+Your Open MPI job may now hang or fail.
+
+  Local host: node162
+  PID:        152160
+  Message:    connect() to 192.168.209.206:1025 failed
+  Error:      Operation now in progress (115)
+--------------------------------------------------------------------------
+[warn] Epoll MOD(4) on fd 42 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+[warn] Epoll MOD(1) on fd 42 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+--------------------------------------------------------------------------
+mpirun noticed that process rank 55 with PID 84317 on node node206 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+[node162:152137] 2 more processes have sent help message help-mpi-btl-tcp.txt / peer hung up
+[node162:152137] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+3 total processes killed (some possibly by mpirun during cleanup)

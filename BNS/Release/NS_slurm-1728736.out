@@ -1,0 +1,29 @@
+No dat file associated with : ./initial_ns_w03.info
+Creating a setup based on config file...
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+0.0011175, 0.001165
+Config File: ./initns.info
+Fields File: ./initns.dat
+*****************ns info*****************
+                 chi: 0.1
+                 dim: 3
+                  hc: 1.00023
+                madm: 1.64
+                  mb: 1.8979
+      n_inner_shells: 0
+                  nc: 0.00115906
+             nshells: 0
+               omega: 0.03
+             ql_madm: 1.62
+                qpig: 12.5664
+                 res: 9
+                 rin: 4.28365
+                rmid: 8.5673
+                rout: 17.1346
+             eosfile: poly2_123.6.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+slurmstepd: error: *** JOB 1728736 ON node163 CANCELLED AT 2022-11-10T22:37:01 ***

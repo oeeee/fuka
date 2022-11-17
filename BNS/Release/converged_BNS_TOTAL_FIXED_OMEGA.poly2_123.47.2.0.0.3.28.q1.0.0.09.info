@@ -1,32 +1,33 @@
 binary
 {
-    com 0
-    comy 0
+    com 3.238367854507297e-06
+    comy 5.114547907895732e-09
     distance 47.2
-    ecc_omega 0.0100021748737747
-    global_omega 0.0100021748737747
+    ecc_omega 0.005123526304546966
+    global_omega 0.005123526304546966
     outer_shells 0
     q 1
     qpig 12.56637061435917
-    res 11
-    rext 56
+    res 9
+    rext 94.40000000000001
     ns1
     {
         chi 0
+        decay_limit 23.6
         dim 3
-        hc 1.26
+        hc 1.301713767775171
         madm 1.64
-        mb 1.7745
+        mb 1.774509979345366
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001220524950546809
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 8.656453516226568e-05
+        ql_madm 1.62072853005254
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
+        rin 4.285852607610487
+        rmid 8.57170522680021
+        rout 13.58113681786681
         eosfile poly2_123.6.lorene
         eostype Cold_Table
         h_cut 0
@@ -35,20 +36,21 @@ binary
     ns2
     {
         chi 0
+        decay_limit 23.6
         dim 3
-        hc 1.26
+        hc 1.301713767775171
         madm 1.64
-        mb 1.7745
+        mb 1.774509979345366
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001220524950546809
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 8.656457794036215e-05
+        ql_madm 1.620728527590544
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
+        rin 4.285852607610487
+        rmid 8.57170522680021
+        rout 13.58113681786681
         eosfile poly2_123.6.lorene
         eostype Cold_Table
         h_cut 0
@@ -65,9 +67,9 @@ fields
 }
 stages
 {
-    ecc_red on
+    ecc_red off
     total on
-    total_bc on
+    total_bc off
 }
 sequence_controls
 {
@@ -76,7 +78,7 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off

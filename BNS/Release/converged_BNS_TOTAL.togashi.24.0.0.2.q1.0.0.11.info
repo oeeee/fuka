@@ -1,33 +1,35 @@
 binary
 {
-    com 0
-    comy 0
-    distance 47.2
-    ecc_omega 0.0100021748737747
-    global_omega 0.0100021748737747
+    com 2.254903127522873e-12
+    comy -1.710922792974716e-12
+    distance 24
+    ecc_omega 0.01085948826987562
+    global_omega 0.01080859867150551
     outer_shells 0
     q 1
     qpig 12.56637061435917
     res 11
-    rext 56
+    rext 48
     ns1
     {
         chi 0
+        decay_limit 12
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        fixed_r 6.267071630987528
+        hc 1.166236446511939
+        madm 1
+        mb 1.071917411408232
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001114779074343017
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 4.646432710871808e-05
+        ql_madm 0.9870594156049491
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.133535815493764
+        rmid 6.710728987353644
+        rout 8.459293893204718
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -35,21 +37,23 @@ binary
     ns2
     {
         chi 0
+        decay_limit 12
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        fixed_r 6.2670716309914
+        hc 1.166236446511939
+        madm 1
+        mb 1.071917411408232
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001114779074343017
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 4.646432711157126e-05
+        ql_madm 0.9870594156049471
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.1335358154957
+        rmid 6.710728987353644
+        rout 8.459293893204718
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -76,7 +80,7 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off

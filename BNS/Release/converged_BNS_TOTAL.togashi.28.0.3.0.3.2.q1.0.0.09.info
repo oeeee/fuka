@@ -1,55 +1,57 @@
 binary
 {
-    com 0
-    comy 0
-    distance 47.2
-    ecc_omega 0.0100021748737747
-    global_omega 0.0100021748737747
+    com -4.333670215102269e-12
+    comy -3.781569244084332e-10
+    distance 28
+    ecc_omega 0.008736558108174088
+    global_omega 0.008755718888504354
     outer_shells 0
     q 1
     qpig 12.56637061435917
-    res 11
+    res 9
     rext 56
     ns1
     {
-        chi 0
+        chi 0.3
+        decay_limit 14
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        hc 1.158714035720927
+        madm 1
+        mb 1.06905289954849
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001090537696106466
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 0.01532338312239708
+        ql_madm 0.9901215608408211
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.238113254107067
+        rmid 7.005653280040026
+        rout 9.33710218669335
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
     }
     ns2
     {
-        chi 0
+        chi 0.3
+        decay_limit 14
         dim 3
-        hc 1.26
-        madm 1.64
-        mb 1.7745
+        hc 1.158714035720927
+        madm 1
+        mb 1.06905289954849
         n_inner_shells 0
-        nc 0.00137
+        nc 0.001090537696106466
         nshells 0
-        omega 0
-        ql_madm 1.62
+        omega 0.01532338312240211
+        ql_madm 0.9901215608408143
         qpig 12.56637061435917
         res 11
-        rin 3.1
-        rmid 6.2
-        rout 9.300000000000001
-        eosfile poly2_123.6.lorene
+        rin 3.238113254107067
+        rmid 7.005653280040026
+        rout 9.33710218669335
+        eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -65,9 +67,9 @@ fields
 }
 stages
 {
-    ecc_red on
+    ecc_red off
     total on
-    total_bc on
+    total_bc off
 }
 sequence_controls
 {
@@ -76,7 +78,7 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off

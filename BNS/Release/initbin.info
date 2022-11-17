@@ -2,33 +2,33 @@ binary
 {
     com 0
     comy 0
-    distance 28
-    ecc_omega 0.0100021748737747
-    global_omega 0.0100021748737747
+    distance 47.2
+    ecc_omega 0.005123526304546966
+    global_omega 0.005123526304546966
     outer_shells 0
     q 1
     qpig 12.56637061435917
     res 9
-    rext 56
+    rext 94.40000000000001
     ns1
     {
         chi 0
-        decay_limit 14
+        decay_limit 23.6
         dim 3
-        hc 1.260774648354702
-        madm 1.4
-        mb 1.552551127682681
+        hc 1.301713767775171
+        madm 1.64
+        mb 1.774509979345366
         n_inner_shells 0
-        nc 0.001374047300325078
+        nc 0.001220524950546809
         nshells 0
-        omega -4.420277931311445e-27
-        ql_madm 1.399999999594822
+        omega -6.022289718477876e-21
+        ql_madm 1.640000000614055
         qpig 12.56637061435917
-        res 9
-        rin 3.166546379028575
-        rmid 6.333092758061527
-        rout 8.888728505374351
-        eosfile togashi.lorene
+        res 11
+        rin 4.285852607610487
+        rmid 8.57170522680021
+        rout 13.58113681786681
+        eosfile poly2_123.6.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -36,22 +36,22 @@ binary
     ns2
     {
         chi 0
-        decay_limit 14
+        decay_limit 23.6
         dim 3
-        hc 1.260774648354702
-        madm 1.4
-        mb 1.552551127682681
+        hc 1.301713767775171
+        madm 1.64
+        mb 1.774509979345366
         n_inner_shells 0
-        nc 0.001374047300325078
+        nc 0.001220524950546809
         nshells 0
-        omega -4.420277931311445e-27
-        ql_madm 1.399999999594822
+        omega -6.022289718477876e-21
+        ql_madm 1.640000000614055
         qpig 12.56637061435917
-        res 9
-        rin 3.166546379028575
-        rmid 6.333092758061527
-        rout 8.888728505374351
-        eosfile togashi.lorene
+        res 11
+        rin 4.285852607610487
+        rmid 8.57170522680021
+        rout 13.58113681786681
+        eosfile poly2_123.6.lorene
         eostype Cold_Table
         h_cut 0
         interpolation_pts 2000
@@ -67,9 +67,9 @@ fields
 }
 stages
 {
-    ecc_red on
+    ecc_red off
     total on
-    total_bc on
+    total_bc off
 }
 sequence_controls
 {
