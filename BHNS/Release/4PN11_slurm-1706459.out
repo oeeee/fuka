@@ -1,0 +1,128 @@
+No dat file associated with : ./initial_bhns_d20q1.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+0.0013075, 0.001355
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.00938
+                madm: 1.4
+                  mb: 1.62815
+      n_inner_shells: 0
+                  nc: 0.00133125
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Current: /home/la34cit/fuka//COs/initns.info
+Solved previously: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_NOROT_BC.togashi.1.4.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Config File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 9
+                 rin: 3.03469
+                rmid: 6.06938
+                rout: 12.1388
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+Solved previously: /home/la34cit/fuka//COs/converged_NS_TOTAL_BC.togashi.1.4.0.0.09.info
+Resolution of old space: 9 (r), 9 (theta), 8 (phi)
+Rmin/max: 6.33309 6.33309
+Resolution of new space: 11 (r), 11 (theta), 10 (phi)
+New bounds: : 3.16655 6.33309 9.49964 
+Config File: /home/la34cit/fuka//COs/initns.info
+Fields File: /home/la34cit/fuka//COs/initns.dat
+*****************ns info*****************
+                 chi: 0
+                 dim: 3
+                  hc: 1.26077
+                madm: 1.4
+                  mb: 1.55255
+      n_inner_shells: 0
+                  nc: 0.00137405
+             nshells: 0
+               omega: 0
+             ql_madm: 1.4
+                qpig: 12.5664
+                 res: 11
+                 rin: 3.16655
+                rmid: 6.33309
+                rout: 9.49964
+             eosfile: togashi.lorene
+             eostype: Cold_Table
+               h_cut: 0
+   interpolation_pts: 2000
+
+Last stage: binary_boost
+###################################
+Rotating - with fixed ADM Mass
+###################################
+=======================================
+Iter:        +0
+Error:       +0
+Mb:          +1.56505
+Madm:        +1.39701
+Madm_ql:     +1.39701 [+5.18153e-13]
+Mk:          +1.39793 [+0.000657053]
+R:           +6.33309 +6.33309
+Jadm:        +0
+Chi:         +0 [+0]
+Omega:       +0
+=======================================
+
+Error init = 0.012495, Eq: integvolume(intMb) = Mb Dom: 0 Bounday: -1
+DOF / rank = 24690 x 24690 / 100 = 6.09596e+06
+slurmstepd: error: *** JOB 1706459 ON node162 CANCELLED AT 2022-10-10T16:55:55 ***

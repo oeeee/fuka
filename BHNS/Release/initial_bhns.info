@@ -6,7 +6,7 @@ binary
     ecc_omega 0.007324369925938307
     global_omega 0.007324369925938307
     outer_shells 0
-    q 1
+    q 0.5
     qpig 12.56637061435917
     res 9
     rext 70
@@ -37,8 +37,7 @@ binary
         chi 0
         dim 3
         fixed_lapse 0.3
-        mch 1.4
-        mirr 0.5
+        mch 2.8
         nshells 0
         omega 0
         qpig 12.56637061435917

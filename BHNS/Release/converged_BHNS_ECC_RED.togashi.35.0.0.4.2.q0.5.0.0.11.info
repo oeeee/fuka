@@ -1,33 +1,35 @@
 binary
 {
-    com -5.333333333333334
-    comy 0
-    distance 32
-    ecc_omega 0.009633126773827071
-    global_omega 0.009633126773827071
+    adot -4.605910204081632e-05
+    com -5.851797140967032
+    comy -0.07589328525360846
+    distance 35
+    ecc_omega 0.008541090721985558
+    global_omega 0.008541090721985558
     outer_shells 0
     q 0.5
     qpig 12.56637061435917
-    res 9
-    rext 64
+    res 11
+    rext 70
     ns1
     {
         chi 0
-        decay_limit 16
+        decay_limit 17.5
         dim 3
+        fixed_r 5.761864889405759
         hc 1.257832664526782
         madm 1.4
         mb 1.55226436537596
         n_inner_shells 0
         nc 0.001366927181152144
         nshells 0
-        omega -2.509010240226573e-26
-        ql_madm 1.39999999736294
+        omega 7.861892128631568e-05
+        ql_madm 1.367250069200394
         qpig 12.56637061435917
         res 11
-        rin 3.166546379028576
-        rmid 6.333092758057152
-        rout 9.499639137085728
+        rin 2.840883449079405
+        rmid 5.681766898158811
+        rout 9.788823044203921
         eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
@@ -36,18 +38,19 @@ binary
     bh2
     {
         chi 0
-        decay_limit 16
+        decay_limit 17.5
         dim 3
         fixed_lapse 0.4349360001164506
+        fixed_r 2.30503975176206
         mch 2.8
         mirr 2.8
         nshells 0
-        omega 0.009633126773774469
+        omega 0.00788357572880403
         qpig 12.56637061435917
         res 9
-        rin 1.165452653485952
-        rmid 2.406711327091018
-        rout 9.499639137085728
+        rin 1.156708107864144
+        rmid 2.313416215728288
+        rout 9.788823044203921
         velx 0
         vely 0
     }
@@ -62,7 +65,7 @@ fields
 }
 stages
 {
-    ecc_red off
+    ecc_red on
     total off
     total_bc on
 }
@@ -73,12 +76,12 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off
     resolve off
-    sequences on
+    sequences off
     update_initial off
     use_boosted_co on
     use_fixed_r off

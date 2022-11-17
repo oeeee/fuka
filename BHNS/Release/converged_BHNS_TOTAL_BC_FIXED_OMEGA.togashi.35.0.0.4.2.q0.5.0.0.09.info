@@ -1,19 +1,19 @@
 binary
 {
-    com -5.333333333333334
+    com -5.833333333333334
     comy 0
-    distance 32
-    ecc_omega 0.009633126773827071
-    global_omega 0.009633126773827071
+    distance 35
+    ecc_omega 0.008541056210389078
+    global_omega 0.008541056210389078
     outer_shells 0
     q 0.5
     qpig 12.56637061435917
     res 9
-    rext 64
+    rext 70
     ns1
     {
         chi 0
-        decay_limit 16
+        decay_limit 17.5
         dim 3
         hc 1.257832664526782
         madm 1.4
@@ -21,8 +21,8 @@ binary
         n_inner_shells 0
         nc 0.001366927181152144
         nshells 0
-        omega -2.509010240226573e-26
-        ql_madm 1.39999999736294
+        omega 0.000436973831411665
+        ql_madm 1.370665279395312
         qpig 12.56637061435917
         res 11
         rin 3.166546379028576
@@ -36,13 +36,13 @@ binary
     bh2
     {
         chi 0
-        decay_limit 16
+        decay_limit 17.5
         dim 3
         fixed_lapse 0.4349360001164506
         mch 2.8
         mirr 2.8
         nshells 0
-        omega 0.009633126773774469
+        omega 0.007888941741236182
         qpig 12.56637061435917
         res 9
         rin 1.165452653485952

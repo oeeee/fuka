@@ -1,33 +1,33 @@
 binary
 {
-    com -5.333333333333334
-    comy 0
-    distance 32
-    ecc_omega 0.009633126773827071
-    global_omega 0.009633126773827071
+    com 0.01172261520406674
+    comy -0.09032382901298625
+    distance 28
+    ecc_omega 0.0100021748737747
+    global_omega 0.009729419003253768
     outer_shells 0
-    q 0.5
+    q 1
     qpig 12.56637061435917
-    res 9
-    rext 64
+    res 11
+    rext 56
     ns1
     {
         chi 0
-        decay_limit 16
+        decay_limit 14
         dim 3
-        hc 1.257832664526782
+        hc 1.257832664527507
         madm 1.4
-        mb 1.55226436537596
+        mb 1.552264365378709
         n_inner_shells 0
-        nc 0.001366927181152144
+        nc 0.001366927181153904
         nshells 0
-        omega -2.509010240226573e-26
-        ql_madm 1.39999999736294
+        omega 5.213621631601089e-05
+        ql_madm 1.374833821801229
         qpig 12.56637061435917
         res 11
         rin 3.166546379028576
         rmid 6.333092758057152
-        rout 9.499639137085728
+        rout 8.888728505371434
         eosfile togashi.lorene
         eostype Cold_Table
         h_cut 0
@@ -36,18 +36,18 @@ binary
     bh2
     {
         chi 0
-        decay_limit 16
+        decay_limit 14
         dim 3
-        fixed_lapse 0.4349360001164506
-        mch 2.8
-        mirr 2.8
+        fixed_lapse 0.4349360001164662
+        mch 1.4
+        mirr 1.4
         nshells 0
-        omega 0.009633126773774469
+        omega 0.00883773975346833
         qpig 12.56637061435917
         res 9
-        rin 1.165452653485952
-        rmid 2.406711327091018
-        rout 9.499639137085728
+        rin 0.582726326742976
+        rmid 1.203355663545486
+        rout 8.888728505371434
         velx 0
         vely 0
     }
@@ -62,7 +62,7 @@ fields
 }
 stages
 {
-    ecc_red off
+    ecc_red on
     total off
     total_bc on
 }
@@ -73,12 +73,12 @@ sequence_controls
     co_use_shells off
     corot_binary off
     delete_shift off
-    fixed_bin_omega on
+    fixed_bin_omega off
     fixed_lapse off
     fixed_mb off
     initial_regrid off
     resolve off
-    sequences on
+    sequences off
     update_initial off
     use_boosted_co on
     use_fixed_r off
@@ -86,7 +86,7 @@ sequence_controls
 }
 sequence_settings
 {
-    initial_resolution 9
+    initial_resolution 11
     solver_max_iterations 15
     solver_precision 1e-08
 }
