@@ -1,0 +1,5 @@
+Computation with omega =  0
+Error init = 0.5, Eq: N=n0 Dom: 1 Bounday: 2
+DOF / rank = 2788 x 2788 / 300 = 25909.8
+Block size is 8, consider lowering the number of cores.
+slurmstepd: error: *** JOB 1733056 ON node301 CANCELLED AT 2022-11-15T00:23:22 ***

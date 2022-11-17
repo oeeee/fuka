@@ -2,7 +2,7 @@ binary
 {
     com 0
     comy 0
-    distance 10
+    distance 20
     ecc_omega 0.02799495935918607
     global_omega 0.02799495935918607
     outer_shells 0
@@ -12,10 +12,10 @@ binary
     rext 20
     bh1
     {
-        chi -0.5
+        chi 0
         dim 3
         fixed_lapse 0.3
-        mch 0.1
+        mch 0.5
         mirr 0.5
         nshells 0
         omega 0
@@ -29,10 +29,10 @@ binary
     }
     bh2
     {
-        chi 0.85
+        chi 0
         dim 3
         fixed_lapse 0.3
-        mch 0.9
+        mch 0.5
         mirr 0.5
         nshells 0
         omega 0
@@ -80,7 +80,7 @@ sequence_controls
 }
 sequence_settings
 {
-    initial_resolution 9
+    initial_resolution 11
     solver_max_iterations 15
     solver_precision 1e-08
 }

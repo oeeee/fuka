@@ -1,0 +1,531 @@
+No dat file associated with : ./initial_bbh.info
+Creating a setup based on config file...
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+Config File: /home/la34cit/fuka//COs/initbh.info
+Fields File: /home/la34cit/fuka//COs/initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+Config File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: -6.25718e-17
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.42977
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+Solved previously: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.info
+############################
+Binary boost using von Neumann BC
+############################
+Solved previously: /home/la34cit/fuka//COs/converged_BH_BIN_BOOST_10_0.027995.0.5.0.0.09.info
+Solutions will be stored in: /home/la34cit/fuka//COs/
+Directory will be created if it doesn't exist.
+Config File: /home/la34cit/fuka//COs/initbh.info
+Fields File: /home/la34cit/fuka//COs/initbh.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.3
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.416233
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+Config File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.info
+Fields File: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.dat
+*****************bh info*****************
+                 chi: 0
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: -6.25718e-17
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.208117
+                rmid: 0.42977
+                rout: 1.66493
+                velx: 0
+                vely: 0
+
+Solved previously: /home/la34cit/fuka//COs/converged_BH_TOTAL_BC.0.5.0.0.09.info
+############################
+Binary boost using von Neumann BC
+############################
+Solved previously: /home/la34cit/fuka//COs/converged_BH_BIN_BOOST_10_0.027995.0.5.0.0.09.info
+Solutions will be stored in: ./
+Directory will be created if it doesn't exist.
+Config File: ./initbin.info
+Fields File: ./initbin.dat
+***************binary info***************
+                 com: 0
+                comy: 0
+            distance: 10
+           ecc_omega: 0.027995
+        global_omega: 0.027995
+        outer_shells: 0
+                   q: 1
+                qpig: 12.5664
+                 res: 9
+                rext: 20
+*****************bh info*****************
+                 chi: 0
+         decay_limit: 5
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0.027995
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.214885
+                rmid: 0.42977
+                rout: 1.39076
+                velx: 0
+                vely: 0
+*****************bh info*****************
+                 chi: 0
+         decay_limit: 5
+                 dim: 3
+         fixed_lapse: 0.434936
+                 mch: 0.5
+                mirr: 0.5
+             nshells: 0
+               omega: 0.027995
+                qpig: 12.5664
+                 res: 9
+                 rin: 0.214885
+                rmid: 0.42977
+                rout: 1.39076
+                velx: 0
+                vely: 0
+
+############################
+Total system with v.Neumann BC
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.027995
+Axis:        +0
+P:           [+0, +0, +0]
+
+BH1-Mirr:    +0.499981
+BH1-Mch:     +0.499981
+BH1-R:       +0.42977
+BH1-S:       -3.29578e-16
+BH1-Chi:     -1.31841e-15
+BH1-Omega:   +0.027995
+
+BH2-Mirr:    +0.499981
+BH2-Mch:     +0.499981
+BH2-R:       +0.42977
+BH2-S:       -3.80519e-16
+BH2-Chi:     -1.52219e-15
+BH2-Omega:   +0.027995
+
+=======================================
+Error init = 0.139975, Eq: B^i = N / P^2 * sm^i + ExOme^i Dom: 2 Bounday: 2
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 386.333 / 385.152 / 386.939 seconds (avg/min/max)
+Inverting the matrix: 156.621 seconds
+Distributing solution: 0.209144 seconds
+=======================================
+Iter:        +1
+Error:       +0.139975
+Omega:       +0.027995
+Axis:        +2.20003e-12
+P:           [+0, +0, +0]
+
+BH1-Mirr:    +0.47604
+BH1-Mch:     +0.47604
+BH1-R:       +0.40919
+BH1-S:       -2.9877e-16
+BH1-Chi:     -1.31841e-15
+BH1-Omega:   +0.0263736
+
+BH2-Mirr:    +0.47604
+BH2-Mch:     +0.47604
+BH2-R:       +0.40919
+BH2-S:       -3.44949e-16
+BH2-Chi:     -1.52219e-15
+BH2-Omega:   +0.0263736
+
+=======================================
+Error init = 0.0139092, Eq: eqP     = 0 Dom: 5 Bounday: -1
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 391.164 / 390.33 / 391.806 seconds (avg/min/max)
+Inverting the matrix: 148.764 seconds
+Distributing solution: 0.0912649 seconds
+=======================================
+Iter:        +2
+Error:       +0.0139092
+Omega:       +0.027995
+Axis:        +2.33349e-11
+P:           [+9.573e-14, +8.8845e-14, +0]
+
+BH1-Mirr:    +0.495834
+BH1-Mch:     +0.495834
+BH1-R:       +0.406491
+BH1-S:       -8.44219e-05
+BH1-Chi:     -0.000343386
+BH1-Omega:   +0.0254323
+
+BH2-Mirr:    +0.495834
+BH2-Mch:     +0.495834
+BH2-R:       +0.406491
+BH2-S:       -8.44219e-05
+BH2-Chi:     -0.000343386
+BH2-Omega:   +0.0254323
+
+=======================================
+Error init = 0.000551019, Eq: eqP     = 0 Dom: 5 Bounday: -1
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 385.406 / 384.527 / 386.031 seconds (avg/min/max)
+Inverting the matrix: 145.318 seconds
+Distributing solution: 0.181071 seconds
+=======================================
+Iter:        +3
+Error:       +0.000551019
+Omega:       +0.027995
+Axis:        +1.89318e-13
+P:           [-4.06494e-14, -1.38399e-14, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406505
+BH1-S:       +4.11432e-06
+BH1-Chi:     +1.64573e-05
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406505
+BH2-S:       +4.11432e-06
+BH2-Chi:     +1.64573e-05
+BH2-Omega:   +0.0254278
+
+=======================================
+Error init = 8.08651e-08, Eq: eqNP    = 0 Dom: 5 Bounday: -1
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 405.353 / 404.566 / 405.978 seconds (avg/min/max)
+Inverting the matrix: 142.829 seconds
+Distributing solution: 0.0914547 seconds
+=======================================
+Iter:        +4
+Error:       +8.08651e-08
+Omega:       +0.027995
+Axis:        -5.68044e-13
+P:           [+2.42792e-17, -7.67015e-16, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406505
+BH1-S:       -1.64911e-09
+BH1-Chi:     -6.59642e-09
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406505
+BH2-S:       -1.64911e-09
+BH2-Chi:     -6.59642e-09
+BH2-Omega:   +0.0254278
+
+=======================================
+Error init = 5.53729e-13, Eq: eqP     = 0 Dom: 10 Bounday: -1
+=======================================
+Iter:        +5
+Error:       +5.53729e-13
+Omega:       +0.027995
+Axis:        -5.68044e-13
+P:           [+3.653e-16, +9.24803e-17, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406505
+BH1-S:       -1.91374e-16
+BH1-Chi:     -7.65495e-16
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406505
+BH2-S:       +2.5574e-17
+BH2-Chi:     +1.02296e-16
+BH2-Omega:   +0.0254278
+
+=======================================
+############################
+Total system with v.Neumann BC
+############################
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.027995
+Axis:        -5.68044e-13
+P:           [+3.653e-16, +9.24803e-17, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406505
+BH1-S:       -1.91374e-16
+BH1-Chi:     -7.65495e-16
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406505
+BH2-S:       +2.5574e-17
+BH2-Chi:     +1.02296e-16
+BH2-Omega:   +0.0254278
+
+=======================================
+Error init = 0.0241316, Eq: integ(dn(N) + 2 * dn(P)) = 0 Dom: 11 Bounday: 1
+DOF / rank = 34122 x 34122 / 225 = 5.17472e+06
+Load and redistrib Jacobian: 405.808 / 404.949 / 406.502 seconds (avg/min/max)
+Inverting the matrix: 147.703 seconds
+Distributing solution: 0.0895294 seconds
+=======================================
+Iter:        +1
+Error:       +0.0241316
+Omega:       +0.0291482
+Axis:        -4.50681e-13
+P:           [+3.653e-16, +9.24803e-17, +0]
+
+BH1-Mirr:    +0.499687
+BH1-Mch:     +0.499687
+BH1-R:       +0.406251
+BH1-S:       -1.90929e-16
+BH1-Chi:     -7.64674e-16
+BH1-Omega:   +0.0264713
+
+BH2-Mirr:    +0.499687
+BH2-Mch:     +0.499687
+BH2-R:       +0.406251
+BH2-S:       +2.52699e-17
+BH2-Chi:     +1.01206e-16
+BH2-Omega:   +0.0264713
+
+=======================================
+Error init = 2.88371e-05, Eq: eqNP    = 0 Dom: 5 Bounday: -1
+DOF / rank = 34122 x 34122 / 225 = 5.17472e+06
+Load and redistrib Jacobian: 413.999 / 413.168 / 414.658 seconds (avg/min/max)
+Inverting the matrix: 144.514 seconds
+Distributing solution: 0.0926642 seconds
+=======================================
+Iter:        +2
+Error:       +2.88371e-05
+Omega:       +0.0291241
+Axis:        -7.13375e-13
+P:           [+6.77094e-16, +2.82393e-16, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406251
+BH1-S:       +1.57514e-08
+BH1-Chi:     +6.30055e-08
+BH1-Omega:   +0.0264492
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406251
+BH2-S:       +1.57514e-08
+BH2-Chi:     +6.30055e-08
+BH2-Omega:   +0.0264492
+
+=======================================
+Error init = 1.37639e-08, Eq: eqNP    = 0 Dom: 2 Bounday: -1
+DOF / rank = 34122 x 34122 / 225 = 5.17472e+06
+Load and redistrib Jacobian: 406.86 / 406.213 / 407.497 seconds (avg/min/max)
+Inverting the matrix: 152.702 seconds
+Distributing solution: 0.183433 seconds
+=======================================
+Iter:        +3
+Error:       +1.37639e-08
+Omega:       +0.0291241
+Axis:        -1.24225e-13
+P:           [-4.56004e-17, +3.52807e-16, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406251
+BH1-S:       -2.88884e-13
+BH1-Chi:     -1.15554e-12
+BH1-Omega:   +0.0264492
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406251
+BH2-S:       -2.88969e-13
+BH2-Chi:     -1.15588e-12
+BH2-Omega:   +0.0264492
+
+=======================================
+Error init = 5.38876e-10, Eq: integ(dn(N) + 2 * dn(P)) = 0 Dom: 11 Bounday: 1
+=======================================
+Iter:        +4
+Error:       +5.38876e-10
+Omega:       +0.0291241
+Axis:        -1.24225e-13
+P:           [-1.30588e-16, +5.50539e-16, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406251
+BH1-S:       +4.10664e-17
+BH1-Chi:     +1.64266e-16
+BH1-Omega:   +0.0264492
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406251
+BH2-S:       +1.11707e-16
+BH2-Chi:     +4.46829e-16
+BH2-Omega:   +0.0264492
+
+=======================================
+############################
+Ecc. Reduction - Fixed Omega & Adot
+############################
+############################
+Total system with v.Neumann BC
+############################
+### Using PN estimate for adot and omega! ###
+=======================================
+Iter:        +0
+Error:       +0
+Omega:       +0.027995
+Adot:        -0.000139238
+Axis:        -1.24225e-13
+P:           [-1.30588e-16, +5.50539e-16, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406251
+BH1-S:       +4.10664e-17
+BH1-Chi:     +1.64266e-16
+BH1-Omega:   +0.0264492
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406251
+BH2-S:       +1.11707e-16
+BH2-Chi:     +4.46829e-16
+BH2-Omega:   +0.0264492
+
+=======================================
+Error init = 0.00564568, Eq: B^i = N / P^2 * sm^i + ExOme^i Dom: 2 Bounday: 2
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 417.47 / 416.69 / 418.098 seconds (avg/min/max)
+Inverting the matrix: 145.413 seconds
+Distributing solution: 0.0928809 seconds
+=======================================
+Iter:        +1
+Error:       +0.00564568
+Omega:       +0.027995
+Adot:        -0.000139238
+Axis:        +1.70554e-12
+P:           [-1.30588e-16, +5.50539e-16, +0]
+
+BH1-Mirr:    +0.50041
+BH1-Mch:     +0.50041
+BH1-R:       +0.406584
+BH1-S:       +4.06387e-17
+BH1-Chi:     +1.62288e-16
+BH1-Omega:   +0.0254271
+
+BH2-Mirr:    +0.50041
+BH2-Mch:     +0.50041
+BH2-R:       +0.406584
+BH2-S:       +1.12079e-16
+BH2-Chi:     +4.47582e-16
+BH2-Omega:   +0.0254271
+
+=======================================
+Error init = 2.64555e-05, Eq: eqNP    = 0 Dom: 2 Bounday: -1
+DOF / rank = 34121 x 34121 / 225 = 5.17441e+06
+Load and redistrib Jacobian: 404.936 / 404.095 / 405.58 seconds (avg/min/max)
+Inverting the matrix: 144.351 seconds
+Distributing solution: 0.0929717 seconds
+=======================================
+Iter:        +2
+Error:       +2.64555e-05
+Omega:       +0.027995
+Adot:        -0.000139238
+Axis:        -1.48272e-13
+P:           [-8.94595e-17, -5.04998e-16, +0]
+
+BH1-Mirr:    +0.499993
+BH1-Mch:     +0.499993
+BH1-R:       +0.406578
+BH1-S:       +2.66591e-08
+BH1-Chi:     +1.06639e-07
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.499993
+BH2-Mch:     +0.499993
+BH2-R:       +0.406578
+BH2-S:       +2.66591e-08
+BH2-Chi:     +1.06639e-07
+BH2-Omega:   +0.0254278
+
+=======================================
+Error init = 1.65322e-09, Eq: eqP     = 0 Dom: 2 Bounday: -1
+=======================================
+Iter:        +3
+Error:       +1.65322e-09
+Omega:       +0.027995
+Adot:        -0.000139238
+Axis:        -1.48272e-13
+P:           [+5.67755e-16, +6.36015e-17, +0]
+
+BH1-Mirr:    +0.5
+BH1-Mch:     +0.5
+BH1-R:       +0.406578
+BH1-S:       +1.03402e-12
+BH1-Chi:     +4.13608e-12
+BH1-Omega:   +0.0254278
+
+BH2-Mirr:    +0.5
+BH2-Mch:     +0.5
+BH2-R:       +0.406578
+BH2-S:       +1.0339e-12
+BH2-Chi:     +4.13562e-12
+BH2-Omega:   +0.0254278
+
+=======================================

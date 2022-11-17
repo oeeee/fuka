@@ -1,0 +1,89 @@
+binary
+{
+    adot -4.96887634687361e-05
+    com -4.120382565684078e-12
+    comy -8.531298625508223e-13
+    distance 14
+    ecc_omega 0.01747176716062231
+    global_omega 0.01747176716062231
+    outer_shells 0
+    q 1
+    qpig 12.56637061435917
+    res 9
+    rext 28
+    bh1
+    {
+        chi 0
+        decay_limit 7
+        dim 3
+        fixed_lapse 0.4349360001164324
+        mch 0.5
+        mirr 0.5
+        nshells 0
+        omega 0.01632797735304331
+        qpig 12.56637061435917
+        res 9
+        rin 0.2148849399188426
+        rmid 0.4297698798376864
+        rout 1.39076454583667
+        velx 0
+        vely 0
+    }
+    bh2
+    {
+        chi 0
+        decay_limit 7
+        dim 3
+        fixed_lapse 0.4349360001164324
+        mch 0.5
+        mirr 0.5
+        nshells 0
+        omega 0.01632797735304312
+        qpig 12.56637061435917
+        res 9
+        rin 0.2148849399188426
+        rmid 0.4297698798376864
+        rout 1.39076454583667
+        velx 0
+        vely 0
+    }
+}
+fields
+{
+    conf on
+    lapse on
+    shift on
+}
+stages
+{
+    corot_equal off
+    ecc_red on
+    fixed_omega off
+    pre off
+    total off
+    total_bc on
+}
+sequence_controls
+{
+    centralized_cos on
+    checkpoint off
+    co_use_shells off
+    corot_binary off
+    delete_shift off
+    fixed_bin_omega off
+    fixed_lapse off
+    fixed_mb off
+    initial_regrid off
+    resolve off
+    sequences off
+    update_initial off
+    use_boosted_co on
+    use_fixed_r off
+    use_pn off
+}
+sequence_settings
+{
+    initial_resolution 9
+    solver_max_iterations 15
+    solver_precision 1e-08
+}

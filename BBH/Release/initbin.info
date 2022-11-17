@@ -1,48 +1,48 @@
 binary
 {
-    com -4
+    com 2
     comy 0
-    distance 10
-    ecc_omega 0.02763529043547387
-    global_omega 0.02763529043547387
+    distance 12
+    ecc_omega 0.02167710810993732
+    global_omega 0.02167710810993732
     outer_shells 0
-    q 9
+    q 0.5
     qpig 12.56637061435917
     res 9
-    rext 20
+    rext 24
     bh1
     {
-        chi -0.5
-        decay_limit 5
+        chi 0
+        decay_limit 6
         dim 3
-        fixed_lapse 0.4116063327800832
-        mch 0.1
-        mirr 0.09659258262890684
-        nshells 2
-        omega 1.410846954849176
+        fixed_lapse 0.4349360001164474
+        mch 0.66666666666666
+        mirr 0.66666666666666
+        nshells 0
+        omega 0.02167710810981849
         qpig 12.56637061435917
         res 9
-        rin 0.04067043688863469
-        rmid 0.0777016280141809
-        rout 1.535685499177963
+        rin 0.2865132532251136
+        rmid 0.5730265064502261
+        rout 1.854352727782153
         velx 0
         vely 0
     }
     bh2
     {
-        chi 0.85
-        decay_limit 5
+        chi 0
+        decay_limit 6
         dim 3
-        fixed_lapse 0.3210135928913602
-        mch 0.9
-        mirr 0.7863504234724287
+        fixed_lapse 0.4349360001164367
+        mch 0.33333333333333
+        mirr 0.33333333333333
         nshells 0
-        omega -0.3193513686766145
+        omega 0.02167710810981871
         qpig 12.56637061435917
         res 9
-        rin 0.2875533426083601
-        rmid 0.4745529172611651
-        rout 1.535685499177963
+        rin 0.1432566266125593
+        rmid 0.2865132532251179
+        rout 1.854352727782153
         velx 0
         vely 0
     }
